@@ -7,6 +7,8 @@ Scripts, configuration files and small result tables for:
 > **A chromosome-level genome of the king penguin (*Aptenodytes patagonicus*): a resource for linking
 > genotype to fitness in a long-lived vertebrate.** *Journal of Heredity*, in press.
 
+<p align="center"><img src="docs/pen-se-guin.png" width="800" alt="Pen/Se-guin, the king penguin genome"></p>
+
 'Pen/Se-guin' (bAptPat1) is a haplotype-resolved, chromosome-level assembly of an adult female king penguin
 from Possession Island (Crozet), built from PacBio Revio HiFi reads (58.5 Gb) and Arima Hi-C data (126 Gb),
 curated with the Sanger Tree of Life tools, and annotated with BRAKER3 using multi-tissue RNA-seq.
