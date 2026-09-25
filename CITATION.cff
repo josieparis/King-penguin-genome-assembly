@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this code or these annotation files, please cite the paper and the archived repository."
+title: "King penguin genome assembly and annotation - analysis code and annotation files"
+type: software
+version: "1.0.0"
+date-released: "2026-09-25"
+repository-code: "https://github.com/josieparis/King-penguin-genome-assembly"
+license: MIT
+authors:
+  - family-names: Paris
+    given-names: Josephine R.
+    affiliation: "Department of Life and Environmental Sciences, Marche Polytechnic University, Ancona, Italy"
+  - family-names: Nitta Fernandes
+    given-names: "Flávia A."
+    affiliation: "Marche Polytechnic University; Université de Strasbourg, CNRS, IPHC; University of Helsinki"
+  - family-names: Santos
+    given-names: Camilla A.
+    affiliation: "Tree of Life, Wellcome Sanger Institute, Hinxton, UK"
+  - family-names: Pointon
+    given-names: Damon-Lee B.
+    affiliation: "Tree of Life, Wellcome Sanger Institute, Hinxton, UK"
+  - family-names: Wood
+    given-names: Jonathan M. D.
+    affiliation: "Tree of Life, Wellcome Sanger Institute, Hinxton, UK"
+  - family-names: Ferrer Obiol
+    given-names: Joan
+    affiliation: "Dipartimento di Scienze e Politiche Ambientali, Università degli Studi di Milano, Italy"
+  - family-names: Salces-Ortiz
+    given-names: Judit
+    affiliation: "Institute of Evolutionary Biology (CSIC-UPF), Barcelona, Spain"
+  - family-names: Fernández
+    given-names: Rosa
+    affiliation: "Institute of Evolutionary Biology (CSIC-UPF), Barcelona, Spain"
+  - family-names: Cristofari
+    given-names: Robin
+    affiliation: "Institute of Biotechnology, University of Helsinki, Finland"
+  - family-names: Le Bohec
+    given-names: Céline
+    affiliation: "Université de Strasbourg, CNRS, IPHC; CEFE, Université de Montpellier; Centre Scientifique de Monaco"
+  - family-names: Trucchi
+    given-names: Emiliano
+    affiliation: "Department of Life and Environmental Sciences, Marche Polytechnic University, Ancona, Italy"
+preferred-citation:
+  type: article
+  title: "A chromosome-level genome of the king penguin (Aptenodytes patagonicus): a resource for linking genotype to fitness in a long-lived vertebrate"
+  journal: "Journal of Heredity"
+  year: 2026
+  authors:
+    - family-names: Paris
+      given-names: Josephine R.
+    - family-names: Nitta Fernandes
+      given-names: "Flávia A."
+    - family-names: Santos
+      given-names: Camilla A.
+    - family-names: Pointon
+      given-names: Damon-Lee B.
+    - family-names: Wood
+      given-names: Jonathan M. D.
+    - family-names: Ferrer Obiol
+      given-names: Joan
+    - family-names: Salces-Ortiz
+      given-names: Judit
+    - family-names: Fernández
+      given-names: Rosa
+    - family-names: Cristofari
+      given-names: Robin
+    - family-names: Le Bohec
+      given-names: Céline
+    - family-names: Trucchi
+      given-names: Emiliano
