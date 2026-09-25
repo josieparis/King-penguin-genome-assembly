@@ -11,3 +11,6 @@
 *.gz
 *.delta
 *.jf
+
+# released annotation files are tracked despite the data-file patterns above
+!annotation/*

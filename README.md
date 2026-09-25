@@ -22,7 +22,7 @@ curated with the Sanger Tree of Life tools, and annotated with BRAKER3 using mul
 | Multi-tissue RNA-seq and QuantSeq (Paris et al. 2025) | ENA [PRJEB64484](https://www.ebi.ac.uk/ena/browser/view/PRJEB64484) |
 | DNA methylation, 64 birds (Cristofari et al. 2026) | [PRJNA1187342](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1187342) |
 | Illumina WGS used for the short-read mitogenome | BioSample SAMN40942370 |
-| Annotation files (GFF3/GTF, proteins, repeats, ncRNA, lncRNA) | GitHub [josieparis/King-penguin-genome-annotation](https://github.com/josieparis/King-penguin-genome-annotation) · Zenodo [10.5281/zenodo.15021483](https://doi.org/10.5281/zenodo.15021483) |
+| Annotation files (GFF3/GTF, proteins, repeats, ncRNA, lncRNA) | [`annotation/`](annotation/) in this repository · archived on Zenodo [10.5281/zenodo.15021483](https://doi.org/10.5281/zenodo.15021483) |
 | Previous draft assembly compared in the paper | BGI_Apat.V1, [GCA_010087175.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_010087175.1/) (Pan et al. 2019) |
 
 ## Provenance — please read
@@ -60,6 +60,7 @@ finish that process are in `04_hic_scaffolding/` and `05_manual_curation/`.
 10_ncRNA_annotation/     Infernal/Rfam, RNAmmer, tRNAscan-SE (+ S. humboldti), novel lncRNA pipeline
 11_expression_quantseq/  bbduk, STAR, HTSeq, DESeq2 PCA and tissue-enhanced genes, expression bins (Figure 2)
 12_figures/              Circos configuration and track preparation (Figure 1, Figure 2C)
+annotation/              released annotation files (gene models, proteins, repeats, ncRNA, lncRNA)
 docs/                    software versions and parameters (Table 1)
 ```
 

@@ -10,5 +10,4 @@ Annotations < 100 bp were removed.
 Result: 238 consensus sequences; 16.3 % of the genome repetitive, LINEs 5.6 %
 (`results/earlgrey_v2.highLevelCount.txt`, `results/earlgrey_v2.summary.txt`; Supplementary Table 7).
 Outputs: `filteredRepeats.bed/.gff`, `families.fa.strained`, `familyLevelCount.txt`, landscapes, and the
-**soft-masked genome** used for gene annotation (`bAptPat1.softmasked.fasta`); all released in the annotation
-repository.
+**soft-masked genome** used for gene annotation (`bAptPat1.softmasked.fasta`); all in [`annotation/`](../annotation/).

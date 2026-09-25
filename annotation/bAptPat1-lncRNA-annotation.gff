@@ -1,0 +1,248 @@
+SUPER_1	est2genome	cDNA_match	732896	734358	2770	-	.	ID=match1;aligned_identity=96.9
+SUPER_1	est2genome	cDNA_match_part	732896	733427	2770	-	.	ID=match1.p1;Parent=match1;Target=lncRNA_01_length_1419 888 1419
+SUPER_1	est2genome	cDNA_match_part	733472	734358	2770	-	.	ID=match1.p1;Parent=match1;Target=lncRNA_01_length_1419 1 887
+SUPER_1	est2genome	cDNA_match	11047077	11047377	602	+	.	ID=match2;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	11047077	11047377	602	+	.	ID=match2.p1;Parent=match2;Target=lncRNA_02_length_327 27 327
+SUPER_1	est2genome	cDNA_match	14528136	14528822	1374	-	.	ID=match3;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	14528136	14528822	1374	-	.	ID=match3.p1;Parent=match3;Target=lncRNA_03_length_1123 437 1123
+SUPER_1	est2genome	cDNA_match	21034680	21034913	468	+	.	ID=match4;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	21034680	21034913	468	+	.	ID=match4.p1;Parent=match4;Target=lncRNA_04_length_433 1 234
+SUPER_1	est2genome	cDNA_match	61480611	61481937	2372	+	.	ID=match5;aligned_identity=93.1
+SUPER_1	est2genome	cDNA_match_part	61480611	61481020	2372	+	.	ID=match5.p1;Parent=match5;Target=lncRNA_06_length_1241 1 410
+SUPER_1	est2genome	cDNA_match_part	61481107	61481937	2372	+	.	ID=match5.p1;Parent=match5;Target=lncRNA_06_length_1241 411 1241
+SUPER_1	est2genome	cDNA_match	76378654	76379630	1954	-	.	ID=match6;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	76378654	76379630	1954	-	.	ID=match6.p1;Parent=match6;Target=lncRNA_07_length_1079 103 1079
+SUPER_1	est2genome	cDNA_match	77268125	77268452	656	+	.	ID=match7;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	77268125	77268452	656	+	.	ID=match7.p1;Parent=match7;Target=lncRNA_08_length_364 37 364
+SUPER_1	est2genome	cDNA_match	95003322	95003580	518	+	.	ID=match8;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	95003322	95003580	518	+	.	ID=match8.p1;Parent=match8;Target=lncRNA_09_length_597 68 326
+SUPER_1	est2genome	cDNA_match	123111214	123111553	670	-	.	ID=match9;aligned_identity=99.7
+SUPER_1	est2genome	cDNA_match_part	123111214	123111553	670	-	.	ID=match9.p1;Parent=match9;Target=lncRNA_10_length_375 36 375
+SUPER_1	est2genome	cDNA_match	133924587	133925071	970	-	.	ID=match10;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	133924587	133925071	970	-	.	ID=match10.p1;Parent=match10;Target=lncRNA_11_length_1091 1 485
+SUPER_1	est2genome	cDNA_match	137517416	137518985	3140	+	.	ID=match11;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	137517416	137518985	3140	+	.	ID=match11.p1;Parent=match11;Target=lncRNA_12_length_1621 52 1621
+SUPER_1	est2genome	cDNA_match	181750355	181752234	3760	-	.	ID=match12;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	181750355	181752234	3760	-	.	ID=match12.p1;Parent=match12;Target=lncRNA_13_length_2096 217 2096
+SUPER_1	est2genome	cDNA_match	194802685	194802907	446	-	.	ID=match13;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	194802685	194802907	446	-	.	ID=match13.p1;Parent=match13;Target=lncRNA_14_length_270 1 223
+SUPER_1	est2genome	cDNA_match	197676345	197677233	1778	+	.	ID=match14;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	197676345	197677233	1778	+	.	ID=match14.p1;Parent=match14;Target=lncRNA_15_length_1257 369 1257
+SUPER_1	est2genome	cDNA_match	226400340	226401093	1508	+	.	ID=match15;aligned_identity=100.0
+SUPER_1	est2genome	cDNA_match_part	226400340	226401093	1508	+	.	ID=match15.p1;Parent=match15;Target=lncRNA_16_length_1301 548 1301
+SUPER_2	est2genome	cDNA_match	8232247	8232669	846	-	.	ID=match16;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	8232247	8232669	846	-	.	ID=match16.p1;Parent=match16;Target=lncRNA_17_length_814 1 423
+SUPER_2	est2genome	cDNA_match	23778785	23780678	3788	-	.	ID=match17;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	23778785	23780678	3788	-	.	ID=match17.p1;Parent=match17;Target=lncRNA_18_length_2082 189 2082
+SUPER_2	est2genome	cDNA_match	30561276	30561608	666	+	.	ID=match18;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	30561276	30561608	666	+	.	ID=match18.p1;Parent=match18;Target=lncRNA_19_length_868 1 333
+SUPER_2	est2genome	cDNA_match	39220831	39221121	582	+	.	ID=match19;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	39220831	39221121	582	+	.	ID=match19.p1;Parent=match19;Target=lncRNA_20_length_346 1 291
+SUPER_2	est2genome	cDNA_match	42648606	42648917	624	+	.	ID=match20;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	42648606	42648917	624	+	.	ID=match20.p1;Parent=match20;Target=lncRNA_21_length_585 1 312
+SUPER_2	est2genome	cDNA_match	65488793	65489036	488	+	.	ID=match21;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	65488793	65489036	488	+	.	ID=match21.p1;Parent=match21;Target=lncRNA_22_length_293 50 293
+SUPER_2	est2genome	cDNA_match	107662078	107662400	646	+	.	ID=match22;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	107662078	107662400	646	+	.	ID=match22.p1;Parent=match22;Target=lncRNA_23_length_729 162 484
+SUPER_2	est2genome	cDNA_match	120172280	120172521	484	-	.	ID=match23;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	120172280	120172521	484	-	.	ID=match23.p1;Parent=match23;Target=lncRNA_24_length_379 138 379
+SUPER_2	est2genome	cDNA_match	155169480	155170161	1364	+	.	ID=match24;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	155169480	155170161	1364	+	.	ID=match24.p1;Parent=match24;Target=lncRNA_25_length_783 102 783
+SUPER_2	est2genome	cDNA_match	170390470	170390721	504	-	.	ID=match25;aligned_identity=100.0
+SUPER_2	est2genome	cDNA_match_part	170390470	170390721	504	-	.	ID=match25.p1;Parent=match25;Target=lncRNA_26_length_467 1 252
+SUPER_3	est2genome	cDNA_match	13782585	13782742	316	-	.	ID=match26;aligned_identity=100.0
+SUPER_3	est2genome	cDNA_match_part	13782585	13782742	316	-	.	ID=match26.p1;Parent=match26;Target=lncRNA_27_length_326 103 260
+SUPER_3	est2genome	cDNA_match	13931962	13932306	690	-	.	ID=match27;aligned_identity=100.0
+SUPER_3	est2genome	cDNA_match_part	13931962	13932306	690	-	.	ID=match27.p1;Parent=match27;Target=lncRNA_28_length_864 520 864
+SUPER_3	est2genome	cDNA_match	54716521	54716941	842	-	.	ID=match28;aligned_identity=100.0
+SUPER_3	est2genome	cDNA_match_part	54716521	54716941	842	-	.	ID=match28.p1;Parent=match28;Target=lncRNA_29_length_518 98 518
+SUPER_3	est2genome	cDNA_match	110594477	110595289	1626	-	.	ID=match29;aligned_identity=100.0
+SUPER_3	est2genome	cDNA_match_part	110594477	110595289	1626	-	.	ID=match29.p1;Parent=match29;Target=lncRNA_32_length_867 1 813
+SUPER_3	est2genome	cDNA_match	120984690	120985032	686	+	.	ID=match30;aligned_identity=100.0
+SUPER_3	est2genome	cDNA_match_part	120984690	120985032	686	+	.	ID=match30.p1;Parent=match30;Target=lncRNA_33_length_582 240 582
+SUPER_4	est2genome	cDNA_match	7202964	7203392	858	-	.	ID=match31;aligned_identity=100.0
+SUPER_4	est2genome	cDNA_match_part	7202964	7203392	858	-	.	ID=match31.p1;Parent=match31;Target=lncRNA_36_length_950 522 950
+SUPER_4	est2genome	cDNA_match	51547605	51547778	348	-	.	ID=match32;aligned_identity=100.0
+SUPER_4	est2genome	cDNA_match_part	51547605	51547778	348	-	.	ID=match32.p1;Parent=match32;Target=lncRNA_37_length_252 1 174
+SUPER_4	est2genome	cDNA_match	72253273	72253539	534	-	.	ID=match33;aligned_identity=100.0
+SUPER_4	est2genome	cDNA_match_part	72253273	72253539	534	-	.	ID=match33.p1;Parent=match33;Target=lncRNA_38_length_297 31 297
+SUPER_4	est2genome	cDNA_match	83177260	83178712	2906	+	.	ID=match34;aligned_identity=100.0
+SUPER_4	est2genome	cDNA_match_part	83177260	83178712	2906	+	.	ID=match34.p1;Parent=match34;Target=lncRNA_39_length_2626 1174 2626
+SUPER_4	est2genome	cDNA_match	86499833	86499997	330	+	.	ID=match35;aligned_identity=100.0
+SUPER_4	est2genome	cDNA_match_part	86499833	86499997	330	+	.	ID=match35.p1;Parent=match35;Target=lncRNA_40_length_278 114 278
+SUPER_5	est2genome	cDNA_match	1963028	1963212	370	+	.	ID=match36;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	1963028	1963212	370	+	.	ID=match36.p1;Parent=match36;Target=lncRNA_41_length_371 187 371
+SUPER_5	est2genome	cDNA_match	7872769	7873136	736	+	.	ID=match37;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	7872769	7873136	736	+	.	ID=match37.p1;Parent=match37;Target=lncRNA_42_length_577 210 577
+SUPER_5	est2genome	cDNA_match	11108555	11109261	1414	-	.	ID=match38;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	11108555	11109261	1414	-	.	ID=match38.p1;Parent=match38;Target=lncRNA_43_length_1038 332 1038
+SUPER_5	est2genome	cDNA_match	29200269	29200786	1036	+	.	ID=match39;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	29200269	29200786	1036	+	.	ID=match39.p1;Parent=match39;Target=lncRNA_44_length_702 185 702
+SUPER_5	est2genome	cDNA_match	42354013	42354324	624	-	.	ID=match40;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	42354013	42354324	624	-	.	ID=match40.p1;Parent=match40;Target=lncRNA_45_length_694 383 694
+SUPER_5	est2genome	cDNA_match	50951886	50952705	1612	+	.	ID=match41;aligned_identity=99.5
+SUPER_5	est2genome	cDNA_match_part	50951886	50952705	1612	+	.	ID=match41.p1;Parent=match41;Target=lncRNA_46_length_823 1 823
+SUPER_5	est2genome	cDNA_match	53822901	53823670	1540	-	.	ID=match42;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	53822901	53823670	1540	-	.	ID=match42.p1;Parent=match42;Target=lncRNA_47_length_999 230 999
+SUPER_5	est2genome	cDNA_match	61332067	61332454	776	-	.	ID=match43;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	61332067	61332454	776	-	.	ID=match43.p1;Parent=match43;Target=lncRNA_48_length_851 1 388
+SUPER_5	est2genome	cDNA_match	68227328	68227634	614	+	.	ID=match44;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	68227328	68227634	614	+	.	ID=match44.p1;Parent=match44;Target=lncRNA_49_length_349 43 349
+SUPER_5	est2genome	cDNA_match	68652630	68652857	456	+	.	ID=match45;aligned_identity=100.0
+SUPER_5	est2genome	cDNA_match_part	68652630	68652857	456	+	.	ID=match45.p1;Parent=match45;Target=lncRNA_50_length_258 31 258
+SUPER_6	est2genome	cDNA_match	6816224	6816456	466	+	.	ID=match46;aligned_identity=100.0
+SUPER_6	est2genome	cDNA_match_part	6816224	6816456	466	+	.	ID=match46.p1;Parent=match46;Target=lncRNA_52_length_268 1 233
+SUPER_6	est2genome	cDNA_match	10955676	10956359	1368	-	.	ID=match47;aligned_identity=100.0
+SUPER_6	est2genome	cDNA_match_part	10955676	10956359	1368	-	.	ID=match47.p1;Parent=match47;Target=lncRNA_53_length_725 42 725
+SUPER_6	est2genome	cDNA_match	21331874	21332157	568	+	.	ID=match48;aligned_identity=100.0
+SUPER_6	est2genome	cDNA_match_part	21331874	21332157	568	+	.	ID=match48.p1;Parent=match48;Target=lncRNA_54_length_341 58 341
+SUPER_6	est2genome	cDNA_match	52624192	52624432	482	+	.	ID=match49;aligned_identity=100.0
+SUPER_6	est2genome	cDNA_match_part	52624192	52624432	482	+	.	ID=match49.p1;Parent=match49;Target=lncRNA_55_length_259 1 241
+SUPER_6	est2genome	cDNA_match	53055466	53055749	568	-	.	ID=match50;aligned_identity=100.0
+SUPER_6	est2genome	cDNA_match_part	53055466	53055749	568	-	.	ID=match50.p1;Parent=match50;Target=lncRNA_56_length_335 1 284
+SUPER_7	est2genome	cDNA_match	1551645	1551837	386	-	.	ID=match51;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	1551645	1551837	386	-	.	ID=match51.p1;Parent=match51;Target=lncRNA_60_length_356 164 356
+SUPER_7	est2genome	cDNA_match	8046259	8046477	438	-	.	ID=match52;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	8046259	8046477	438	-	.	ID=match52.p1;Parent=match52;Target=lncRNA_61_length_346 1 219
+SUPER_7	est2genome	cDNA_match	11462649	11463088	880	-	.	ID=match53;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	11462649	11463088	880	-	.	ID=match53.p1;Parent=match53;Target=lncRNA_62_length_458 19 458
+SUPER_7	est2genome	cDNA_match	15615618	15615955	676	+	.	ID=match54;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	15615618	15615955	676	+	.	ID=match54.p1;Parent=match54;Target=lncRNA_63_length_573 236 573
+SUPER_7	est2genome	cDNA_match	20094249	20094923	1182	+	.	ID=match55;aligned_identity=92.3
+SUPER_7	est2genome	cDNA_match_part	20094249	20094628	1182	+	.	ID=match55.p1;Parent=match55;Target=lncRNA_64_length_627 1 380
+SUPER_7	est2genome	cDNA_match_part	20094677	20094923	1182	+	.	ID=match55.p1;Parent=match55;Target=lncRNA_64_length_627 381 627
+SUPER_7	est2genome	cDNA_match	23445730	23446703	1948	+	.	ID=match56;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	23445730	23446703	1948	+	.	ID=match56.p1;Parent=match56;Target=lncRNA_65_length_1471 498 1471
+SUPER_7	est2genome	cDNA_match	29948890	29949519	1260	+	.	ID=match57;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	29948890	29949519	1260	+	.	ID=match57.p1;Parent=match57;Target=lncRNA_66_length_668 1 630
+SUPER_7	est2genome	cDNA_match	38180919	38181442	1048	-	.	ID=match58;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	38180919	38181442	1048	-	.	ID=match58.p1;Parent=match58;Target=lncRNA_67_length_994 1 524
+SUPER_7	est2genome	cDNA_match	41244682	41244830	298	-	.	ID=match59;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	41244682	41244830	298	-	.	ID=match59.p1;Parent=match59;Target=lncRNA_68_length_318 1 149
+SUPER_7	est2genome	cDNA_match	58846887	58847085	398	+	.	ID=match60;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	58846887	58847085	398	+	.	ID=match60.p1;Parent=match60;Target=lncRNA_69_length_270 1 199
+SUPER_7	est2genome	cDNA_match	66902970	66903314	690	+	.	ID=match61;aligned_identity=100.0
+SUPER_7	est2genome	cDNA_match_part	66902970	66903314	690	+	.	ID=match61.p1;Parent=match61;Target=lncRNA_70_length_468 124 468
+SUPER_8	est2genome	cDNA_match	11615388	11615778	782	-	.	ID=match62;aligned_identity=100.0
+SUPER_8	est2genome	cDNA_match_part	11615388	11615778	782	-	.	ID=match62.p1;Parent=match62;Target=lncRNA_71_length_686 296 686
+SUPER_8	est2genome	cDNA_match	24949644	24951566	3846	-	.	ID=match63;aligned_identity=100.0
+SUPER_8	est2genome	cDNA_match_part	24949644	24951566	3846	-	.	ID=match63.p1;Parent=match63;Target=lncRNA_72_length_1982 60 1982
+SUPER_9	est2genome	cDNA_match	2749132	2749381	500	-	.	ID=match64;aligned_identity=100.0
+SUPER_9	est2genome	cDNA_match_part	2749132	2749381	500	-	.	ID=match64.p1;Parent=match64;Target=lncRNA_73_length_424 1 250
+SUPER_9	est2genome	cDNA_match	9580880	9581049	340	+	.	ID=match65;aligned_identity=100.0
+SUPER_9	est2genome	cDNA_match_part	9580880	9581049	340	+	.	ID=match65.p1;Parent=match65;Target=lncRNA_74_length_262 1 170
+SUPER_9	est2genome	cDNA_match	16334907	16335515	1218	+	.	ID=match66;aligned_identity=100.0
+SUPER_9	est2genome	cDNA_match_part	16334907	16335515	1218	+	.	ID=match66.p1;Parent=match66;Target=lncRNA_75_length_863 255 863
+SUPER_9	est2genome	cDNA_match	16418376	16418561	372	+	.	ID=match67;aligned_identity=100.0
+SUPER_9	est2genome	cDNA_match_part	16418376	16418561	372	+	.	ID=match67.p1;Parent=match67;Target=lncRNA_76_length_263 1 186
+SUPER_9	est2genome	cDNA_match	17226756	17227255	1000	-	.	ID=match68;aligned_identity=100.0
+SUPER_9	est2genome	cDNA_match_part	17226756	17227255	1000	-	.	ID=match68.p1;Parent=match68;Target=lncRNA_77_length_772 273 772
+SUPER_9	est2genome	cDNA_match	24296887	24297188	604	-	.	ID=match69;aligned_identity=100.0
+SUPER_9	est2genome	cDNA_match_part	24296887	24297188	604	-	.	ID=match69.p1;Parent=match69;Target=lncRNA_78_length_364 63 364
+SUPER_10	est2genome	cDNA_match	1339339	1340081	1486	+	.	ID=match70;aligned_identity=100.0
+SUPER_10	est2genome	cDNA_match_part	1339339	1340081	1486	+	.	ID=match70.p1;Parent=match70;Target=lncRNA_79_length_795 53 795
+SUPER_10	est2genome	cDNA_match	10566287	10566945	1318	-	.	ID=match71;aligned_identity=100.0
+SUPER_10	est2genome	cDNA_match_part	10566287	10566945	1318	-	.	ID=match71.p1;Parent=match71;Target=lncRNA_80_length_685 1 659
+SUPER_10	est2genome	cDNA_match	14035248	14035544	594	+	.	ID=match72;aligned_identity=100.0
+SUPER_10	est2genome	cDNA_match_part	14035248	14035544	594	+	.	ID=match72.p1;Parent=match72;Target=lncRNA_81_length_576 280 576
+SUPER_11	est2genome	cDNA_match	10839125	10839442	636	+	.	ID=match73;aligned_identity=100.0
+SUPER_11	est2genome	cDNA_match_part	10839125	10839442	636	+	.	ID=match73.p1;Parent=match73;Target=lncRNA_82_length_570 253 570
+SUPER_11	est2genome	cDNA_match	24348461	24348871	822	-	.	ID=match74;aligned_identity=100.0
+SUPER_11	est2genome	cDNA_match_part	24348461	24348871	822	-	.	ID=match74.p1;Parent=match74;Target=lncRNA_83_length_521 1 411
+SUPER_12	est2genome	cDNA_match	45529	45752	448	-	.	ID=match75;aligned_identity=100.0
+SUPER_12	est2genome	cDNA_match_part	45529	45752	448	-	.	ID=match75.p1;Parent=match75;Target=lncRNA_85_length_536 313 536
+SUPER_12	est2genome	cDNA_match	1899567	1899783	434	-	.	ID=match76;aligned_identity=100.0
+SUPER_12	est2genome	cDNA_match_part	1899567	1899783	434	-	.	ID=match76.p1;Parent=match76;Target=lncRNA_86_length_268 52 268
+SUPER_12	est2genome	cDNA_match	18848488	18849075	1176	-	.	ID=match77;aligned_identity=100.0
+SUPER_12	est2genome	cDNA_match_part	18848488	18849075	1176	-	.	ID=match77.p1;Parent=match77;Target=lncRNA_87_length_727 140 727
+SUPER_13	est2genome	cDNA_match	3547109	3548438	2660	-	.	ID=match78;aligned_identity=100.0
+SUPER_13	est2genome	cDNA_match_part	3547109	3548438	2660	-	.	ID=match78.p1;Parent=match78;Target=lncRNA_89_length_1449 120 1449
+SUPER_13	est2genome	cDNA_match	10866228	10867067	1680	+	.	ID=match79;aligned_identity=100.0
+SUPER_13	est2genome	cDNA_match_part	10866228	10867067	1680	+	.	ID=match79.p1;Parent=match79;Target=lncRNA_90_length_1389 1 840
+SUPER_14	est2genome	cDNA_match	5961417	5961795	758	+	.	ID=match80;aligned_identity=100.0
+SUPER_14	est2genome	cDNA_match_part	5961417	5961795	758	+	.	ID=match80.p1;Parent=match80;Target=lncRNA_91_length_601 1 379
+SUPER_15	est2genome	cDNA_match	10273857	10274329	946	+	.	ID=match81;aligned_identity=100.0
+SUPER_15	est2genome	cDNA_match_part	10273857	10274329	946	+	.	ID=match81.p1;Parent=match81;Target=lncRNA_92_length_913 441 913
+SUPER_16	est2genome	cDNA_match	7778521	7778781	522	+	.	ID=match82;aligned_identity=100.0
+SUPER_16	est2genome	cDNA_match_part	7778521	7778781	522	+	.	ID=match82.p1;Parent=match82;Target=lncRNA_93_length_430 1 261
+SUPER_17	est2genome	cDNA_match	7827600	7827732	266	-	.	ID=match83;aligned_identity=100.0
+SUPER_17	est2genome	cDNA_match_part	7827600	7827732	266	-	.	ID=match83.p1;Parent=match83;Target=lncRNA_94_length_227 95 227
+SUPER_17	est2genome	cDNA_match	12825623	12826042	840	-	.	ID=match84;aligned_identity=100.0
+SUPER_17	est2genome	cDNA_match_part	12825623	12826042	840	-	.	ID=match84.p1;Parent=match84;Target=lncRNA_96_length_794 375 794
+SUPER_18	est2genome	cDNA_match	6754660	6754997	676	-	.	ID=match85;aligned_identity=100.0
+SUPER_18	est2genome	cDNA_match_part	6754660	6754997	676	-	.	ID=match85.p1;Parent=match85;Target=lncRNA_98_length_362 1 338
+SUPER_18	est2genome	cDNA_match	10128385	10128868	968	+	.	ID=match86;aligned_identity=100.0
+SUPER_18	est2genome	cDNA_match_part	10128385	10128868	968	+	.	ID=match86.p1;Parent=match86;Target=lncRNA_99_length_1013 530 1013
+SUPER_19	est2genome	cDNA_match	2843628	2844248	1242	-	.	ID=match87;aligned_identity=100.0
+SUPER_19	est2genome	cDNA_match_part	2843628	2844248	1242	-	.	ID=match87.p1;Parent=match87;Target=lncRNA_100_length_959 339 959
+SUPER_19	est2genome	cDNA_match	7727732	7728843	2224	-	.	ID=match88;aligned_identity=100.0
+SUPER_19	est2genome	cDNA_match_part	7727732	7728843	2224	-	.	ID=match88.p1;Parent=match88;Target=lncRNA_101_length_1218 1 1112
+SUPER_20	est2genome	cDNA_match	925097	925215	238	-	.	ID=match89;aligned_identity=100.0
+SUPER_20	est2genome	cDNA_match_part	925097	925215	238	-	.	ID=match89.p1;Parent=match89;Target=lncRNA_102_length_284 1 119
+SUPER_20	est2genome	cDNA_match	1093434	1093633	400	-	.	ID=match90;aligned_identity=100.0
+SUPER_20	est2genome	cDNA_match_part	1093434	1093633	400	-	.	ID=match90.p1;Parent=match90;Target=lncRNA_103_length_340 141 340
+SUPER_20	est2genome	cDNA_match	1852825	1853100	552	+	.	ID=match91;aligned_identity=100.0
+SUPER_20	est2genome	cDNA_match_part	1852825	1853100	552	+	.	ID=match91.p1;Parent=match91;Target=lncRNA_104_length_340 65 340
+SUPER_21	est2genome	cDNA_match	31079	31978	1800	-	.	ID=match92;aligned_identity=100.0
+SUPER_21	est2genome	cDNA_match_part	31079	31978	1800	-	.	ID=match92.p1;Parent=match92;Target=lncRNA_105_length_1092 193 1092
+SUPER_22	est2genome	cDNA_match	1382300	1382502	406	-	.	ID=match93;aligned_identity=100.0
+SUPER_22	est2genome	cDNA_match_part	1382300	1382502	406	-	.	ID=match93.p1;Parent=match93;Target=lncRNA_106_length_399 197 399
+SUPER_22	est2genome	cDNA_match	5710678	5710884	414	-	.	ID=match94;aligned_identity=100.0
+SUPER_22	est2genome	cDNA_match_part	5710678	5710884	414	-	.	ID=match94.p1;Parent=match94;Target=lncRNA_107_length_314 108 314
+SUPER_22	est2genome	cDNA_match	6178792	6179453	1324	-	.	ID=match95;aligned_identity=100.0
+SUPER_22	est2genome	cDNA_match_part	6178792	6179453	1324	-	.	ID=match95.p1;Parent=match95;Target=lncRNA_108_length_886 225 886
+SUPER_23	est2genome	cDNA_match	1477722	1477928	414	-	.	ID=match96;aligned_identity=100.0
+SUPER_23	est2genome	cDNA_match_part	1477722	1477928	414	-	.	ID=match96.p1;Parent=match96;Target=lncRNA_109_length_317 111 317
+SUPER_25	est2genome	cDNA_match	1378005	1378387	766	-	.	ID=match97;aligned_identity=100.0
+SUPER_25	est2genome	cDNA_match_part	1378005	1378387	766	-	.	ID=match97.p1;Parent=match97;Target=lncRNA_110_length_531 149 531
+SUPER_25	est2genome	cDNA_match	5217279	5217498	440	-	.	ID=match98;aligned_identity=100.0
+SUPER_25	est2genome	cDNA_match_part	5217279	5217498	440	-	.	ID=match98.p1;Parent=match98;Target=lncRNA_111_length_340 1 220
+SUPER_26	est2genome	cDNA_match	105183	106706	3048	-	.	ID=match99;aligned_identity=100.0
+SUPER_26	est2genome	cDNA_match_part	105183	106706	3048	-	.	ID=match99.p1;Parent=match99;Target=lncRNA_112_length_1936 413 1936
+SUPER_27	est2genome	cDNA_match	702569	703325	1514	-	.	ID=match100;aligned_identity=100.0
+SUPER_27	est2genome	cDNA_match_part	702569	703325	1514	-	.	ID=match100.p1;Parent=match100;Target=lncRNA_113_length_834 1 757
+SUPER_27	est2genome	cDNA_match	2396892	2397066	350	-	.	ID=match101;aligned_identity=100.0
+SUPER_27	est2genome	cDNA_match_part	2396892	2397066	350	-	.	ID=match101.p1;Parent=match101;Target=lncRNA_114_length_343 1 175
+SUPER_29	est2genome	cDNA_match	2138129	2138405	554	-	.	ID=match102;aligned_identity=100.0
+SUPER_29	est2genome	cDNA_match_part	2138129	2138405	554	-	.	ID=match102.p1;Parent=match102;Target=lncRNA_121_length_325 49 325
+SUPER_30	est2genome	cDNA_match	594094	594783	1380	+	.	ID=match103;aligned_identity=100.0
+SUPER_30	est2genome	cDNA_match_part	594094	594783	1380	+	.	ID=match103.p1;Parent=match103;Target=lncRNA_122_length_770 81 770
+SUPER_30	est2genome	cDNA_match	778347	779135	1344	+	.	ID=match104;aligned_identity=90.3
+SUPER_30	est2genome	cDNA_match_part	778347	778626	1344	+	.	ID=match104.p1;Parent=match104;Target=lncRNA_123_length_719 1 280
+SUPER_30	est2genome	cDNA_match_part	778697	779135	1344	+	.	ID=match104.p1;Parent=match104;Target=lncRNA_123_length_719 281 719
+SUPER_31	est2genome	cDNA_match	195023	195283	522	+	.	ID=match105;aligned_identity=100.0
+SUPER_31	est2genome	cDNA_match_part	195023	195283	522	+	.	ID=match105.p1;Parent=match105;Target=lncRNA_124_length_522 1 261
+SUPER_Z	est2genome	cDNA_match	20849605	20850008	808	+	.	ID=match106;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	20849605	20850008	808	+	.	ID=match106.p1;Parent=match106;Target=lncRNA_129_length_614 211 614
+SUPER_Z	est2genome	cDNA_match	44114666	44115018	706	+	.	ID=match107;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	44114666	44115018	706	+	.	ID=match107.p1;Parent=match107;Target=lncRNA_130_length_451 99 451
+SUPER_Z	est2genome	cDNA_match	52752822	52753120	598	+	.	ID=match108;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	52752822	52753120	598	+	.	ID=match108.p1;Parent=match108;Target=lncRNA_131_length_405 84 382
+SUPER_Z	est2genome	cDNA_match	72869471	72869696	452	-	.	ID=match109;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	72869471	72869696	452	-	.	ID=match109.p1;Parent=match109;Target=lncRNA_133_length_792 310 535
+SUPER_Z	est2genome	cDNA_match	72869472	72869696	450	-	.	ID=match110;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	72869472	72869696	450	-	.	ID=match110.p1;Parent=match110;Target=lncRNA_132_length_707 310 534
+SUPER_Z	est2genome	cDNA_match	84233522	84233796	550	+	.	ID=match111;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	84233522	84233796	550	+	.	ID=match111.p1;Parent=match111;Target=lncRNA_134_length_472 198 472
+SUPER_Z	est2genome	cDNA_match	84904220	84904785	1132	+	.	ID=match112;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	84904220	84904785	1132	+	.	ID=match112.p1;Parent=match112;Target=lncRNA_135_length_657 92 657
+SUPER_Z	est2genome	cDNA_match	86035152	86035351	400	+	.	ID=match113;aligned_identity=100.0
+SUPER_Z	est2genome	cDNA_match_part	86035152	86035351	400	+	.	ID=match113.p1;Parent=match113;Target=lncRNA_136_length_338 139 338
+SUPER_W	est2genome	cDNA_match	33854	34067	428	-	.	ID=match114;aligned_identity=100.0
+SUPER_W	est2genome	cDNA_match_part	33854	34067	428	-	.	ID=match114.p1;Parent=match114;Target=lncRNA_137_length_399 186 399
+scaffold_60	est2genome	cDNA_match	465	1154	1380	-	.	ID=match115;aligned_identity=100.0
+scaffold_60	est2genome	cDNA_match_part	465	1154	1380	-	.	ID=match115.p1;Parent=match115;Target=lncRNA_141_length_733 1 690
+scaffold_60	est2genome	cDNA_match	2500	2731	464	-	.	ID=match116;aligned_identity=100.0
+scaffold_60	est2genome	cDNA_match_part	2500	2731	464	-	.	ID=match116.p1;Parent=match116;Target=lncRNA_142_length_579 1 232
+scaffold_74	est2genome	cDNA_match	518617	518875	492	+	.	ID=match117;aligned_identity=99.2
+scaffold_74	est2genome	cDNA_match_part	518617	518875	492	+	.	ID=match117.p1;Parent=match117;Target=lncRNA_145_length_258 1 258
+scaffold_443	est2genome	cDNA_match	34072	34301	460	+	.	ID=match118;aligned_identity=100.0
+scaffold_443	est2genome	cDNA_match_part	34072	34301	460	+	.	ID=match118.p1;Parent=match118;Target=lncRNA_165_length_611 344 573
+scaffold_465	est2genome	cDNA_match	2414	4018	3030	+	.	ID=match119;aligned_identity=96.7
+scaffold_465	est2genome	cDNA_match_part	2414	2455	3030	+	.	ID=match119.p1;Parent=match119;Target=lncRNA_166_length_1557 5 46
+scaffold_465	est2genome	cDNA_match_part	2508	4018	3030	+	.	ID=match119.p1;Parent=match119;Target=lncRNA_166_length_1557 47 1557
+scaffold_465	est2genome	cDNA_match	9697	10295	861	-	.	ID=match120;aligned_identity=90.3
+scaffold_465	est2genome	cDNA_match_part	9697	9861	861	-	.	ID=match120.p1;Parent=match120;Target=lncRNA_167_length_577 417 576
+scaffold_465	est2genome	cDNA_match_part	9879	10295	861	-	.	ID=match120.p1;Parent=match120;Target=lncRNA_167_length_577 1 416
+scaffold_572	est2genome	cDNA_match	2789	3141	706	+	.	ID=match121;aligned_identity=100.0
+scaffold_572	est2genome	cDNA_match_part	2789	3141	706	+	.	ID=match121.p1;Parent=match121;Target=lncRNA_169_length_523 171 523

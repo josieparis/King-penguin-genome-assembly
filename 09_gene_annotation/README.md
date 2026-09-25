@@ -18,4 +18,4 @@ Ensembl 113 concatenated into `Vertebrata.fa` (Supplementary Table 4). Genome = 
 
 Results (Table 2): 18,081 genes / 27,306 transcripts; 17,081 genes with a functional annotation (94.5 %),
 15,142 with a description, 14,433 with a gene name, 12,916 with GO terms; mono:multi-exon ratio 0.162.
-Gene models were also inspected in IGV 2.16. Released files: see the annotation repository.
+Gene models were also inspected in IGV 2.16. Released files: [`annotation/`](../annotation/).
