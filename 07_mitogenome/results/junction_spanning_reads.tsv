@@ -1,0 +1,7 @@
+Junction	Left position	Right position	Minimum flank (bp)	Spanning reads
+CYTB / duplicated block copy 1	14804	14805	1000	20
+CYTB / duplicated block copy 1	14804	14805	2000	16
+CYTB / duplicated block copy 1	14804	14805	5000	6
+Copy 1 / copy 2	17967	17968	1000	21
+Copy 1 / copy 2	17967	17968	2000	14
+Copy 1 / copy 2	17967	17968	5000	9

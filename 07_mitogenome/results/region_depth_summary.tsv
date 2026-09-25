@@ -1,0 +1,7 @@
+Region	Start	End	Length (bp)	Mean depth	Median depth	Min depth	Max depth	Mean depth relative to single-copy region
+Single-copy region (trnF-CYTB)	1	14804	14804	28.4	29.0	21	37	1.00
+Duplicated block, copy 1 (trnT-CR1)	14805	17967	3163	21.3	22.0	19	23	0.75
+control region, copy 1	15577	17967	2391	21.1	21.0	19	23	0.74
+Duplicated block, copy 2 (trnT-CR2)	17968	20520	2553	29.3	30.0	23	32	1.03
+control region, copy 2	18740	20520	1781	30.5	30.0	29	32	1.07
+Whole mitogenome	1	20520	20520	27.4	28.0	19	37	0.96

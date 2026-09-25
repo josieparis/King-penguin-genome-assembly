@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    hap2_yahs.final.raw
+# contigs (>= 0 bp)         733                
+# contigs (>= 1000 bp)      733                
+# contigs (>= 5000 bp)      710                
+# contigs (>= 10000 bp)     705                
+# contigs (>= 25000 bp)     667                
+# contigs (>= 50000 bp)     494                
+Total length (>= 0 bp)      1365489750         
+Total length (>= 1000 bp)   1365489750         
+Total length (>= 5000 bp)   1365447750         
+Total length (>= 10000 bp)  1365413750         
+Total length (>= 25000 bp)  1364701582         
+Total length (>= 50000 bp)  1358302973         
+# contigs                   717                
+Largest contig              223808988          
+Total length                1365470750         
+GC (%)                      43.98              
+N50                         86475413           
+N90                         3225000            
+auN                         100158471.6        
+L50                         5                  
+L90                         29                 
+# N's per 100 kbp           1.79               

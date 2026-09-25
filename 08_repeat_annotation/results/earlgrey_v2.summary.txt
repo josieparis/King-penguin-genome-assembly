@@ -1,0 +1,159 @@
+#1. Number of repeats (by class) before and after merge
+=============================================================
+repeat class	no. before merge	no. after merge
+Simple_repeat	256591	253990
+Low_complexity	47675	46909
+LINE/CR1	169712	159646
+LTR/ERVL	40929	37880
+LTR/ERV1	11178	10353
+Unknown	142794	130217
+LTR/ERV	840	751
+DNA	14962	13628
+LTR/ERV3	7602	6667
+LTR/ERV?	1038	923
+Satellite	5699	5414
+LINE/L2	6645	6359
+LINE/R2	2403	2370
+DNA/hAT-Charlie	2083	2041
+SINE/Deu	2923	2887
+DNA/hAT-Tag1	193	193
+LINE/Penelope	2757	2647
+LINE/L1-Tx1	134	132
+DNA/PIF-Harbinger	20944	20529
+LINE/L1	237	225
+DNA/hAT	1867	1838
+LTR/ERVK	3933	3635
+DNA/PiggyBac?	1888	1774
+RC/Helitron	970	964
+SINE/MIR	10194	10163
+DNA/hAT-hAT6	3012	2979
+DNA?	4026	3871
+DNA/TcMar-Pogo	164	163
+DNA/TcMar-Tigger	501	492
+SINE/SINE	379	379
+Satellite/macro	507	499
+DNA/DNA?	410	407
+SINE/5S-Deu-L2	705	703
+SINE/tRNA-CR1	137	130
+LINE/CR1?	72	72
+LINE/RTE-BovB	214	211
+LTR?	553	541
+DNA/hAT?	168	167
+LTR/Gypsy	981	945
+SINE/tRNA-Deu	270	270
+DNA/hAT-Blackjack	607	603
+DNA/hAT-Ac	646	622
+DNA/Kolobok	77	77
+LTR/ERV4	963	922
+DNA/TcMar?	298	284
+RC/Helitron?	113	112
+DNA/Crypton	123	121
+Non-LTR/R2	21	19
+DNA/Maverick	567	445
+LTR/?	116	114
+Other/DNA_virus	156	155
+LTR/ERV2	137	107
+DNA/Merlin	76	72
+SINE/U	21	21
+LTR/Ngaro	139	139
+SINE/LFSINE	98	98
+DNA/hAT-Tip100?	43	43
+DNA/Crypton-A	47	47
+LINEN/Penelope?	42	42
+SINE/ID	158	155
+DNA/hAT-hobo	42	40
+LINE/RTE-RTE	44	38
+DNA/DNA	21	21
+SINE?	5	5
+RCN/Helitron?	38	36
+Tc1-Mariner/Tigger	3	3
+SINE/5S	11	11
+LTR/ERVL?	125	119
+Satellite/W-chromosome	134	133
+SINE/tRNA-Ceph-RTE	18	18
+DNA/TcMar-Mariner	3	3
+DNA/hAT-hAT19	2	2
+LTR/ERVK?	5	5
+SINE	8	8
+Satellite/centr	2	2
+DNA/hAT-hATx	2	2
+
+
+#2. Number of repeats (by class) merged by TEgroup and LTRgroup
+=============================================================
+Simple_repeat	256591	
+Low_complexity	47675	
+LINE/CR1	169712	
+LTR/ERVL	40929	40929
+LTR/ERV1	11178	11178
+Unknown	142794	
+LTR/ERV	840	840
+DNA	14962	
+LTR/ERV3	7602	7602
+LTR/ERV?	1038	1038
+Satellite	5699	
+LINE/L2	6645	
+LINE/R2	2403	
+DNA/hAT-Charlie	2083	
+SINE/Deu	2923	
+DNA/hAT-Tag1	193	
+LINE/Penelope	2757	
+LINE/L1-Tx1	134	
+DNA/PIF-Harbinger	20944	
+LINE/L1	237	
+DNA/hAT	1867	
+LTR/ERVK	3933	3933
+DNA/PiggyBac?	1888	
+RC/Helitron	970	
+SINE/MIR	10194	
+DNA/hAT-hAT6	3012	
+DNA?	4026	
+DNA/TcMar-Pogo	164	
+DNA/TcMar-Tigger	501	
+SINE/SINE	379	
+Satellite/macro	507	
+DNA/DNA?	410	
+SINE/5S-Deu-L2	705	
+SINE/tRNA-CR1	137	
+LINE/CR1?	72	
+LINE/RTE-BovB	214	
+LTR?	553	553
+DNA/hAT?	168	
+LTR/Gypsy	981	981
+SINE/tRNA-Deu	270	
+DNA/hAT-Blackjack	607	
+DNA/hAT-Ac	646	
+DNA/Kolobok	77	
+LTR/ERV4	963	963
+DNA/TcMar?	298	
+RC/Helitron?	113	
+DNA/Crypton	123	
+Non-LTR/R2	21	21
+DNA/Maverick	567	
+LTR/?	116	116
+Other/DNA_virus	156	
+LTR/ERV2	137	137
+DNA/Merlin	76	
+SINE/U	21	
+LTR/Ngaro	139	139
+SINE/LFSINE	98	
+DNA/hAT-Tip100?	43	
+DNA/Crypton-A	47	
+LINEN/Penelope?	42	
+SINE/ID	158	
+DNA/hAT-hobo	42	
+LINE/RTE-RTE	44	
+DNA/DNA	21	
+SINE?	5	
+RCN/Helitron?	38	
+Tc1-Mariner/Tigger	3	
+SINE/5S	11	
+LTR/ERVL?	125	125
+Satellite/W-chromosome	134	
+SINE/tRNA-Ceph-RTE	18	
+DNA/TcMar-Mariner	3	
+DNA/hAT-hAT19	2	
+LTR/ERVK?	5	5
+SINE	8	
+Satellite/centr	2	
+DNA/hAT-hATx	2	

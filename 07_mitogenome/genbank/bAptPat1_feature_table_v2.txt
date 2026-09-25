@@ -1,0 +1,174 @@
+>Feature sequence [organism=Aptenodytes patagonicus] Aptenodytes patagonicus mitochondrion, complete genome
+1	69	gene
+			gene	tRNA-Phe
+1	69	tRNA
+			product	tRNA-Phe
+69	1046	gene
+			gene	rrnS
+69	1046	rRNA
+			product	12S ribosomal RNA
+1046	1117	gene
+			gene	tRNA-Val
+1046	1117	tRNA
+			product	tRNA-Val
+1140	2692	gene
+			gene	rrnL
+1140	2692	rRNA
+			product	16S ribosomal RNA
+2715	2788	gene
+			gene	tRNA-Leu
+2715	2788	tRNA
+			product	tRNA-Leu
+2794	3771	gene
+			gene	ND1
+2794	3771	CDS
+			product	NADH dehydrogenase subunit 1
+3770	3841	gene
+			gene	tRNA-Ile
+3770	3841	tRNA
+			product	tRNA-Ile
+3922	3852	gene
+			gene	tRNA-Gln
+3922	3852	tRNA
+			product	tRNA-Gln
+3922	3990	gene
+			gene	tRNA-Met
+3922	3990	tRNA
+			product	tRNA-Met
+3991	5031	gene
+			gene	ND2
+3991	5031	CDS
+			product	NADH dehydrogenase subunit 2
+5030	5101	gene
+			gene	tRNA-Trp
+5030	5101	tRNA
+			product	tRNA-Trp
+5171	5103	gene
+			gene	tRNA-Ala
+5171	5103	tRNA
+			product	tRNA-Ala
+5246	5174	gene
+			gene	tRNA-Asn
+5246	5174	tRNA
+			product	tRNA-Asn
+5317	5250	gene
+			gene	tRNA-Cys
+5317	5250	tRNA
+			product	tRNA-Cys
+5387	5318	gene
+			gene	tRNA-Tyr
+5387	5318	tRNA
+			product	tRNA-Tyr
+5389	6939	gene
+			gene	COX1
+5389	6939	CDS
+			product	cytochrome c oxidase subunit I
+7006	6931	gene
+			gene	tRNA-Ser
+7006	6931	tRNA
+			product	tRNA-Ser
+7010	7078	gene
+			gene	tRNA-Asp
+7010	7078	tRNA
+			product	tRNA-Asp
+7082	7765	gene
+			gene	COX2
+7082	7765	CDS
+			product	cytochrome c oxidase subunit II
+7767	7836	gene
+			gene	tRNA-Lys
+7767	7836	tRNA
+			product	tRNA-Lys
+7838	8005	gene
+			gene	ATP8
+7838	8005	CDS
+			product	ATPase subunit 8
+7996	8679	gene
+			gene	ATP6
+7996	8679	CDS
+			product	ATPase subunit 6
+8679	9462	gene
+			gene	COX3
+8679	9462	CDS
+			product	cytochrome c oxidase subunit III
+			transl_except	(pos:9462,aa:TERM)
+			note	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+9463	9531	gene
+			gene	tRNA-Gly
+9463	9531	tRNA
+			product	tRNA-Gly
+9532	9883	gene
+			gene	ND3
+9532	9704	CDS
+9706	9883
+			product	NADH dehydrogenase subunit 3
+			exception	ribosomal slippage
+			note	one nucleotide (position 9705) is not translated; reading frame restored by a translational frameshift characteristic of avian ND3
+9888	9956	gene
+			gene	tRNA-Arg
+9888	9956	tRNA
+			product	tRNA-Arg
+9958	10254	gene
+			gene	ND4L
+9958	10254	CDS
+			product	NADH dehydrogenase subunit 4L
+10248	11630	gene
+			gene	ND4
+10248	11630	CDS
+			product	NADH dehydrogenase subunit 4
+11630	11699	gene
+			gene	tRNA-His
+11630	11699	tRNA
+			product	tRNA-His
+11700	11765	gene
+			gene	tRNA-Ser
+11700	11765	tRNA
+			product	tRNA-Ser
+11765	11835	gene
+			gene	tRNA-Leu
+11765	11835	tRNA
+			product	tRNA-Leu
+11836	13653	gene
+			gene	ND5
+11836	13653	CDS
+			product	NADH dehydrogenase subunit 5
+13659	14801	gene
+			gene	CYTB
+13659	14801	CDS
+			product	cytochrome b
+14805	14874	gene
+			gene	tRNA-Thr
+14805	14874	tRNA
+			product	tRNA-Thr
+14956	14887	gene
+			gene	tRNA-Pro
+14956	14887	tRNA
+			product	tRNA-Pro
+15502	14982	gene
+			gene	ND6
+			pseudogene	unprocessed
+			note	degenerate duplicate copy of ND6 within the duplicated control-region block; not translated
+15576	15506	gene
+			gene	tRNA-Glu
+15576	15506	tRNA
+			product	tRNA-Glu
+15577	17967	misc_feature
+			note	control region (copy 1)
+17968	18037	gene
+			gene	tRNA-Thr
+17968	18037	tRNA
+			product	tRNA-Thr
+18119	18050	gene
+			gene	tRNA-Pro
+18119	18050	tRNA
+			product	tRNA-Pro
+18665	18144	gene
+			gene	ND6
+18665	18144	CDS
+			product	NADH dehydrogenase subunit 6
+18739	18669	gene
+			gene	tRNA-Glu
+18739	18669	tRNA
+			product	tRNA-Glu
+18740	20520	misc_feature
+			note	control region (copy 2)

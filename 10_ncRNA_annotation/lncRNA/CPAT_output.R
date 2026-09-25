@@ -1,0 +1,5 @@
+# [original] local: <path>/CPAT_output.r (written by cpat.py)
+load("KP_CPAT.logit.RData")
+test <- read.table(file="CPAT_output.ORF_info.tsv",sep="\t",header=T)
+test$Coding_prob <- predict(mylogit,newdata=test,type="response")
+write.table(test, file="CPAT_output.ORF_prob.tsv", quote=F, sep="\t",row.names=FALSE, col.names=TRUE)

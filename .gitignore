@@ -1,0 +1,13 @@
+.DS_Store
+*~
+\#*\#
+*.pretext
+*.bam
+*.cram
+*.fa
+*.fasta
+*.fastq*
+*.fq*
+*.gz
+*.delta
+*.jf

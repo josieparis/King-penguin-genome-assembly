@@ -1,0 +1,84 @@
+
+tRNAscan-SE v.2.0.9 (July 2021) scan results (on host the cluster2)
+Started: Wed Dec  4 15:01:22 CET 2024
+
+------------------------------------------------------------
+Sequence file(s) to search:        <path>/aptenodytespatagonicus.softmasked.fasta
+Search Mode:                       Eukaryotic
+Results written to:                <path>/trnascan_output.txt
+Output format:                     Tabular
+Searching with:                    Infernal First Pass->Infernal
+Isotype-specific model scan:       Yes
+Covariance model:                  <path>/TRNAinf-euk.cm
+                                   <path>/TRNAinf-euk-SeC.cm
+Infernal first pass cutoff score:  10
+
+Temporary directory:               /tmp
+Search statistics saved in:        <path>/trnascan_stats.txt
+------------------------------------------------------------
+
+First-pass Stats:
+---------------
+Sequences read:         618
+Seqs w/at least 1 hit:  34
+Bases read:             1352580174 (x2 for both strands)
+Bases in tRNAs:         32771
+tRNAs predicted:        432
+Av. tRNA length:        75
+Script CPU time:        83.24 s
+Scan CPU time:          2955.82 s
+Scan speed:             915.2 Kbp/sec
+
+First pass search(es) ended: Wed Dec  4 15:16:34 CET 2024
+
+Infernal Stats:
+-----------
+Candidate tRNAs read:     432
+Infernal-confirmed tRNAs:     393
+Bases scanned by Infernal:  41411
+% seq scanned by Infernal:  0.0 %
+Script CPU time:          1.50 s
+Infernal CPU time:            96.91 s
+Scan speed:               427.3 bp/sec
+
+Infernal analysis of tRNAs ended: Wed Dec  4 15:18:14 CET 2024
+
+Overall scan speed: 862210.7 bp/sec
+
+tRNAs decoding Standard 20 AA:              364
+Selenocysteine tRNAs (TCA):                 2
+Possible suppressor tRNAs (CTA,TTA,TCA):    1
+tRNAs with undetermined/unknown isotypes:   1
+Predicted pseudogenes:                      25
+                                            -------
+Total tRNAs:                                393
+
+tRNAs with introns:     	21
+
+| Arg-TCT: 2 | Leu-CAA: 3 | Ile-TAT: 2 | Tyr-GTA: 14 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 44	  AGC: 19      GGC:         CGC: 15      TGC: 10    
+Gly     : 38	  ACC:         GCC: 9       CCC: 4       TCC: 25    
+Pro     : 21	  AGG: 11      GGG:         CGG: 3       TGG: 7     
+Thr     : 13	  AGT: 5       GGT:         CGT: 4       TGT: 4     
+Val     : 13	  AAC: 5       GAC: 1       CAC: 6       TAC: 1     
+Ser     : 38	  AGA: 18      GGA:         CGA: 4       TGA: 4       ACT:         GCT: 12    
+Arg     : 20	  ACG: 8       GCG:         CCG: 1       TCG: 3       CCT: 4       TCT: 4     
+Leu     : 25	  AAG: 6       GAG:         CAG: 12      TAG: 1       CAA: 3       TAA: 3     
+Phe     : 21	  AAA:         GAA: 21                              
+Asn     : 12	  ATT:         GTT: 12                              
+Lys     : 36	                            CTT: 30      TTT: 6     
+Asp     : 9	  ATC:         GTC: 9                               
+Glu     : 15	                            CTC: 9       TTC: 6     
+His     : 8	  ATG:         GTG: 8                               
+Gln     : 11	                            CTG: 9       TTG: 2     
+Ile     : 10	  AAT: 7       GAT: 1       CAT:         TAT: 2     
+Met/iMet: 17	                            CAT: 17                 
+Tyr     : 14	  ATA:         GTA: 14                              
+Supres  : 1	               CTA:         TTA:         TCA: 1     
+Cys     : 15	  ACA:         GCA: 15                              
+Trp     : 9	                            CCA: 9                  
+SelCys  : 2	                                         TCA: 2     
+

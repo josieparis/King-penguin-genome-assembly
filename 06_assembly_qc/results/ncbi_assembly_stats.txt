@@ -1,0 +1,28 @@
+================================================================
+hap1  GCA_965638725.1  bAptPat1.pri.cur
+================================================================
+scaffolds            : 619
+total bases          : 1,352,600,694
+ungapped bases       : 1,352,563,294
+longest scaffold     : 227,153,109
+scaffold N50         : 86,569,806  (L50 5)
+contigs              : 932
+LONGEST CONTIG       : 40,791,759
+contig N50           : 10,636,000  (L50 38)
+number of gaps       : 313
+gap bases (N)        : 37,400
+
+================================================================
+hap2  GCA_965638715.1  bAptPat1.alt.cur
+================================================================
+scaffolds            : 696
+total bases          : 1,260,811,559
+ungapped bases       : 1,260,782,159
+longest scaffold     : 227,034,388
+scaffold N50         : 82,235,355  (L50 5)
+contigs              : 945
+LONGEST CONTIG       : 50,209,413
+contig N50           : 12,089,994  (L50 33)
+number of gaps       : 249
+gap bases (N)        : 29,400
+

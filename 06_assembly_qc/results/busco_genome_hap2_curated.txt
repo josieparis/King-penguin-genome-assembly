@@ -1,0 +1,32 @@
+# BUSCO version is: 5.7.1 
+# The lineage dataset is: aves_odb10 (Creation date: 2024-01-08, number of genomes: 62, number of BUSCOs: 8338)
+# Summarized benchmarking in BUSCO notation for file <path>/KP_hap2.final.alternate.curated.fa
+# BUSCO was run in mode: euk_genome_min
+# Gene predictor used: miniprot
+
+	***** Results: *****
+
+	C:94.9%[S:94.7%,D:0.2%],F:0.3%,M:4.8%,n:8338,E:9.1%	   
+	7907	Complete BUSCOs (C)	(of which 718 contain internal stop codons)		   
+	7894	Complete and single-copy BUSCOs (S)	   
+	13	Complete and duplicated BUSCOs (D)	   
+	23	Fragmented BUSCOs (F)			   
+	408	Missing BUSCOs (M)			   
+	8338	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	696	Number of scaffolds
+	945	Number of contigs
+	1260811559	Total length
+	0.002%	Percent gaps
+	82 MB	Scaffold N50
+	12 MB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	miniprot_index: 0.13-r248
+	miniprot_align: 0.13-r248
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.7.1

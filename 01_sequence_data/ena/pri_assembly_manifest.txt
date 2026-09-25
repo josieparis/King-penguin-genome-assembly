@@ -1,0 +1,25 @@
+STUDY	PRJEB86486
+
+SAMPLE	SAMEA117789397
+
+ASSEMBLYNAME	bAptPat1.pri.cur
+
+ASSEMBLY_TYPE	isolate
+
+COVERAGE	45
+
+PROGRAM	hifiasm, yahs
+
+PLATFORM	PacBio Revio CLR, Illumina NovaSeq, Arima Genomics Hi-C
+
+MINGAPLENGTH	100
+
+MOLECULETYPE	genomic DNA
+
+DESCRIPTION	The King penguin is an iconic species of the Southern Ocean and is currently being developed as a model-in-the-wild for understanding evolution. We present a chromosome-level assembly of the King penguin (bAptPat1) which is based on 58.5 Gb of Pacbio Revio data and 126 Gbp of Arima Hi-C data. The initial PacBio assembly generation was performed with Hifiasm and Hi-C based scaffolding with YaHS. The Nextflow pipeline curationpretext was used to create Hi-C contact maps for manual curation. Manual curation was conducted using PretextView and potential microchromosome scaffolds were identified using MicroFinder. The mitochondrial genome was assembled using MitoHiFi. Chromosome-scale scaffolds confirmed by the Hi-C data have been named in order of size.
+
+RUN_REF	ERR14676056,ERR14673522
+
+CHROMOSOME_LIST	pri_chr_list.txt.gz
+
+FASTA		bAptPat1.pri.cur.fasta.gz

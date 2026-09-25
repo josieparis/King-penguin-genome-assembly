@@ -1,0 +1,5 @@
+# [original] local: <path>/KP_CPAT.make_logitModel.r (written by CPAT make_logitModel.py)
+data <- read.table(file="KP_CPAT.feature.xls",sep="\t",header=T)
+attach(data)
+mylogit <- glm(Label ~ mRNA + ORF + Fickett + Hexamer, family=binomial(link="logit"), na.action=na.pass)
+save.image("KP_CPAT.logit.RData")

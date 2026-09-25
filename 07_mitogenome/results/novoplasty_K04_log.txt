@@ -1,0 +1,82 @@
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+----------------------
+Project name          = KP_mitogenome_K04
+Type                  = mito
+Genome range          = 12000-22000
+K-mer                 = 33
+Max memory            = 
+Extended log          = 1
+Save assembled reads  = yes
+Seed Input            = <path>/NC_045377.1.fasta
+Extend seed directly  = no
+Reference sequence    = 
+Variance detection    = 
+Chloroplast sequence  = 
+
+Dataset 1:
+----------------------
+Read Length           = 150
+Insert size           = 300
+Platform              = illumina
+Single/Paired         = PE
+Combined reads        = 
+Forward reads         = <path>/K04_merged.1.fastq.gz
+Reverse reads         = <path>/K04_merged.2.fastq.gz
+Store Hash            = 
+
+Heteroplasmy:
+-----------------------
+MAF                   = 
+HP exclude list       = 
+PCR-free              = 
+
+Optional:
+----------------------
+Insert size auto      = yes
+Use Quality Scores    = 
+Reduce ambigious N's  = 
+Output path           = 
+
+Subsampled fraction: 99.66 %
+Forward reads without pair: 41820
+Reverse reads without pair: 763367
+
+Retrieve Seed...
+
+Initial read retrieved successfully: ACGTCCCTGTAGCTTACAACTAAAGCATGGCACTGAAGATGCCAAGACGTTGCCACACGCACCCAAGGACAAAAGACTTAGTCCTAACCTTACCGTTAATTCCTGCTAGACATATACATGCAAGTATCTGCGCCC
+
+Start Assembly...
+
+
+------------Assembly 1 finished: Contigs are automatically merged in Merged_contigs file------------
+
+Contig 01                  : 17050 bp
+Contig 02                  : 184 bp
+Contig 03                  : 2958 bp
+Contig 04                  : 1133 bp
+
+Total contigs              : 4
+Largest contig             : 17050 bp
+Smallest contig            : 184 bp
+Average insert size        : 354 bp
+
+
+-----------------------------------------Input data metrics-----------------------------------------
+
+Total reads                : 237169078
+Aligned reads              : 6296
+Assembled reads            : 5058
+
+-----------------------------------------------------------------------------------------------------
+

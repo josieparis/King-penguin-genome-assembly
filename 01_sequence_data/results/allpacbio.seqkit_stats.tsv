@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	N50_num	Q20(%)	Q30(%)	AvgQual	GC(%)	sum_n
+allpacbio.fastq.gz	FASTQ	DNA	3976812	58538553357	77	14720.0	64307	12108.0	14162.0	16797.0	0	15051	20623	95.67	89.93	22.73	42.47	0
