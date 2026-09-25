@@ -31,7 +31,7 @@
 #### Functional annotation files:
 * bAptPat1.with.geneIDs.gff.gz
 * bAptPat1_functional.eggnog2.annotations.tsv
-* bAptPat1_functional.interproscan.annotations.tsv
+* bAptPat1_functional.interproscan.annotations.tsv.gz
 
 NB: the file bAptPat1.with.geneIDs.gff.gz is the same as bAptPat1.gff3.gz but with protein coding gene names and descriptions from eggnog included
 
