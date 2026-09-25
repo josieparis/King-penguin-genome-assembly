@@ -14,3 +14,4 @@
 
 # released annotation files are tracked despite the data-file patterns above
 !annotation/*
+!07_mitogenome/mito_duplication/*
