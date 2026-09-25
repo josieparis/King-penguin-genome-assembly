@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this code or these annotation files, please cite the paper and the archived repository."
-title: "King penguin genome assembly and annotation - analysis code and annotation files"
+message: "If you use this code or these annotation files, please cite this repository (see below). The accompanying paper is Paris et al. (2026), Journal of Heredity."
+title: "King-penguin-genome-assembly"
 type: software
 version: "1.0.0"
 date-released: "2026-09-25"
 repository-code: "https://github.com/josieparis/King-penguin-genome-assembly"
+url: "https://github.com/josieparis/King-penguin-genome-assembly"
+doi: 10.5281/zenodo.22968008
 license: MIT
 authors:
   - family-names: Paris
@@ -40,31 +42,3 @@ authors:
   - family-names: Trucchi
     given-names: Emiliano
     affiliation: "Department of Life and Environmental Sciences, Marche Polytechnic University, Ancona, Italy"
-preferred-citation:
-  type: article
-  title: "A chromosome-level genome of the king penguin (Aptenodytes patagonicus): a resource for linking genotype to fitness in a long-lived vertebrate"
-  journal: "Journal of Heredity"
-  year: 2026
-  authors:
-    - family-names: Paris
-      given-names: Josephine R.
-    - family-names: Nitta Fernandes
-      given-names: "Flávia A."
-    - family-names: Santos
-      given-names: Camilla A.
-    - family-names: Pointon
-      given-names: Damon-Lee B.
-    - family-names: Wood
-      given-names: Jonathan M. D.
-    - family-names: Ferrer Obiol
-      given-names: Joan
-    - family-names: Salces-Ortiz
-      given-names: Judit
-    - family-names: Fernández
-      given-names: Rosa
-    - family-names: Cristofari
-      given-names: Robin
-    - family-names: Le Bohec
-      given-names: Céline
-    - family-names: Trucchi
-      given-names: Emiliano

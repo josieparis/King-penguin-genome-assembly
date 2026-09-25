@@ -1,6 +1,6 @@
 # King penguin genome assembly and annotation — analysis code
 
-Scripts, configuration files and small result tables for:
+Scripts, configuration files and small result tables accompanying:
 
 > Paris JR, Nitta Fernandes FA, Santos CA, Pointon D-LB, Wood JMD, Ferrer Obiol J, Salces-Ortiz J,
 > Fernández R, Cristofari R, Le Bohec C, Trucchi E (2026).
@@ -73,6 +73,16 @@ docs/                    software versions and parameters (Table 1)
 Each directory has its own README with the order of the steps, the key parameters and the outputs. Small text
 results (QUAST/BUSCO/Merqury summaries, tidk tables, AGAT statistics, NOVOPlasty log, mitogenome depth tables)
 are in `results/` sub-folders. Large intermediate files are archived by the authors and are available on request.
+
+## How to cite
+
+Please cite the repository itself (all versions):
+
+> Paris JR, Nitta Fernandes FA, Santos CA, Pointon D-LB, Wood JMD, Ferrer Obiol J, Salces-Ortiz J, Fernández R,
+> Cristofari R, Le Bohec C, Trucchi E (2026). **King-penguin-genome-assembly.** Zenodo.
+> https://doi.org/10.5281/zenodo.22968008
+
+GitHub's *Cite this repository* button gives the same reference (from `CITATION.cff`).
 
 ## Software
 
