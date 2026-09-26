@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or these annotation files, please cite this repository (see below). The accompanying paper is Paris et al. (2026), Journal of Heredity."
-title: "King-penguin-genome-assembly"
+title: "King penguin genome assembly and annotation"
 type: software
 version: "1.0.0"
 date-released: "2026-09-25"

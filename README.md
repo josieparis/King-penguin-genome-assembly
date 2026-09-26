@@ -79,7 +79,7 @@ are in `results/` sub-folders. Large intermediate files are archived by the auth
 Please cite the repository itself (all versions):
 
 > Paris JR, Nitta Fernandes FA, Santos CA, Pointon D-LB, Wood JMD, Ferrer Obiol J, Salces-Ortiz J, Fernández R,
-> Cristofari R, Le Bohec C, Trucchi E (2026). **King-penguin-genome-assembly.** Zenodo.
+> Cristofari R, Le Bohec C, Trucchi E (2026). **King penguin genome assembly and annotation.** Zenodo.
 > https://doi.org/10.5281/zenodo.22968008
 
 GitHub's *Cite this repository* button gives the same reference (from `CITATION.cff`).
