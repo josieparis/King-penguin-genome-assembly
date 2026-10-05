@@ -1,0 +1,1440 @@
+transcript	length_nt	CPC2	PLEK	CPAT_n_ORFs	CPAT_n_noncoding_ORFs	CPAT_call	final_lncRNA
+STRG.13	1419	noncoding	Non-coding	5	4	non-coding	yes
+STRG.26	789	noncoding	Non-coding	5	0	coding	no
+STRG.28	584	noncoding	Non-coding	0	0	no ORF	no
+STRG.40	4689	coding	Coding	5	1	coding	no
+STRG.51	378	noncoding	Non-coding	0	0	no ORF	no
+STRG.53	2921	noncoding	Coding	5	2	coding	no
+STRG.64	393	noncoding	Non-coding	2	0	coding	no
+STRG.89	327	noncoding	Non-coding	1	1	non-coding	yes
+STRG.111	1123	noncoding	Non-coding	4	2	non-coding	yes
+STRG.117	8394	noncoding	Non-coding	5	2	coding	no
+STRG.118	1685	noncoding	Non-coding	5	0	coding	no
+STRG.155	1319	noncoding	Non-coding	5	1	coding	no
+STRG.157	4877	noncoding	Coding	5	1	coding	no
+STRG.161	433	noncoding	Non-coding	2	1	non-coding	yes
+STRG.174	842	noncoding	Non-coding	1	0	coding	no
+STRG.181	2666	coding	Coding	5	0	coding	no
+STRG.232	2372	noncoding	Coding	4	1	coding	no
+STRG.244	404	noncoding	Non-coding	1	0	coding	no
+STRG.253	322	noncoding	Non-coding	0	0	no ORF	no
+STRG.254	324	noncoding	Non-coding	1	0	coding	no
+STRG.300	1571	noncoding	Non-coding	4	1	coding	no
+STRG.314	378	noncoding	Non-coding	3	0	coding	no
+STRG.320	465	noncoding	Non-coding	1	0	coding	no
+STRG.324	303	noncoding	Non-coding	3	1	coding	no
+STRG.339	839	noncoding	Non-coding	4	1	coding	no
+STRG.345	6210	noncoding	Coding	5	1	coding	no
+STRG.347	525	noncoding	Non-coding	2	1	non-coding	yes
+STRG.349	8357	noncoding	Coding	5	2	coding	no
+STRG.358	2196	noncoding	Coding	5	2	coding	no
+STRG.367	3077	noncoding	Non-coding	5	1	coding	no
+STRG.368	3029	noncoding	Coding	5	2	coding	no
+STRG.373	386	noncoding	Non-coding	1	0	coding	no
+STRG.375	498	noncoding	Non-coding	2	0	coding	no
+STRG.385	2281	noncoding	Non-coding	5	0	coding	no
+STRG.435	295	noncoding	Non-coding	1	0	coding	no
+STRG.470	2822	coding	Non-coding	5	0	coding	no
+STRG.475	1038	noncoding	Non-coding	5	0	coding	no
+STRG.497	509	noncoding	Non-coding	1	0	coding	no
+STRG.551	876	noncoding	Non-coding	3	0	coding	no
+STRG.577	757	noncoding	Non-coding	2	0	coding	no
+STRG.587	1241	noncoding	Non-coding	2	1	non-coding	yes
+STRG.588	491	noncoding	Non-coding	0	0	no ORF	no
+STRG.596	2000	coding	Coding	5	1	coding	no
+STRG.620	350	noncoding	Non-coding	1	0	coding	no
+STRG.661	266	noncoding	Non-coding	2	0	coding	no
+STRG.665	447	noncoding	Non-coding	4	0	coding	no
+STRG.695	778	noncoding	Non-coding	2	0	coding	no
+STRG.719	289	noncoding	Non-coding	1	0	coding	no
+STRG.738	1079	noncoding	Non-coding	2	1	non-coding	yes
+STRG.747	364	noncoding	Non-coding	1	1	non-coding	yes
+STRG.775	318	noncoding	Non-coding	1	0	coding	no
+STRG.776	644	noncoding	Non-coding	2	0	coding	no
+STRG.777	1091	noncoding	Coding	4	2	non-coding	no
+STRG.778	354	noncoding	Non-coding	1	0	coding	no
+STRG.779	548	noncoding	Non-coding	2	0	coding	no
+STRG.780	303	noncoding	Non-coding	0	0	no ORF	no
+STRG.801	1127	noncoding	Non-coding	3	0	coding	no
+STRG.804	1679	noncoding	Coding	5	0	coding	no
+STRG.806	254	noncoding	Non-coding	1	0	coding	no
+STRG.816	267	noncoding	Non-coding	1	0	coding	no
+STRG.825	759	noncoding	Non-coding	5	0	coding	no
+STRG.851	1101	noncoding	Non-coding	5	0	coding	no
+STRG.859	495	noncoding	Non-coding	4	1	coding	no
+STRG.890	1681	noncoding	Non-coding	5	0	coding	no
+STRG.950	334	noncoding	Non-coding	0	0	no ORF	no
+STRG.960	1589	noncoding	Non-coding	5	2	coding	no
+STRG.989	859	noncoding	Non-coding	2	0	coding	no
+STRG.990	335	noncoding	Non-coding	1	0	coding	no
+STRG.992	355	noncoding	Non-coding	2	0	coding	no
+STRG.996	597	noncoding	Non-coding	2	1	non-coding	yes
+STRG.1035	250	noncoding	Non-coding	2	0	coding	no
+STRG.1044	818	noncoding	Non-coding	4	0	coding	no
+STRG.1055	361	noncoding	Non-coding	1	0	coding	no
+STRG.1064	435	noncoding	Non-coding	2	0	coding	no
+STRG.1068	1191	coding	Coding	4	1	coding	no
+STRG.1070	426	noncoding	Non-coding	0	0	no ORF	no
+STRG.1071	922	noncoding	Non-coding	5	1	coding	no
+STRG.1074	955	noncoding	Non-coding	3	0	coding	no
+STRG.1075	367	noncoding	Non-coding	2	0	coding	no
+STRG.1097	275	noncoding	Non-coding	1	0	coding	no
+STRG.1098	474	noncoding	Non-coding	5	0	coding	no
+STRG.1103	433	noncoding	Non-coding	1	0	coding	no
+STRG.1133	690	noncoding	Non-coding	3	0	coding	no
+STRG.1134	375	noncoding	Non-coding	2	1	non-coding	yes
+STRG.1138	1131	noncoding	Non-coding	5	0	coding	no
+STRG.1157	334	noncoding	Non-coding	1	0	coding	no
+STRG.1166	212	noncoding	Non-coding	0	0	no ORF	no
+STRG.1187	1900	noncoding	Coding	5	2	coding	no
+STRG.1189	470	noncoding	Non-coding	2	0	coding	no
+STRG.1195	1283	noncoding	Coding	5	1	coding	no
+STRG.1201	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.1203	432	noncoding	Non-coding	1	0	coding	no
+STRG.1204	409	noncoding	Non-coding	2	0	coding	no
+STRG.1206	295	noncoding	Non-coding	0	0	no ORF	no
+STRG.1216	2015	noncoding	Non-coding	5	1	coding	no
+STRG.1228	1091	noncoding	Non-coding	2	1	non-coding	yes
+STRG.1231	449	noncoding	Non-coding	0	0	no ORF	no
+STRG.1232	973	noncoding	Non-coding	2	0	coding	no
+STRG.1244	2726	noncoding	Coding	5	1	coding	no
+STRG.1245	1621	noncoding	Non-coding	4	2	non-coding	yes
+STRG.1253	753	noncoding	Non-coding	0	0	no ORF	no
+STRG.1263	462	noncoding	Non-coding	0	0	no ORF	no
+STRG.1264	693	noncoding	Non-coding	3	1	coding	no
+STRG.1273	2410	noncoding	Non-coding	5	2	coding	no
+STRG.1274	277	noncoding	Non-coding	0	0	no ORF	no
+STRG.1301	2421	noncoding	Non-coding	5	2	coding	no
+STRG.1311	357	noncoding	Non-coding	0	0	no ORF	no
+STRG.1316	490	noncoding	Non-coding	1	0	coding	no
+STRG.1327	251	noncoding	Non-coding	1	0	coding	no
+STRG.1335	1521	coding	Coding	5	1	coding	no
+STRG.1398	1760	noncoding	Non-coding	5	1	coding	no
+STRG.1399	610	noncoding	Non-coding	1	0	coding	no
+STRG.1400	362	noncoding	Non-coding	0	0	no ORF	no
+STRG.1411	1214	noncoding	Non-coding	5	1	coding	no
+STRG.1439	281	noncoding	Non-coding	2	0	coding	no
+STRG.1441	883	noncoding	Non-coding	5	0	coding	no
+STRG.1470	507	noncoding	Non-coding	1	0	coding	no
+STRG.1481	290	noncoding	Non-coding	1	0	coding	no
+STRG.1487	1100	noncoding	Non-coding	4	0	coding	no
+STRG.1501	377	noncoding	Non-coding	1	0	coding	no
+STRG.1510	864	noncoding	Non-coding	2	0	coding	no
+STRG.1512	741	noncoding	Non-coding	3	0	coding	no
+STRG.1514	306	noncoding	Non-coding	3	0	coding	no
+STRG.1516	2096	noncoding	Non-coding	5	3	non-coding	yes
+STRG.1522	265	noncoding	Non-coding	0	0	no ORF	no
+STRG.1524	490	noncoding	Non-coding	0	0	no ORF	no
+STRG.1525	976	noncoding	Non-coding	0	0	no ORF	no
+STRG.1529	447	noncoding	Non-coding	2	0	coding	no
+STRG.1530	688	noncoding	Non-coding	3	0	coding	no
+STRG.1537	284	noncoding	Non-coding	0	0	no ORF	no
+STRG.1540	675	noncoding	Non-coding	4	0	coding	no
+STRG.1550	496	noncoding	Non-coding	4	1	coding	no
+STRG.1560	270	noncoding	Non-coding	1	1	non-coding	yes
+STRG.1566	410	noncoding	Non-coding	2	0	coding	no
+STRG.1569	855	noncoding	Non-coding	5	1	coding	no
+STRG.1575	558	noncoding	Non-coding	2	0	coding	no
+STRG.1588	1229	noncoding	Non-coding	2	0	coding	no
+STRG.1589	269	noncoding	Non-coding	1	0	coding	no
+STRG.1590	251	noncoding	Non-coding	0	0	no ORF	no
+STRG.1595	1961	noncoding	Non-coding	5	2	coding	no
+STRG.1598	1257	noncoding	Non-coding	4	2	non-coding	yes
+STRG.1603	625	noncoding	Non-coding	2	0	coding	no
+STRG.1618	3414	coding	Coding	5	1	coding	no
+STRG.1651	390	noncoding	Non-coding	2	0	coding	no
+STRG.1658	3124	noncoding	Coding	5	2	coding	no
+STRG.1663	2209	noncoding	Non-coding	5	1	coding	no
+STRG.1670	2023	noncoding	Coding	5	1	coding	no
+STRG.1671	706	noncoding	Non-coding	1	0	coding	no
+STRG.1678	771	noncoding	Non-coding	5	0	coding	no
+STRG.1722	575	noncoding	Non-coding	1	0	coding	no
+STRG.1723	575	noncoding	Non-coding	1	0	coding	no
+STRG.1724	1533	noncoding	Non-coding	3	0	coding	no
+STRG.1725	575	noncoding	Non-coding	1	0	coding	no
+STRG.1733	257	noncoding	Non-coding	0	0	no ORF	no
+STRG.1734	828	noncoding	Non-coding	4	1	coding	no
+STRG.1749	459	noncoding	Non-coding	0	0	no ORF	no
+STRG.1755	1335	noncoding	Coding	5	1	coding	no
+STRG.1759	781	noncoding	Non-coding	2	0	coding	no
+STRG.1762	292	noncoding	Non-coding	0	0	no ORF	no
+STRG.1776	369	noncoding	Non-coding	1	0	coding	no
+STRG.1819	1301	noncoding	Non-coding	2	2	non-coding	yes
+STRG.1831	594	noncoding	Non-coding	1	0	coding	no
+STRG.1841	4058	noncoding	Coding	5	0	coding	no
+STRG.1858	1557	noncoding	Non-coding	5	2	coding	no
+STRG.1877	653	noncoding	Non-coding	3	0	coding	no
+STRG.1886	554	noncoding	Non-coding	3	0	coding	no
+STRG.1888	814	noncoding	Non-coding	1	1	non-coding	yes
+STRG.1902	823	noncoding	Non-coding	5	1	coding	no
+STRG.1908	287	noncoding	Non-coding	0	0	no ORF	no
+STRG.1913	8355	noncoding	Coding	5	2	coding	no
+STRG.1930	2218	noncoding	Non-coding	5	2	coding	no
+STRG.1935	1581	coding	Coding	5	0	coding	no
+STRG.1943	395	noncoding	Non-coding	1	0	coding	no
+STRG.1950	283	noncoding	Non-coding	2	0	coding	no
+STRG.1962	913	coding	Non-coding	3	1	coding	no
+STRG.1993	560	noncoding	Non-coding	4	0	coding	no
+STRG.1995	2082	noncoding	Non-coding	5	3	non-coding	yes
+STRG.2029	379	noncoding	Non-coding	2	0	coding	no
+STRG.2044	316	noncoding	Non-coding	0	0	no ORF	no
+STRG.2053	652	noncoding	Non-coding	3	0	coding	no
+STRG.2057	1149	noncoding	Non-coding	2	0	coding	no
+STRG.2059	424	noncoding	Non-coding	1	0	coding	no
+STRG.2061	1013	noncoding	Non-coding	4	0	coding	no
+STRG.2063	334	noncoding	Non-coding	0	0	no ORF	no
+STRG.2070	868	noncoding	Non-coding	2	1	non-coding	yes
+STRG.2080	292	noncoding	Non-coding	0	0	no ORF	no
+STRG.2081	2735	noncoding	Coding	5	2	coding	no
+STRG.2094	937	noncoding	Non-coding	2	0	coding	no
+STRG.2101	1125	noncoding	Non-coding	4	0	coding	no
+STRG.2118	286	noncoding	Non-coding	1	0	coding	no
+STRG.2119	1608	noncoding	Non-coding	5	1	coding	no
+STRG.2120	1576	noncoding	Non-coding	5	1	coding	no
+STRG.2136	346	noncoding	Non-coding	1	1	non-coding	yes
+STRG.2149	1270	noncoding	Non-coding	4	0	coding	no
+STRG.2153	1452	noncoding	Non-coding	4	1	coding	no
+STRG.2158	585	noncoding	Non-coding	2	1	non-coding	yes
+STRG.2168	1909	noncoding	Coding	4	2	non-coding	no
+STRG.2169	913	noncoding	Non-coding	2	0	coding	no
+STRG.2178	269	noncoding	Non-coding	0	0	no ORF	no
+STRG.2181	378	noncoding	Non-coding	0	0	no ORF	no
+STRG.2183	976	noncoding	Non-coding	2	0	coding	no
+STRG.2188	423	noncoding	Non-coding	3	0	coding	no
+STRG.2201	507	noncoding	Non-coding	0	0	no ORF	no
+STRG.2208	510	noncoding	Non-coding	2	0	coding	no
+STRG.2209	906	noncoding	Non-coding	2	0	coding	no
+STRG.2213	524	coding	Non-coding	2	0	coding	no
+STRG.2215	744	coding	Non-coding	4	0	coding	no
+STRG.2217	305	noncoding	Non-coding	1	0	coding	no
+STRG.2283	244	noncoding	Non-coding	1	0	coding	no
+STRG.2296	1060	noncoding	Non-coding	4	0	coding	no
+STRG.2305	663	noncoding	Non-coding	0	0	no ORF	no
+STRG.2317	293	noncoding	Non-coding	1	1	non-coding	yes
+STRG.2320	578	noncoding	Non-coding	4	1	coding	no
+STRG.2322	246	noncoding	Non-coding	0	0	no ORF	no
+STRG.2323	601	noncoding	Non-coding	0	0	no ORF	no
+STRG.2329	406	noncoding	Non-coding	1	0	coding	no
+STRG.2333	294	noncoding	Non-coding	0	0	no ORF	no
+STRG.2339	293	noncoding	Non-coding	1	0	coding	no
+STRG.2340	671	noncoding	Non-coding	0	0	no ORF	no
+STRG.2346	2983	noncoding	Coding	5	0	coding	no
+STRG.2372	395	noncoding	Non-coding	3	1	coding	no
+STRG.2393	3167	noncoding	Coding	5	1	coding	no
+STRG.2430	1491	noncoding	Coding	4	1	coding	no
+STRG.2433	265	noncoding	Non-coding	0	0	no ORF	no
+STRG.2443	1518	noncoding	Coding	5	0	coding	no
+STRG.2446	316	noncoding	Non-coding	1	0	coding	no
+STRG.2447	1886	noncoding	Non-coding	5	1	coding	no
+STRG.2454	421	noncoding	Non-coding	3	0	coding	no
+STRG.2497	310	noncoding	Non-coding	3	0	coding	no
+STRG.2500	948	noncoding	Non-coding	3	0	coding	no
+STRG.2519	317	noncoding	Non-coding	2	0	coding	no
+STRG.2522	650	noncoding	Non-coding	3	0	coding	no
+STRG.2533	978	coding	Coding	5	0	coding	no
+STRG.2541	579	noncoding	Non-coding	1	0	coding	no
+STRG.2542	310	noncoding	Non-coding	1	0	coding	no
+STRG.2565	966	noncoding	Non-coding	3	0	coding	no
+STRG.2567	729	noncoding	Non-coding	2	1	non-coding	yes
+STRG.2588	1838	noncoding	Non-coding	5	1	coding	no
+STRG.2594	461	noncoding	Non-coding	1	0	coding	no
+STRG.2598	326	noncoding	Non-coding	3	0	coding	no
+STRG.2610	3171	noncoding	Coding	5	0	coding	no
+STRG.2632	379	noncoding	Non-coding	2	1	non-coding	yes
+STRG.2642	259	noncoding	Non-coding	1	0	coding	no
+STRG.2645	250	noncoding	Non-coding	1	0	coding	no
+STRG.2668	306	noncoding	Non-coding	1	0	coding	no
+STRG.2674	417	noncoding	Non-coding	3	1	coding	no
+STRG.2693	308	noncoding	Non-coding	0	0	no ORF	no
+STRG.2714	381	noncoding	Non-coding	1	0	coding	no
+STRG.2721	820	noncoding	Non-coding	3	0	coding	no
+STRG.2726	293	noncoding	Non-coding	0	0	no ORF	no
+STRG.2730	477	noncoding	Non-coding	2	0	coding	no
+STRG.2734	284	noncoding	Non-coding	2	0	coding	no
+STRG.2764	1211	noncoding	Non-coding	2	0	coding	no
+STRG.2766	738	noncoding	Non-coding	4	1	coding	no
+STRG.2772	1006	noncoding	Coding	5	2	coding	no
+STRG.2781	947	noncoding	Non-coding	1	0	coding	no
+STRG.2789	3150	noncoding	Coding	5	1	coding	no
+STRG.2795	582	noncoding	Non-coding	4	0	coding	no
+STRG.2796	1101	noncoding	Non-coding	1	0	coding	no
+STRG.2804	425	noncoding	Non-coding	0	0	no ORF	no
+STRG.2808	2436	noncoding	Non-coding	5	1	coding	no
+STRG.2812	290	noncoding	Non-coding	0	0	no ORF	no
+STRG.2820	1260	noncoding	Coding	4	0	coding	no
+STRG.2832	4034	coding	Coding	5	0	coding	no
+STRG.2854	697	noncoding	Non-coding	4	0	coding	no
+STRG.2861	275	noncoding	Non-coding	0	0	no ORF	no
+STRG.2868	613	noncoding	Coding	1	0	coding	no
+STRG.2871	2016	noncoding	Coding	5	1	coding	no
+STRG.2886	2453	noncoding	Non-coding	5	2	coding	no
+STRG.2893	648	noncoding	Non-coding	1	0	coding	no
+STRG.2911	700	noncoding	Non-coding	0	0	no ORF	no
+STRG.2926	469	noncoding	Non-coding	1	0	coding	no
+STRG.2927	2052	noncoding	Coding	5	0	coding	no
+STRG.2947	2279	noncoding	Coding	5	1	coding	no
+STRG.2957	640	noncoding	Non-coding	2	0	coding	no
+STRG.2958	783	noncoding	Non-coding	2	1	non-coding	yes
+STRG.2960	432	noncoding	Non-coding	1	0	coding	no
+STRG.2965	422	noncoding	Non-coding	0	0	no ORF	no
+STRG.2966	563	noncoding	Non-coding	2	0	coding	no
+STRG.2974	1186	noncoding	Coding	2	2	non-coding	no
+STRG.2976	308	noncoding	Non-coding	1	0	coding	no
+STRG.2977	574	noncoding	Non-coding	1	0	coding	no
+STRG.2981	3845	noncoding	Coding	5	3	non-coding	no
+STRG.2994	436	noncoding	Non-coding	4	1	coding	no
+STRG.3002	1570	noncoding	Coding	5	0	coding	no
+STRG.3003	876	noncoding	Non-coding	5	0	coding	no
+STRG.3008	668	noncoding	Non-coding	3	0	coding	no
+STRG.3018	865	noncoding	Non-coding	2	0	coding	no
+STRG.3031	324	noncoding	Non-coding	1	0	coding	no
+STRG.3039	395	noncoding	Non-coding	1	0	coding	no
+STRG.3064	686	noncoding	Non-coding	5	1	coding	no
+STRG.3071	467	noncoding	Non-coding	1	1	non-coding	yes
+STRG.3074	2395	noncoding	Coding	5	0	coding	no
+STRG.3095	527	noncoding	Non-coding	4	0	coding	no
+STRG.3104	996	noncoding	Coding	3	1	coding	no
+STRG.3105	1628	coding	Non-coding	1	0	coding	no
+STRG.3109	520	noncoding	Non-coding	0	0	no ORF	no
+STRG.3123	1573	noncoding	Non-coding	5	0	coding	no
+STRG.3135	2109	coding	Coding	5	2	coding	no
+STRG.3136	647	noncoding	Non-coding	1	0	coding	no
+STRG.3137	1657	coding	Coding	5	1	coding	no
+STRG.3138	1329	coding	Non-coding	5	1	coding	no
+STRG.3140	2527	coding	Coding	5	2	coding	no
+STRG.3141	960	noncoding	Coding	5	2	coding	no
+STRG.3157	309	noncoding	Non-coding	0	0	no ORF	no
+STRG.3160	395	noncoding	Non-coding	0	0	no ORF	no
+STRG.3169	3214	noncoding	Coding	5	0	coding	no
+STRG.3196	262	noncoding	Non-coding	2	0	coding	no
+STRG.3201	318	noncoding	Non-coding	0	0	no ORF	no
+STRG.3206	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.3209	1586	noncoding	Non-coding	5	1	coding	no
+STRG.3243	383	noncoding	Non-coding	1	0	coding	no
+STRG.3248	295	noncoding	Non-coding	0	0	no ORF	no
+STRG.3250	662	noncoding	Non-coding	0	0	no ORF	no
+STRG.3251	250	noncoding	Non-coding	1	0	coding	no
+STRG.3261	326	noncoding	Non-coding	1	1	non-coding	yes
+STRG.3262	342	noncoding	Non-coding	1	0	coding	no
+STRG.3263	864	noncoding	Non-coding	2	1	non-coding	yes
+STRG.3273	344	noncoding	Non-coding	0	0	no ORF	no
+STRG.3277	1192	noncoding	Coding	5	1	coding	no
+STRG.3281	1139	noncoding	Non-coding	5	1	coding	no
+STRG.3293	3319	noncoding	Coding	5	3	non-coding	no
+STRG.3297	1311	noncoding	Non-coding	5	0	coding	no
+STRG.3314	321	noncoding	Non-coding	1	0	coding	no
+STRG.3315	2467	noncoding	Non-coding	5	0	coding	no
+STRG.3336	1807	noncoding	Non-coding	5	0	coding	no
+STRG.3342	292	noncoding	Non-coding	2	0	coding	no
+STRG.3355	2485	noncoding	Coding	5	1	coding	no
+STRG.3365	283	noncoding	Non-coding	1	0	coding	no
+STRG.3370	15382	noncoding	Coding	5	2	coding	no
+STRG.3386	593	noncoding	Non-coding	3	0	coding	no
+STRG.3388	273	noncoding	Non-coding	1	0	coding	no
+STRG.3400	800	noncoding	Non-coding	4	1	coding	no
+STRG.3408	2859	noncoding	Coding	5	1	coding	no
+STRG.3434	2244	noncoding	Non-coding	5	1	coding	no
+STRG.3465	3520	noncoding	Non-coding	5	0	coding	no
+STRG.3470	288	noncoding	Non-coding	0	0	no ORF	no
+STRG.3478	5127	noncoding	Coding	5	1	coding	no
+STRG.3486	490	noncoding	Non-coding	3	0	coding	no
+STRG.3493	2410	noncoding	Non-coding	5	0	coding	no
+STRG.3498	518	noncoding	Non-coding	2	2	non-coding	yes
+STRG.3500	301	noncoding	Non-coding	4	1	coding	no
+STRG.3501	1613	noncoding	Coding	5	1	coding	no
+STRG.3508	524	noncoding	Non-coding	1	0	coding	no
+STRG.3513	467	noncoding	Non-coding	1	0	coding	no
+STRG.3541	742	noncoding	Non-coding	3	1	coding	no
+STRG.3543	1219	coding	Non-coding	5	0	coding	no
+STRG.3551	757	noncoding	Non-coding	5	2	coding	no
+STRG.3583	790	noncoding	Non-coding	3	1	coding	no
+STRG.3611	357	noncoding	Non-coding	0	0	no ORF	no
+STRG.3613	2210	noncoding	Coding	5	1	coding	no
+STRG.3614	1372	noncoding	Coding	5	1	coding	no
+STRG.3619	1657	noncoding	Coding	5	0	coding	no
+STRG.3633	2004	noncoding	Coding	4	1	coding	no
+STRG.3644	311	noncoding	Non-coding	0	0	no ORF	no
+STRG.3683	2505	noncoding	Non-coding	5	0	coding	no
+STRG.3685	2042	noncoding	Non-coding	5	1	coding	no
+STRG.3688	1238	noncoding	Non-coding	2	0	coding	no
+STRG.3694	264	noncoding	Non-coding	0	0	no ORF	no
+STRG.3699	368	noncoding	Non-coding	1	0	coding	no
+STRG.3705	593	noncoding	Non-coding	2	0	coding	no
+STRG.3721	437	noncoding	Non-coding	2	0	coding	no
+STRG.3740	609	noncoding	Non-coding	3	0	coding	no
+STRG.3766	2511	noncoding	Non-coding	5	1	coding	no
+STRG.3770	3405	noncoding	Non-coding	5	0	coding	no
+STRG.3771	361	noncoding	Non-coding	2	0	coding	no
+STRG.3817	562	noncoding	Non-coding	2	1	non-coding	yes
+STRG.3820	703	noncoding	Non-coding	4	0	coding	no
+STRG.3889	369	noncoding	Non-coding	1	0	coding	no
+STRG.3911	338	noncoding	Non-coding	2	1	non-coding	yes
+STRG.3912	3646	noncoding	Non-coding	5	2	coding	no
+STRG.3913	743	coding	Non-coding	3	0	coding	no
+STRG.3915	389	noncoding	Non-coding	2	0	coding	no
+STRG.3916	261	noncoding	Non-coding	2	0	coding	no
+STRG.3929	2392	coding	Coding	4	1	coding	no
+STRG.3930	1083	coding	Non-coding	3	0	coding	no
+STRG.3956	2277	noncoding	Non-coding	5	0	coding	no
+STRG.3974	867	noncoding	Non-coding	2	1	non-coding	yes
+STRG.3978	292	noncoding	Non-coding	1	0	coding	no
+STRG.3980	838	noncoding	Non-coding	2	0	coding	no
+STRG.3988	1113	noncoding	Non-coding	2	0	coding	no
+STRG.3990	781	noncoding	Non-coding	1	0	coding	no
+STRG.3999	375	noncoding	Non-coding	1	0	coding	no
+STRG.4027	766	noncoding	Non-coding	4	1	coding	no
+STRG.4081	261	noncoding	Non-coding	0	0	no ORF	no
+STRG.4099	521	noncoding	Non-coding	2	0	coding	no
+STRG.4101	521	noncoding	Non-coding	2	0	coding	no
+STRG.4104	521	noncoding	Non-coding	2	0	coding	no
+STRG.4124	546	noncoding	Non-coding	1	0	coding	no
+STRG.4136	620	noncoding	Non-coding	3	0	coding	no
+STRG.4143	1459	coding	Coding	2	0	coding	no
+STRG.4144	1459	coding	Coding	2	0	coding	no
+STRG.4145	1459	coding	Coding	2	0	coding	no
+STRG.4146	1459	coding	Coding	2	0	coding	no
+STRG.4147	1459	coding	Coding	2	0	coding	no
+STRG.4148	1459	coding	Coding	2	0	coding	no
+STRG.4152	582	noncoding	Non-coding	2	1	non-coding	yes
+STRG.4203	3477	noncoding	Non-coding	5	1	coding	no
+STRG.4204	501	noncoding	Non-coding	1	0	coding	no
+STRG.4206	1191	noncoding	Coding	5	0	coding	no
+STRG.4217	1070	noncoding	Non-coding	4	0	coding	no
+STRG.4233	702	noncoding	Non-coding	2	0	coding	no
+STRG.4242	2649	noncoding	Non-coding	5	0	coding	no
+STRG.4253	858	noncoding	Non-coding	5	1	coding	no
+STRG.4256	1749	coding	Coding	5	0	coding	no
+STRG.4260	908	noncoding	Non-coding	2	2	non-coding	yes
+STRG.4261	861	noncoding	Non-coding	2	2	non-coding	yes
+STRG.4266	290	noncoding	Non-coding	0	0	no ORF	no
+STRG.4281	257	noncoding	Non-coding	1	0	coding	no
+STRG.4285	495	noncoding	Non-coding	2	0	coding	no
+STRG.4288	1376	noncoding	Non-coding	5	0	coding	no
+STRG.4290	874	noncoding	Non-coding	1	0	coding	no
+STRG.4308	1652	noncoding	Non-coding	4	1	coding	no
+STRG.4321	950	noncoding	Non-coding	4	2	non-coding	yes
+STRG.4322	2445	noncoding	Non-coding	5	0	coding	no
+STRG.4323	360	noncoding	Non-coding	1	0	coding	no
+STRG.4379	292	noncoding	Non-coding	1	0	coding	no
+STRG.4392	911	noncoding	Non-coding	4	0	coding	no
+STRG.4446	479	noncoding	Non-coding	3	0	coding	no
+STRG.4475	920	noncoding	Coding	2	1	non-coding	no
+STRG.4477	1582	noncoding	Non-coding	5	0	coding	no
+STRG.4509	1793	noncoding	Coding	5	3	non-coding	no
+STRG.4545	473	noncoding	Non-coding	0	0	no ORF	no
+STRG.4548	443	noncoding	Non-coding	1	0	coding	no
+STRG.4558	308	noncoding	Non-coding	1	0	coding	no
+STRG.4559	402	noncoding	Non-coding	1	0	coding	no
+STRG.4563	3719	noncoding	Non-coding	5	0	coding	no
+STRG.4594	675	noncoding	Non-coding	3	0	coding	no
+STRG.4604	420	noncoding	Non-coding	2	0	coding	no
+STRG.4620	680	noncoding	Non-coding	3	0	coding	no
+STRG.4628	252	noncoding	Non-coding	2	1	non-coding	yes
+STRG.4658	1525	noncoding	Non-coding	5	1	coding	no
+STRG.4659	946	noncoding	Non-coding	2	0	coding	no
+STRG.4663	2323	noncoding	Non-coding	5	0	coding	no
+STRG.4682	4331	noncoding	Coding	5	1	coding	no
+STRG.4696	321	noncoding	Non-coding	1	0	coding	no
+STRG.4702	299	noncoding	Non-coding	1	0	coding	no
+STRG.4705	331	noncoding	Non-coding	0	0	no ORF	no
+STRG.4723	265	noncoding	Non-coding	1	0	coding	no
+STRG.4724	1241	noncoding	Non-coding	5	1	coding	no
+STRG.4732	252	noncoding	Non-coding	1	0	coding	no
+STRG.4734	1252	coding	Coding	5	1	coding	no
+STRG.4777	3979	noncoding	Coding	5	1	coding	no
+STRG.4780	592	noncoding	Non-coding	5	2	coding	no
+STRG.4794	288	noncoding	Non-coding	1	0	coding	no
+STRG.4801	291	noncoding	Non-coding	0	0	no ORF	no
+STRG.4810	297	noncoding	Non-coding	1	1	non-coding	yes
+STRG.4818	472	noncoding	Non-coding	2	0	coding	no
+STRG.4829	325	noncoding	Non-coding	0	0	no ORF	no
+STRG.4842	372	noncoding	Non-coding	0	0	no ORF	no
+STRG.4853	1809	noncoding	Non-coding	5	1	coding	no
+STRG.4861	1527	noncoding	Coding	4	1	coding	no
+STRG.4867	1072	noncoding	Non-coding	5	2	coding	no
+STRG.4868	2110	coding	Non-coding	4	1	coding	no
+STRG.4877	1663	noncoding	Coding	4	1	coding	no
+STRG.4878	288	noncoding	Non-coding	1	0	coding	no
+STRG.4883	2626	noncoding	Non-coding	5	3	non-coding	yes
+STRG.4884	1608	noncoding	Non-coding	1	0	coding	no
+STRG.4891	1608	noncoding	Non-coding	1	0	coding	no
+STRG.4895	1647	noncoding	Coding	5	2	coding	no
+STRG.4896	475	noncoding	Non-coding	3	1	coding	no
+STRG.4911	770	noncoding	Non-coding	5	0	coding	no
+STRG.4912	770	noncoding	Non-coding	5	0	coding	no
+STRG.4936	278	noncoding	Non-coding	2	1	non-coding	yes
+STRG.4937	264	noncoding	Non-coding	0	0	no ORF	no
+STRG.4938	264	noncoding	Non-coding	0	0	no ORF	no
+STRG.4947	371	noncoding	Non-coding	2	2	non-coding	yes
+STRG.4951	661	noncoding	Non-coding	1	0	coding	no
+STRG.4955	814	noncoding	Non-coding	1	0	coding	no
+STRG.4957	634	noncoding	Non-coding	3	0	coding	no
+STRG.4965	291	noncoding	Non-coding	2	0	coding	no
+STRG.4974	869	noncoding	Non-coding	3	1	coding	no
+STRG.4976	309	noncoding	Non-coding	0	0	no ORF	no
+STRG.4979	508	noncoding	Non-coding	1	0	coding	no
+STRG.4992	577	noncoding	Non-coding	1	1	non-coding	yes
+STRG.4994	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.5033	284	noncoding	Non-coding	1	0	coding	no
+STRG.5034	1038	noncoding	Non-coding	5	3	non-coding	yes
+STRG.5061	318	noncoding	Non-coding	4	1	coding	no
+STRG.5083	253	noncoding	Non-coding	1	0	coding	no
+STRG.5146	262	noncoding	Non-coding	1	0	coding	no
+STRG.5165	648	noncoding	Non-coding	2	0	coding	no
+STRG.5170	493	noncoding	Non-coding	1	0	coding	no
+STRG.5201	2477	noncoding	Non-coding	5	0	coding	no
+STRG.5207	438	noncoding	Non-coding	0	0	no ORF	no
+STRG.5208	275	noncoding	Non-coding	0	0	no ORF	no
+STRG.5235	419	noncoding	Non-coding	2	0	coding	no
+STRG.5236	1272	coding	Non-coding	4	1	coding	no
+STRG.5237	369	noncoding	Non-coding	0	0	no ORF	no
+STRG.5255	1149	noncoding	Non-coding	4	0	coding	no
+STRG.5269	702	noncoding	Non-coding	4	2	non-coding	yes
+STRG.5308	396	noncoding	Non-coding	0	0	no ORF	no
+STRG.5314	1507	noncoding	Non-coding	3	0	coding	no
+STRG.5316	2432	noncoding	Coding	5	0	coding	no
+STRG.5336	4978	noncoding	Coding	5	3	non-coding	no
+STRG.5399	694	noncoding	Non-coding	1	1	non-coding	yes
+STRG.5411	740	noncoding	Non-coding	2	0	coding	no
+STRG.5412	1484	noncoding	Non-coding	3	1	coding	no
+STRG.5432	826	noncoding	Coding	4	2	non-coding	no
+STRG.5437	3854	noncoding	Non-coding	5	0	coding	no
+STRG.5443	814	noncoding	Non-coding	4	0	coding	no
+STRG.5448	793	noncoding	Non-coding	2	0	coding	no
+STRG.5453	1091	noncoding	Non-coding	3	0	coding	no
+STRG.5454	872	noncoding	Non-coding	2	0	coding	no
+STRG.5483	480	noncoding	Non-coding	2	0	coding	no
+STRG.5486	823	noncoding	Non-coding	3	2	non-coding	yes
+STRG.5523	239	noncoding	Non-coding	1	0	coding	no
+STRG.5554	999	noncoding	Non-coding	1	1	non-coding	yes
+STRG.5587	2317	noncoding	Non-coding	5	0	coding	no
+STRG.5607	2432	noncoding	Coding	5	1	coding	no
+STRG.5636	410	noncoding	Non-coding	3	1	coding	no
+STRG.5651	257	noncoding	Non-coding	1	0	coding	no
+STRG.5656	1709	noncoding	Coding	5	1	coding	no
+STRG.5659	851	noncoding	Non-coding	4	2	non-coding	yes
+STRG.5671	2943	noncoding	Non-coding	5	0	coding	no
+STRG.5709	256	noncoding	Non-coding	1	0	coding	no
+STRG.5710	2576	noncoding	Non-coding	5	1	coding	no
+STRG.5751	2943	noncoding	Non-coding	5	0	coding	no
+STRG.5757	349	noncoding	Non-coding	1	1	non-coding	yes
+STRG.5763	258	noncoding	Non-coding	1	1	non-coding	yes
+STRG.5765	287	noncoding	Non-coding	1	0	coding	no
+STRG.5772	977	noncoding	Non-coding	5	0	coding	no
+STRG.5795	1884	noncoding	Coding	5	1	coding	no
+STRG.5799	262	noncoding	Non-coding	3	0	coding	no
+STRG.5802	255	noncoding	Non-coding	1	0	coding	no
+STRG.5822	1295	noncoding	Non-coding	5	1	coding	no
+STRG.5828	765	noncoding	Non-coding	1	0	coding	no
+STRG.5835	283	noncoding	Non-coding	1	0	coding	no
+STRG.5860	1200	noncoding	Non-coding	5	1	coding	no
+STRG.5865	5254	noncoding	Coding	5	3	non-coding	no
+STRG.5899	260	noncoding	Non-coding	2	0	coding	no
+STRG.5900	254	noncoding	Non-coding	1	0	coding	no
+STRG.5913	2181	noncoding	Coding	5	2	coding	no
+STRG.5923	362	noncoding	Non-coding	0	0	no ORF	no
+STRG.5937	823	noncoding	Non-coding	3	0	coding	no
+STRG.5938	256	noncoding	Non-coding	1	0	coding	no
+STRG.5939	758	noncoding	Non-coding	2	1	non-coding	yes
+STRG.5940	800	noncoding	Non-coding	0	0	no ORF	no
+STRG.5941	442	noncoding	Non-coding	2	0	coding	no
+STRG.5958	505	noncoding	Non-coding	1	0	coding	no
+STRG.5967	1971	noncoding	Coding	5	1	coding	no
+STRG.5980	1024	noncoding	Non-coding	5	0	coding	no
+STRG.5989	482	noncoding	Non-coding	0	0	no ORF	no
+STRG.6002	268	noncoding	Non-coding	2	1	non-coding	yes
+STRG.6008	271	noncoding	Non-coding	2	0	coding	no
+STRG.6012	326	noncoding	Non-coding	1	0	coding	no
+STRG.6039	725	noncoding	Non-coding	4	2	non-coding	yes
+STRG.6043	586	noncoding	Non-coding	3	0	coding	no
+STRG.6044	357	noncoding	Non-coding	3	1	coding	no
+STRG.6056	710	noncoding	Non-coding	1	0	coding	no
+STRG.6096	361	noncoding	Non-coding	2	0	coding	no
+STRG.6099	399	noncoding	Non-coding	2	0	coding	no
+STRG.6107	5804	noncoding	Coding	5	2	coding	no
+STRG.6111	2134	noncoding	Non-coding	5	0	coding	no
+STRG.6128	695	noncoding	Non-coding	4	0	coding	no
+STRG.6129	1332	noncoding	Non-coding	5	0	coding	no
+STRG.6142	272	noncoding	Non-coding	2	0	coding	no
+STRG.6156	973	noncoding	Non-coding	3	0	coding	no
+STRG.6158	341	noncoding	Non-coding	3	2	non-coding	yes
+STRG.6172	3302	noncoding	Coding	5	2	coding	no
+STRG.6195	354	noncoding	Non-coding	0	0	no ORF	no
+STRG.6208	2760	noncoding	Coding	5	1	coding	no
+STRG.6209	6512	noncoding	Coding	5	1	coding	no
+STRG.6229	392	noncoding	Non-coding	0	0	no ORF	no
+STRG.6230	251	noncoding	Non-coding	2	0	coding	no
+STRG.6264	886	noncoding	Non-coding	5	0	coding	no
+STRG.6325	744	noncoding	Non-coding	3	1	coding	no
+STRG.6326	430	noncoding	Non-coding	2	0	coding	no
+STRG.6331	736	coding	Coding	3	0	coding	no
+STRG.6337	4252	coding	Coding	5	1	coding	no
+STRG.6338	933	noncoding	Coding	2	0	coding	no
+STRG.6361	379	noncoding	Non-coding	1	0	coding	no
+STRG.6374	362	noncoding	Non-coding	4	0	coding	no
+STRG.6393	404	noncoding	Non-coding	3	0	coding	no
+STRG.6431	290	noncoding	Non-coding	0	0	no ORF	no
+STRG.6441	2522	noncoding	Coding	5	1	coding	no
+STRG.6451	312	noncoding	Non-coding	2	0	coding	no
+STRG.6452	255	noncoding	Non-coding	1	0	coding	no
+STRG.6470	1781	noncoding	Non-coding	5	1	coding	no
+STRG.6477	363	noncoding	Non-coding	2	0	coding	no
+STRG.6481	615	noncoding	Non-coding	0	0	no ORF	no
+STRG.6485	845	noncoding	Non-coding	2	0	coding	no
+STRG.6489	331	noncoding	Non-coding	1	0	coding	no
+STRG.6524	3454	noncoding	Coding	5	1	coding	no
+STRG.6559	259	noncoding	Non-coding	1	1	non-coding	yes
+STRG.6571	335	noncoding	Non-coding	2	1	non-coding	yes
+STRG.6576	725	noncoding	Non-coding	2	0	coding	no
+STRG.6581	2267	coding	Coding	5	0	coding	no
+STRG.6594	440	noncoding	Non-coding	0	0	no ORF	no
+STRG.6596	358	noncoding	Non-coding	1	0	coding	no
+STRG.6598	475	noncoding	Non-coding	0	0	no ORF	no
+STRG.6613	842	noncoding	Non-coding	0	0	no ORF	no
+STRG.6695	584	noncoding	Non-coding	4	0	coding	no
+STRG.6705	898	noncoding	Non-coding	1	0	coding	no
+STRG.6749	357	noncoding	Non-coding	1	0	coding	no
+STRG.6771	373	noncoding	Non-coding	2	0	coding	no
+STRG.6794	1566	noncoding	Non-coding	5	0	coding	no
+STRG.6797	1251	noncoding	Coding	5	3	non-coding	no
+STRG.6798	337	noncoding	Non-coding	0	0	no ORF	no
+STRG.6799	946	noncoding	Non-coding	4	0	coding	no
+STRG.6803	482	noncoding	Non-coding	1	0	coding	no
+STRG.6811	836	noncoding	Non-coding	4	0	coding	no
+STRG.6819	433	noncoding	Non-coding	2	2	non-coding	yes
+STRG.6820	812	noncoding	Non-coding	4	2	non-coding	yes
+STRG.6821	434	noncoding	Non-coding	1	0	coding	no
+STRG.6828	738	noncoding	Non-coding	2	0	coding	no
+STRG.6837	1414	noncoding	Non-coding	5	1	coding	no
+STRG.6851	310	noncoding	Non-coding	1	0	coding	no
+STRG.6869	404	noncoding	Non-coding	1	0	coding	no
+STRG.6882	356	noncoding	Non-coding	1	1	non-coding	yes
+STRG.6884	631	noncoding	Non-coding	1	0	coding	no
+STRG.6899	986	noncoding	Coding	2	0	coding	no
+STRG.6900	566	noncoding	Non-coding	0	0	no ORF	no
+STRG.6915	399	noncoding	Non-coding	0	0	no ORF	no
+STRG.6920	2074	noncoding	Non-coding	5	1	coding	no
+STRG.6935	478	noncoding	Non-coding	3	0	coding	no
+STRG.6936	264	noncoding	Non-coding	0	0	no ORF	no
+STRG.6941	2802	noncoding	Coding	5	2	coding	no
+STRG.6955	253	noncoding	Non-coding	1	0	coding	no
+STRG.6965	346	noncoding	Non-coding	1	1	non-coding	yes
+STRG.6974	1875	noncoding	Non-coding	5	0	coding	no
+STRG.6978	848	noncoding	Non-coding	4	1	coding	no
+STRG.6992	458	noncoding	Non-coding	2	1	non-coding	yes
+STRG.7006	521	noncoding	Non-coding	3	0	coding	no
+STRG.7008	614	noncoding	Non-coding	1	0	coding	no
+STRG.7017	2515	noncoding	Coding	5	0	coding	no
+STRG.7027	573	noncoding	Non-coding	2	2	non-coding	yes
+STRG.7031	1945	noncoding	Coding	5	1	coding	no
+STRG.7071	662	noncoding	Non-coding	3	0	coding	no
+STRG.7072	298	noncoding	Non-coding	1	0	coding	no
+STRG.7073	877	noncoding	Non-coding	4	1	coding	no
+STRG.7077	1203	noncoding	Non-coding	5	1	coding	no
+STRG.7103	627	noncoding	Non-coding	3	3	non-coding	yes
+STRG.7113	2141	coding	Non-coding	5	1	coding	no
+STRG.7119	286	noncoding	Non-coding	1	0	coding	no
+STRG.7126	517	noncoding	Non-coding	3	0	coding	no
+STRG.7138	1471	noncoding	Non-coding	2	1	non-coding	yes
+STRG.7144	1407	noncoding	Coding	5	0	coding	no
+STRG.7197	596	noncoding	Non-coding	1	0	coding	no
+STRG.7201	668	noncoding	Non-coding	1	1	non-coding	yes
+STRG.7202	4849	noncoding	Coding	5	0	coding	no
+STRG.7203	9299	noncoding	Coding	5	2	coding	no
+STRG.7259	528	noncoding	Non-coding	5	1	coding	no
+STRG.7274	332	noncoding	Non-coding	0	0	no ORF	no
+STRG.7276	416	noncoding	Non-coding	1	0	coding	no
+STRG.7288	462	noncoding	Non-coding	3	0	coding	no
+STRG.7309	994	noncoding	Non-coding	3	2	non-coding	yes
+STRG.7319	318	noncoding	Non-coding	2	1	non-coding	yes
+STRG.7321	3418	noncoding	Coding	5	2	coding	no
+STRG.7334	336	noncoding	Non-coding	2	0	coding	no
+STRG.7353	1540	noncoding	Coding	4	0	coding	no
+STRG.7355	279	noncoding	Non-coding	1	0	coding	no
+STRG.7398	15802	coding	Coding	5	2	coding	no
+STRG.7402	585	noncoding	Non-coding	4	1	coding	no
+STRG.7403	562	noncoding	Non-coding	2	0	coding	no
+STRG.7430	444	noncoding	Non-coding	1	0	coding	no
+STRG.7480	3711	noncoding	Coding	5	1	coding	no
+STRG.7484	1212	coding	Coding	4	0	coding	no
+STRG.7488	326	noncoding	Non-coding	3	0	coding	no
+STRG.7489	270	noncoding	Non-coding	1	1	non-coding	yes
+STRG.7502	2693	noncoding	Coding	5	0	coding	no
+STRG.7527	1105	noncoding	Coding	4	1	coding	no
+STRG.7538	2199	noncoding	Non-coding	5	0	coding	no
+STRG.7544	314	noncoding	Non-coding	1	0	coding	no
+STRG.7559	698	noncoding	Non-coding	5	2	coding	no
+STRG.7560	2253	noncoding	Coding	5	2	coding	no
+STRG.7562	1863	noncoding	Coding	5	2	coding	no
+STRG.7572	250	noncoding	Non-coding	1	0	coding	no
+STRG.7576	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.7578	468	noncoding	Non-coding	2	2	non-coding	yes
+STRG.7611	3607	coding	Coding	5	0	coding	no
+STRG.7646	276	noncoding	Non-coding	0	0	no ORF	no
+STRG.7654	309	noncoding	Non-coding	1	0	coding	no
+STRG.7677	5172	noncoding	Coding	5	0	coding	no
+STRG.7678	811	noncoding	Coding	3	1	coding	no
+STRG.7679	811	noncoding	Coding	3	1	coding	no
+STRG.7680	811	noncoding	Coding	3	1	coding	no
+STRG.7681	811	noncoding	Coding	3	1	coding	no
+STRG.7682	811	noncoding	Coding	3	1	coding	no
+STRG.7683	811	noncoding	Coding	3	1	coding	no
+STRG.7684	273	noncoding	Non-coding	0	0	no ORF	no
+STRG.7694	1837	noncoding	Coding	1	1	non-coding	no
+STRG.7695	618	noncoding	Non-coding	2	0	coding	no
+STRG.7705	342	noncoding	Non-coding	1	0	coding	no
+STRG.7718	437	noncoding	Non-coding	1	0	coding	no
+STRG.7726	272	noncoding	Non-coding	1	0	coding	no
+STRG.7739	433	noncoding	Non-coding	3	1	coding	no
+STRG.7764	733	noncoding	Non-coding	1	0	coding	no
+STRG.7782	616	noncoding	Non-coding	3	0	coding	no
+STRG.7824	1141	noncoding	Non-coding	4	0	coding	no
+STRG.7839	280	noncoding	Non-coding	1	0	coding	no
+STRG.7859	686	noncoding	Non-coding	3	2	non-coding	yes
+STRG.7860	561	noncoding	Non-coding	1	0	coding	no
+STRG.7861	775	coding	Coding	2	0	coding	no
+STRG.7877	436	noncoding	Non-coding	2	0	coding	no
+STRG.7881	980	noncoding	Non-coding	3	0	coding	no
+STRG.7885	639	noncoding	Coding	1	0	coding	no
+STRG.7929	1434	noncoding	Coding	5	1	coding	no
+STRG.7948	276	noncoding	Non-coding	0	0	no ORF	no
+STRG.7957	402	noncoding	Non-coding	0	0	no ORF	no
+STRG.7960	2003	noncoding	Coding	5	1	coding	no
+STRG.7965	373	noncoding	Non-coding	0	0	no ORF	no
+STRG.7967	588	noncoding	Non-coding	3	0	coding	no
+STRG.7968	343	noncoding	Non-coding	0	0	no ORF	no
+STRG.7972	830	noncoding	Non-coding	4	1	coding	no
+STRG.7980	404	noncoding	Non-coding	1	0	coding	no
+STRG.7984	318	noncoding	Non-coding	2	0	coding	no
+STRG.7991	580	noncoding	Non-coding	3	0	coding	no
+STRG.7994	1982	noncoding	Non-coding	3	2	non-coding	yes
+STRG.8005	11536	noncoding	Coding	5	2	coding	no
+STRG.8012	818	noncoding	Non-coding	1	0	coding	no
+STRG.8049	424	noncoding	Non-coding	1	1	non-coding	yes
+STRG.8061	374	noncoding	Non-coding	2	0	coding	no
+STRG.8082	267	noncoding	Non-coding	1	0	coding	no
+STRG.8084	2731	coding	Coding	5	1	coding	no
+STRG.8087	1470	noncoding	Coding	4	1	coding	no
+STRG.8090	466	noncoding	Non-coding	0	0	no ORF	no
+STRG.8097	1997	noncoding	Coding	5	0	coding	no
+STRG.8099	1089	noncoding	Non-coding	4	1	coding	no
+STRG.8101	261	noncoding	Non-coding	2	0	coding	no
+STRG.8103	262	noncoding	Non-coding	1	1	non-coding	yes
+STRG.8120	400	noncoding	Non-coding	1	0	coding	no
+STRG.8125	1216	noncoding	Non-coding	5	1	coding	no
+STRG.8128	740	coding	Non-coding	1	0	coding	no
+STRG.8129	776	noncoding	Non-coding	3	0	coding	no
+STRG.8137	497	noncoding	Non-coding	4	1	coding	no
+STRG.8164	982	coding	Coding	5	2	coding	no
+STRG.8169	2044	coding	Non-coding	5	0	coding	no
+STRG.8171	4766	noncoding	Non-coding	5	1	coding	no
+STRG.8175	291	noncoding	Non-coding	0	0	no ORF	no
+STRG.8180	782	noncoding	Coding	2	0	coding	no
+STRG.8186	863	noncoding	Non-coding	2	1	non-coding	yes
+STRG.8188	710	noncoding	Non-coding	2	0	coding	no
+STRG.8189	263	noncoding	Non-coding	1	1	non-coding	yes
+STRG.8192	772	noncoding	Non-coding	1	1	non-coding	yes
+STRG.8213	745	noncoding	Non-coding	3	0	coding	no
+STRG.8231	834	noncoding	Coding	2	0	coding	no
+STRG.8248	275	noncoding	Non-coding	3	0	coding	no
+STRG.8263	1344	noncoding	Coding	5	1	coding	no
+STRG.8264	274	noncoding	Non-coding	1	0	coding	no
+STRG.8265	275	noncoding	Non-coding	0	0	no ORF	no
+STRG.8270	290	noncoding	Non-coding	2	0	coding	no
+STRG.8279	1150	noncoding	Coding	5	0	coding	no
+STRG.8288	364	noncoding	Non-coding	2	1	non-coding	yes
+STRG.8305	305	noncoding	Non-coding	1	0	coding	no
+STRG.8316	1447	coding	Non-coding	5	1	coding	no
+STRG.8331	795	noncoding	Non-coding	2	1	non-coding	yes
+STRG.8332	1368	noncoding	Non-coding	3	0	coding	no
+STRG.8340	1690	noncoding	Non-coding	4	1	coding	no
+STRG.8353	697	coding	Non-coding	2	0	coding	no
+STRG.8365	434	noncoding	Non-coding	0	0	no ORF	no
+STRG.8370	2501	noncoding	Non-coding	5	1	coding	no
+STRG.8383	2506	noncoding	Coding	4	1	coding	no
+STRG.8395	1164	noncoding	Non-coding	3	1	coding	no
+STRG.8422	1043	noncoding	Non-coding	4	0	coding	no
+STRG.8439	1867	noncoding	Non-coding	5	1	coding	no
+STRG.8441	399	noncoding	Non-coding	3	1	coding	no
+STRG.8442	352	noncoding	Non-coding	1	0	coding	no
+STRG.8446	294	noncoding	Non-coding	0	0	no ORF	no
+STRG.8447	2554	coding	Non-coding	5	2	coding	no
+STRG.8449	5727	noncoding	Coding	5	1	coding	no
+STRG.8451	446	noncoding	Non-coding	1	0	coding	no
+STRG.8452	685	noncoding	Non-coding	2	1	non-coding	yes
+STRG.8468	781	noncoding	Non-coding	3	0	coding	no
+STRG.8516	576	noncoding	Non-coding	2	1	non-coding	yes
+STRG.8517	3875	noncoding	Coding	5	2	coding	no
+STRG.8531	1793	noncoding	Coding	5	0	coding	no
+STRG.8559	279	noncoding	Non-coding	1	0	coding	no
+STRG.8560	1086	noncoding	Non-coding	3	1	coding	no
+STRG.8563	469	noncoding	Non-coding	0	0	no ORF	no
+STRG.8565	1040	noncoding	Non-coding	3	0	coding	no
+STRG.8568	1853	noncoding	Non-coding	4	1	coding	no
+STRG.8569	286	noncoding	Non-coding	2	0	coding	no
+STRG.8584	386	noncoding	Non-coding	0	0	no ORF	no
+STRG.8609	3280	coding	Coding	5	1	coding	no
+STRG.8634	728	noncoding	Non-coding	2	0	coding	no
+STRG.8649	738	noncoding	Non-coding	0	0	no ORF	no
+STRG.8650	1341	coding	Non-coding	3	1	coding	no
+STRG.8679	1509	coding	Non-coding	3	1	coding	no
+STRG.8680	311	noncoding	Non-coding	2	0	coding	no
+STRG.8685	1110	noncoding	Non-coding	5	0	coding	no
+STRG.8696	1159	coding	Coding	5	2	coding	no
+STRG.8697	1106	coding	Non-coding	5	1	coding	no
+STRG.8729	321	noncoding	Non-coding	2	0	coding	no
+STRG.8749	311	noncoding	Non-coding	1	0	coding	no
+STRG.8756	1281	noncoding	Non-coding	1	0	coding	no
+STRG.8765	271	noncoding	Non-coding	0	0	no ORF	no
+STRG.8772	251	noncoding	Non-coding	0	0	no ORF	no
+STRG.8776	1731	noncoding	Non-coding	5	2	coding	no
+STRG.8790	2145	noncoding	Non-coding	4	1	coding	no
+STRG.8796	1489	noncoding	Non-coding	5	0	coding	no
+STRG.8810	321	noncoding	Non-coding	0	0	no ORF	no
+STRG.8816	943	noncoding	Non-coding	5	1	coding	no
+STRG.8845	247	noncoding	Non-coding	1	0	coding	no
+STRG.8847	946	noncoding	Non-coding	4	0	coding	no
+STRG.8852	1093	noncoding	Non-coding	1	0	coding	no
+STRG.8870	279	noncoding	Non-coding	0	0	no ORF	no
+STRG.8873	570	noncoding	Non-coding	2	1	non-coding	yes
+STRG.8884	374	noncoding	Non-coding	1	0	coding	no
+STRG.8897	224	noncoding	Non-coding	1	0	coding	no
+STRG.8909	543	noncoding	Non-coding	3	0	coding	no
+STRG.8918	1330	noncoding	Non-coding	5	0	coding	no
+STRG.8938	1174	coding	Non-coding	4	1	coding	no
+STRG.8941	262	noncoding	Non-coding	0	0	no ORF	no
+STRG.8942	6554	noncoding	Coding	5	3	non-coding	no
+STRG.8943	1168	noncoding	Non-coding	5	1	coding	no
+STRG.8947	331	noncoding	Non-coding	0	0	no ORF	no
+STRG.8954	2301	noncoding	Coding	5	1	coding	no
+STRG.8957	316	noncoding	Non-coding	1	0	coding	no
+STRG.8967	1334	noncoding	Non-coding	5	1	coding	no
+STRG.8974	283	noncoding	Non-coding	1	0	coding	no
+STRG.8979	426	noncoding	Non-coding	2	0	coding	no
+STRG.8986	1166	noncoding	Non-coding	2	0	coding	no
+STRG.8993	681	noncoding	Non-coding	2	0	coding	no
+STRG.9017	393	noncoding	Non-coding	2	0	coding	no
+STRG.9072	521	noncoding	Non-coding	2	1	non-coding	yes
+STRG.9073	434	noncoding	Non-coding	2	0	coding	no
+STRG.9094	251	noncoding	Non-coding	0	0	no ORF	no
+STRG.9101	1078	noncoding	Non-coding	4	2	non-coding	yes
+STRG.9102	3462	noncoding	Non-coding	5	0	coding	no
+STRG.9103	536	noncoding	Non-coding	2	1	non-coding	yes
+STRG.9104	538	coding	Non-coding	2	0	coding	no
+STRG.9109	242	noncoding	Non-coding	0	0	no ORF	no
+STRG.9120	714	noncoding	Non-coding	2	0	coding	no
+STRG.9123	3110	noncoding	Non-coding	4	1	coding	no
+STRG.9133	268	noncoding	Non-coding	1	1	non-coding	yes
+STRG.9141	474	noncoding	Non-coding	0	0	no ORF	no
+STRG.9145	3409	noncoding	Coding	5	0	coding	no
+STRG.9159	4154	noncoding	Coding	5	1	coding	no
+STRG.9161	936	noncoding	Non-coding	5	0	coding	no
+STRG.9179	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.9235	353	noncoding	Non-coding	1	0	coding	no
+STRG.9239	5798	noncoding	Coding	5	3	non-coding	no
+STRG.9306	553	noncoding	Non-coding	4	0	coding	no
+STRG.9320	1219	coding	Non-coding	5	0	coding	no
+STRG.9327	277	noncoding	Non-coding	2	0	coding	no
+STRG.9338	277	noncoding	Non-coding	2	0	coding	no
+STRG.9350	1224	noncoding	Non-coding	4	1	coding	no
+STRG.9357	366	noncoding	Non-coding	0	0	no ORF	no
+STRG.9371	727	noncoding	Non-coding	2	1	non-coding	yes
+STRG.9373	435	noncoding	Non-coding	1	0	coding	no
+STRG.9387	544	noncoding	Non-coding	1	0	coding	no
+STRG.9417	269	noncoding	Non-coding	2	0	coding	no
+STRG.9420	511	noncoding	Non-coding	1	0	coding	no
+STRG.9434	352	noncoding	Non-coding	1	1	non-coding	yes
+STRG.9509	464	noncoding	Non-coding	3	1	coding	no
+STRG.9511	395	noncoding	Non-coding	0	0	no ORF	no
+STRG.9525	540	noncoding	Non-coding	3	1	coding	no
+STRG.9554	1449	noncoding	Non-coding	4	3	non-coding	yes
+STRG.9557	665	coding	Non-coding	4	1	coding	no
+STRG.9570	262	noncoding	Non-coding	0	0	no ORF	no
+STRG.9581	3689	coding	Coding	5	2	coding	no
+STRG.9600	741	noncoding	Non-coding	1	0	coding	no
+STRG.9606	422	noncoding	Non-coding	1	0	coding	no
+STRG.9622	3730	coding	Coding	5	1	coding	no
+STRG.9625	838	noncoding	Non-coding	1	0	coding	no
+STRG.9647	610	noncoding	Non-coding	1	0	coding	no
+STRG.9661	286	noncoding	Non-coding	0	0	no ORF	no
+STRG.9673	368	noncoding	Non-coding	2	0	coding	no
+STRG.9701	691	coding	Non-coding	2	0	coding	no
+STRG.9708	462	noncoding	Non-coding	0	0	no ORF	no
+STRG.9718	1389	noncoding	Non-coding	5	3	non-coding	yes
+STRG.9720	1302	noncoding	Non-coding	5	2	coding	no
+STRG.9723	1952	noncoding	Non-coding	5	0	coding	no
+STRG.9738	2684	noncoding	Coding	3	1	coding	no
+STRG.9761	325	noncoding	Non-coding	0	0	no ORF	no
+STRG.9767	288	noncoding	Non-coding	2	0	coding	no
+STRG.9785	681	noncoding	Non-coding	5	0	coding	no
+STRG.9796	938	noncoding	Non-coding	1	0	coding	no
+STRG.9803	259	noncoding	Non-coding	1	0	coding	no
+STRG.9806	267	noncoding	Non-coding	0	0	no ORF	no
+STRG.9807	2949	noncoding	Non-coding	5	0	coding	no
+STRG.9811	1652	noncoding	Coding	28	12	coding	no
+STRG.9886	3771	noncoding	Coding	5	2	coding	no
+STRG.9947	1315	noncoding	Non-coding	5	1	coding	no
+STRG.9953	282	noncoding	Non-coding	2	0	coding	no
+STRG.9957	2676	coding	Coding	5	0	coding	no
+STRG.9958	275	noncoding	Non-coding	2	0	coding	no
+STRG.9965	1481	coding	Coding	5	1	coding	no
+STRG.9974	816	noncoding	Non-coding	0	0	no ORF	no
+STRG.9987	601	noncoding	Non-coding	2	1	non-coding	yes
+STRG.9994	461	noncoding	Non-coding	1	0	coding	no
+STRG.9996	264	noncoding	Non-coding	0	0	no ORF	no
+STRG.10017	511	noncoding	Non-coding	0	0	no ORF	no
+STRG.10070	366	noncoding	Non-coding	0	0	no ORF	no
+STRG.10077	258	noncoding	Non-coding	0	0	no ORF	no
+STRG.10096	499	noncoding	Non-coding	4	0	coding	no
+STRG.10114	1486	noncoding	Non-coding	5	0	coding	no
+STRG.10115	503	noncoding	Non-coding	2	0	coding	no
+STRG.10122	503	noncoding	Non-coding	2	0	coding	no
+STRG.10125	503	noncoding	Non-coding	2	0	coding	no
+STRG.10128	1491	noncoding	Non-coding	5	0	coding	no
+STRG.10131	503	noncoding	Non-coding	2	0	coding	no
+STRG.10134	503	noncoding	Non-coding	2	0	coding	no
+STRG.10143	264	noncoding	Non-coding	0	0	no ORF	no
+STRG.10154	3256	noncoding	Coding	5	2	coding	no
+STRG.10199	1337	coding	Coding	9	0	coding	no
+STRG.10207	801	noncoding	Non-coding	3	0	coding	no
+STRG.10214	1657	noncoding	Coding	4	0	coding	no
+STRG.10225	283	noncoding	Non-coding	2	0	coding	no
+STRG.10252	581	noncoding	Non-coding	3	0	coding	no
+STRG.10254	1141	noncoding	Non-coding	4	1	coding	no
+STRG.10263	1052	noncoding	Coding	5	3	non-coding	no
+STRG.10334	7526	noncoding	Non-coding	5	1	coding	no
+STRG.10335	252	noncoding	Non-coding	0	0	no ORF	no
+STRG.10336	757	noncoding	Non-coding	2	0	coding	no
+STRG.10337	585	noncoding	Non-coding	3	1	coding	no
+STRG.10347	913	noncoding	Non-coding	3	2	non-coding	yes
+STRG.10348	2840	noncoding	Non-coding	5	1	coding	no
+STRG.10357	3056	noncoding	Coding	5	0	coding	no
+STRG.10363	335	noncoding	Non-coding	3	0	coding	no
+STRG.10377	3460	noncoding	Non-coding	5	0	coding	no
+STRG.10421	626	noncoding	Non-coding	1	0	coding	no
+STRG.10435	2849	noncoding	Non-coding	5	2	coding	no
+STRG.10456	256	noncoding	Non-coding	0	0	no ORF	no
+STRG.10464	482	noncoding	Non-coding	2	0	coding	no
+STRG.10508	1532	noncoding	Non-coding	5	1	coding	no
+STRG.10515	1515	noncoding	Non-coding	5	1	coding	no
+STRG.10532	758	noncoding	Non-coding	2	0	coding	no
+STRG.10560	308	noncoding	Non-coding	1	0	coding	no
+STRG.10562	1079	coding	Non-coding	5	1	coding	no
+STRG.10563	777	noncoding	Non-coding	3	0	coding	no
+STRG.10566	1418	noncoding	Coding	3	1	coding	no
+STRG.10572	250	noncoding	Non-coding	0	0	no ORF	no
+STRG.10586	799	noncoding	Non-coding	1	0	coding	no
+STRG.10587	1828	noncoding	Coding	5	1	coding	no
+STRG.10599	652	noncoding	Non-coding	3	0	coding	no
+STRG.10600	460	noncoding	Non-coding	1	0	coding	no
+STRG.10617	2521	coding	Non-coding	5	1	coding	no
+STRG.10624	478	noncoding	Non-coding	1	0	coding	no
+STRG.10639	1623	noncoding	Coding	5	1	coding	no
+STRG.10646	689	noncoding	Non-coding	3	0	coding	no
+STRG.10647	536	noncoding	Non-coding	2	0	coding	no
+STRG.10695	835	coding	Coding	4	1	coding	no
+STRG.10705	430	noncoding	Non-coding	1	1	non-coding	yes
+STRG.10733	642	noncoding	Non-coding	3	0	coding	no
+STRG.10743	271	noncoding	Non-coding	3	0	coding	no
+STRG.10755	257	noncoding	Non-coding	0	0	no ORF	no
+STRG.10756	510	noncoding	Non-coding	3	0	coding	no
+STRG.10757	1021	noncoding	Coding	5	1	coding	no
+STRG.10767	345	noncoding	Non-coding	0	0	no ORF	no
+STRG.10777	345	noncoding	Non-coding	0	0	no ORF	no
+STRG.10834	250	noncoding	Non-coding	1	0	coding	no
+STRG.10850	251	noncoding	Non-coding	2	0	coding	no
+STRG.10883	2022	noncoding	Coding	5	0	coding	no
+STRG.10890	412	noncoding	Non-coding	2	0	coding	no
+STRG.10914	619	noncoding	Non-coding	3	0	coding	no
+STRG.10930	4682	coding	Coding	5	0	coding	no
+STRG.10939	518	coding	Non-coding	1	0	coding	no
+STRG.10941	639	noncoding	Coding	4	1	coding	no
+STRG.10954	421	noncoding	Non-coding	0	0	no ORF	no
+STRG.10959	443	noncoding	Non-coding	2	0	coding	no
+STRG.10966	1417	noncoding	Non-coding	5	1	coding	no
+STRG.10980	227	noncoding	Non-coding	1	1	non-coding	yes
+STRG.10992	260	noncoding	Non-coding	2	0	coding	no
+STRG.11062	2936	noncoding	Coding	5	1	coding	no
+STRG.11079	645	noncoding	Non-coding	2	0	coding	no
+STRG.11080	990	noncoding	Non-coding	2	2	non-coding	yes
+STRG.11083	541	noncoding	Non-coding	1	0	coding	no
+STRG.11093	263	noncoding	Non-coding	1	0	coding	no
+STRG.11096	644	noncoding	Non-coding	1	0	coding	no
+STRG.11097	1429	noncoding	Non-coding	4	1	coding	no
+STRG.11116	794	noncoding	Non-coding	1	1	non-coding	yes
+STRG.11117	873	noncoding	Non-coding	4	1	coding	no
+STRG.11122	667	noncoding	Non-coding	0	0	no ORF	no
+STRG.11131	313	noncoding	Non-coding	1	0	coding	no
+STRG.11132	336	noncoding	Non-coding	1	1	non-coding	yes
+STRG.11133	256	noncoding	Non-coding	1	0	coding	no
+STRG.11169	877	noncoding	Non-coding	4	0	coding	no
+STRG.11176	1996	coding	Non-coding	5	1	coding	no
+STRG.11177	367	noncoding	Non-coding	1	0	coding	no
+STRG.11199	582	noncoding	Non-coding	3	1	coding	no
+STRG.11212	1101	noncoding	Coding	5	1	coding	no
+STRG.11218	326	noncoding	Non-coding	1	0	coding	no
+STRG.11222	548	noncoding	Non-coding	2	0	coding	no
+STRG.11240	313	noncoding	Non-coding	0	0	no ORF	no
+STRG.11244	283	noncoding	Non-coding	1	0	coding	no
+STRG.11245	1042	noncoding	Coding	4	0	coding	no
+STRG.11253	644	noncoding	Non-coding	4	0	coding	no
+STRG.11257	255	noncoding	Non-coding	0	0	no ORF	no
+STRG.11265	362	noncoding	Non-coding	1	1	non-coding	yes
+STRG.11272	314	noncoding	Non-coding	0	0	no ORF	no
+STRG.11273	443	noncoding	Coding	2	0	coding	no
+STRG.11341	832	noncoding	Coding	2	1	non-coding	no
+STRG.11355	1013	noncoding	Non-coding	4	2	non-coding	yes
+STRG.11408	377	noncoding	Non-coding	1	0	coding	no
+STRG.11411	347	noncoding	Non-coding	1	0	coding	no
+STRG.11416	533	noncoding	Non-coding	2	0	coding	no
+STRG.11424	1152	noncoding	Coding	5	0	coding	no
+STRG.11432	4401	noncoding	Coding	5	1	coding	no
+STRG.11433	4131	coding	Non-coding	5	0	coding	no
+STRG.11434	3598	noncoding	Coding	5	2	coding	no
+STRG.11435	8338	noncoding	Coding	5	4	non-coding	no
+STRG.11436	8459	coding	Coding	5	3	non-coding	no
+STRG.11454	4832	noncoding	Coding	5	1	coding	no
+STRG.11459	530	noncoding	Non-coding	0	0	no ORF	no
+STRG.11480	373	noncoding	Non-coding	0	0	no ORF	no
+STRG.11502	959	noncoding	Non-coding	3	2	non-coding	yes
+STRG.11504	276	noncoding	Non-coding	0	0	no ORF	no
+STRG.11532	5846	noncoding	Coding	5	0	coding	no
+STRG.11534	975	noncoding	Non-coding	3	1	coding	no
+STRG.11535	313	noncoding	Non-coding	2	0	coding	no
+STRG.11552	1591	noncoding	Non-coding	5	0	coding	no
+STRG.11557	3230	noncoding	Non-coding	5	1	coding	no
+STRG.11567	385	noncoding	Non-coding	0	0	no ORF	no
+STRG.11569	288	noncoding	Non-coding	0	0	no ORF	no
+STRG.11590	6884	noncoding	Non-coding	5	0	coding	no
+STRG.11602	645	noncoding	Non-coding	3	1	coding	no
+STRG.11607	1218	noncoding	Non-coding	4	2	non-coding	yes
+STRG.11640	1987	coding	Non-coding	5	0	coding	no
+STRG.11644	1284	coding	Non-coding	5	0	coding	no
+STRG.11651	317	noncoding	Non-coding	1	0	coding	no
+STRG.11656	1204	noncoding	Non-coding	5	1	coding	no
+STRG.11659	554	noncoding	Non-coding	2	0	coding	no
+STRG.11690	1162	noncoding	Non-coding	2	0	coding	no
+STRG.11706	284	noncoding	Non-coding	1	1	non-coding	yes
+STRG.11719	340	noncoding	Non-coding	2	1	non-coding	yes
+STRG.11757	340	noncoding	Non-coding	2	1	non-coding	yes
+STRG.11783	284	noncoding	Non-coding	1	0	coding	no
+STRG.11788	1007	noncoding	Non-coding	3	1	coding	no
+STRG.11790	374	noncoding	Non-coding	2	0	coding	no
+STRG.11793	371	noncoding	Non-coding	1	0	coding	no
+STRG.11798	410	noncoding	Non-coding	3	1	coding	no
+STRG.11814	1128	coding	Coding	4	1	coding	no
+STRG.11841	4036	coding	Coding	5	0	coding	no
+STRG.11865	2076	noncoding	Non-coding	4	1	coding	no
+STRG.11881	1198	noncoding	Coding	5	0	coding	no
+STRG.11882	1439	coding	Non-coding	5	0	coding	no
+STRG.11883	1268	noncoding	Coding	5	0	coding	no
+STRG.11884	1330	noncoding	Non-coding	5	0	coding	no
+STRG.11885	1343	noncoding	Non-coding	5	0	coding	no
+STRG.11887	2364	noncoding	Non-coding	5	0	coding	no
+STRG.11888	1273	noncoding	Coding	5	1	coding	no
+STRG.11891	1264	noncoding	Coding	5	0	coding	no
+STRG.11892	3227	coding	Non-coding	5	1	coding	no
+STRG.11902	335	noncoding	Non-coding	0	0	no ORF	no
+STRG.11905	2916	coding	Coding	5	2	coding	no
+STRG.11906	2309	noncoding	Coding	5	1	coding	no
+STRG.11908	444	noncoding	Non-coding	1	0	coding	no
+STRG.11910	1092	noncoding	Non-coding	1	1	non-coding	yes
+STRG.11911	698	noncoding	Non-coding	5	2	coding	no
+STRG.11914	1106	noncoding	Coding	5	1	coding	no
+STRG.11921	300	noncoding	Non-coding	0	0	no ORF	no
+STRG.11950	556	noncoding	Non-coding	1	0	coding	no
+STRG.11975	308	noncoding	Non-coding	0	0	no ORF	no
+STRG.11978	441	noncoding	Non-coding	1	0	coding	no
+STRG.11979	258	noncoding	Non-coding	1	0	coding	no
+STRG.11981	2688	noncoding	Coding	5	0	coding	no
+STRG.12035	596	noncoding	Non-coding	0	0	no ORF	no
+STRG.12037	426	noncoding	Non-coding	0	0	no ORF	no
+STRG.12055	341	noncoding	Non-coding	2	0	coding	no
+STRG.12062	2160	noncoding	Non-coding	5	1	coding	no
+STRG.12077	339	noncoding	Non-coding	3	1	coding	no
+STRG.12079	2617	noncoding	Coding	5	1	coding	no
+STRG.12104	266	noncoding	Non-coding	2	0	coding	no
+STRG.12105	287	noncoding	Non-coding	1	0	coding	no
+STRG.12106	446	noncoding	Non-coding	1	0	coding	no
+STRG.12110	1102	coding	Non-coding	5	2	coding	no
+STRG.12119	401	noncoding	Non-coding	1	0	coding	no
+STRG.12130	710	coding	Non-coding	2	1	non-coding	no
+STRG.12131	4273	noncoding	Coding	5	0	coding	no
+STRG.12132	929	noncoding	Non-coding	3	0	coding	no
+STRG.12134	621	noncoding	Non-coding	1	0	coding	no
+STRG.12166	399	noncoding	Non-coding	2	1	non-coding	yes
+STRG.12215	660	noncoding	Non-coding	3	1	coding	no
+STRG.12223	612	coding	Non-coding	1	0	coding	no
+STRG.12246	1489	coding	Coding	5	0	coding	no
+STRG.12250	2314	noncoding	Coding	5	1	coding	no
+STRG.12261	650	noncoding	Non-coding	3	0	coding	no
+STRG.12311	314	noncoding	Non-coding	2	1	non-coding	yes
+STRG.12313	1189	coding	Coding	5	1	coding	no
+STRG.12336	886	noncoding	Non-coding	3	2	non-coding	yes
+STRG.12352	268	noncoding	Non-coding	1	0	coding	no
+STRG.12353	1141	coding	Non-coding	5	0	coding	no
+STRG.12372	284	noncoding	Non-coding	2	0	coding	no
+STRG.12383	289	noncoding	Non-coding	3	0	coding	no
+STRG.12385	289	noncoding	Non-coding	3	0	coding	no
+STRG.12387	289	noncoding	Non-coding	3	0	coding	no
+STRG.12389	289	noncoding	Non-coding	3	0	coding	no
+STRG.12391	289	noncoding	Non-coding	3	0	coding	no
+STRG.12393	289	noncoding	Non-coding	3	0	coding	no
+STRG.12395	2442	noncoding	Non-coding	5	1	coding	no
+STRG.12418	1576	coding	Non-coding	4	0	coding	no
+STRG.12442	317	noncoding	Non-coding	2	1	non-coding	yes
+STRG.12454	1324	noncoding	Coding	2	0	coding	no
+STRG.12456	377	noncoding	Non-coding	0	0	no ORF	no
+STRG.12472	377	noncoding	Non-coding	0	0	no ORF	no
+STRG.12478	1056	noncoding	Coding	3	0	coding	no
+STRG.12500	1724	noncoding	Non-coding	5	1	coding	no
+STRG.12510	268	noncoding	Non-coding	1	0	coding	no
+STRG.12527	257	noncoding	Non-coding	2	0	coding	no
+STRG.12558	1423	noncoding	Non-coding	5	0	coding	no
+STRG.12564	813	coding	Non-coding	3	0	coding	no
+STRG.12568	304	noncoding	Non-coding	1	0	coding	no
+STRG.12573	999	noncoding	Coding	4	2	non-coding	no
+STRG.12574	266	noncoding	Non-coding	1	0	coding	no
+STRG.12575	1647	coding	Coding	5	4	non-coding	no
+STRG.12614	365	noncoding	Non-coding	1	0	coding	no
+STRG.12615	308	noncoding	Non-coding	2	0	coding	no
+STRG.12657	281	noncoding	Non-coding	1	0	coding	no
+STRG.12690	853	noncoding	Non-coding	2	0	coding	no
+STRG.12691	1387	noncoding	Coding	2	0	coding	no
+STRG.12693	858	noncoding	Non-coding	2	0	coding	no
+STRG.12694	1387	noncoding	Coding	2	0	coding	no
+STRG.12696	955	coding	Non-coding	4	0	coding	no
+STRG.12718	510	noncoding	Non-coding	2	0	coding	no
+STRG.12719	278	noncoding	Non-coding	3	0	coding	no
+STRG.12739	531	noncoding	Non-coding	2	1	non-coding	yes
+STRG.12745	1053	noncoding	Non-coding	3	0	coding	no
+STRG.12795	299	noncoding	Non-coding	1	0	coding	no
+STRG.12805	285	noncoding	Non-coding	0	0	no ORF	no
+STRG.12818	298	noncoding	Non-coding	0	0	no ORF	no
+STRG.12823	713	noncoding	Non-coding	2	0	coding	no
+STRG.12832	1855	noncoding	Coding	5	1	coding	no
+STRG.12836	584	noncoding	Non-coding	0	0	no ORF	no
+STRG.12861	587	noncoding	Non-coding	2	0	coding	no
+STRG.12883	4415	coding	Non-coding	5	2	coding	no
+STRG.12885	340	noncoding	Non-coding	1	1	non-coding	yes
+STRG.12896	1264	noncoding	Non-coding	4	1	coding	no
+STRG.12899	1836	coding	Coding	5	1	coding	no
+STRG.12915	516	noncoding	Non-coding	0	0	no ORF	no
+STRG.12946	1936	noncoding	Non-coding	2	2	non-coding	yes
+STRG.12947	430	noncoding	Non-coding	0	0	no ORF	no
+STRG.12987	2873	coding	Non-coding	5	0	coding	no
+STRG.12991	2000	noncoding	Non-coding	5	1	coding	no
+STRG.13019	303	noncoding	Non-coding	0	0	no ORF	no
+STRG.13020	445	noncoding	Non-coding	0	0	no ORF	no
+STRG.13034	344	noncoding	Non-coding	1	0	coding	no
+STRG.13036	679	noncoding	Non-coding	3	0	coding	no
+STRG.13038	2235	coding	Non-coding	5	1	coding	no
+STRG.13060	537	noncoding	Non-coding	2	0	coding	no
+STRG.13061	799	coding	Non-coding	3	2	non-coding	no
+STRG.13076	735	noncoding	Non-coding	4	1	coding	no
+STRG.13096	337	noncoding	Non-coding	0	0	no ORF	no
+STRG.13099	1462	noncoding	Non-coding	3	0	coding	no
+STRG.13111	370	noncoding	Non-coding	1	0	coding	no
+STRG.13150	545	noncoding	Non-coding	1	0	coding	no
+STRG.13163	1239	noncoding	Coding	4	2	non-coding	no
+STRG.13164	282	noncoding	Non-coding	2	0	coding	no
+STRG.13177	1185	noncoding	Non-coding	4	0	coding	no
+STRG.13181	812	coding	Non-coding	1	0	coding	no
+STRG.13197	345	noncoding	Non-coding	4	1	coding	no
+STRG.13203	923	noncoding	Non-coding	2	0	coding	no
+STRG.13204	369	noncoding	Non-coding	1	0	coding	no
+STRG.13205	514	noncoding	Non-coding	1	0	coding	no
+STRG.13207	254	noncoding	Non-coding	1	0	coding	no
+STRG.13223	713	noncoding	Non-coding	3	1	coding	no
+STRG.13224	1186	noncoding	Coding	5	1	coding	no
+STRG.13228	834	noncoding	Non-coding	3	3	non-coding	yes
+STRG.13232	583	noncoding	Non-coding	1	0	coding	no
+STRG.13238	2405	coding	Coding	5	2	coding	no
+STRG.13247	339	noncoding	Non-coding	1	0	coding	no
+STRG.13258	1167	noncoding	Non-coding	5	0	coding	no
+STRG.13280	733	noncoding	Coding	4	1	coding	no
+STRG.13284	267	noncoding	Non-coding	1	0	coding	no
+STRG.13304	243	noncoding	Non-coding	0	0	no ORF	no
+STRG.13310	792	noncoding	Non-coding	3	1	coding	no
+STRG.13314	343	noncoding	Non-coding	1	1	non-coding	yes
+STRG.13324	1021	coding	Non-coding	5	1	coding	no
+STRG.13366	257	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13367	257	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13368	257	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13369	257	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13370	257	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13371	257	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13372	429	noncoding	Non-coding	0	0	no ORF	no
+STRG.13373	411	noncoding	Non-coding	1	0	coding	no
+STRG.13378	1098	noncoding	Non-coding	2	0	coding	no
+STRG.13383	315	noncoding	Non-coding	1	0	coding	no
+STRG.13386	616	noncoding	Non-coding	2	0	coding	no
+STRG.13387	279	noncoding	Non-coding	1	0	coding	no
+STRG.13388	1155	coding	Non-coding	3	2	non-coding	no
+STRG.13389	319	noncoding	Non-coding	1	0	coding	no
+STRG.13391	542	noncoding	Non-coding	2	0	coding	no
+STRG.13393	453	noncoding	Non-coding	2	0	coding	no
+STRG.13395	807	noncoding	Non-coding	1	0	coding	no
+STRG.13398	387	noncoding	Non-coding	0	0	no ORF	no
+STRG.13399	1064	noncoding	Non-coding	3	1	coding	no
+STRG.13401	1143	coding	Non-coding	5	5	non-coding	no
+STRG.13403	256	noncoding	Non-coding	0	0	no ORF	no
+STRG.13412	480	noncoding	Non-coding	0	0	no ORF	no
+STRG.13414	1582	noncoding	Coding	2	1	non-coding	no
+STRG.13415	325	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13417	372	noncoding	Non-coding	1	0	coding	no
+STRG.13420	568	noncoding	Non-coding	1	0	coding	no
+STRG.13455	770	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13472	637	noncoding	Non-coding	0	0	no ORF	no
+STRG.13474	719	noncoding	Non-coding	1	1	non-coding	yes
+STRG.13485	1003	noncoding	Non-coding	0	0	no ORF	no
+STRG.13487	1577	coding	Coding	1	0	coding	no
+STRG.13492	522	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13493	326	noncoding	Non-coding	0	0	no ORF	no
+STRG.13521	1315	coding	Non-coding	3	0	coding	no
+STRG.13522	642	noncoding	Non-coding	1	0	coding	no
+STRG.13523	1629	coding	Coding	5	2	coding	no
+STRG.13526	266	noncoding	Non-coding	1	0	coding	no
+STRG.13527	343	noncoding	Non-coding	0	0	no ORF	no
+STRG.13537	1138	coding	Non-coding	2	0	coding	no
+STRG.13552	399	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13553	525	noncoding	Non-coding	1	1	non-coding	yes
+STRG.13554	677	noncoding	Non-coding	0	0	no ORF	no
+STRG.13555	975	noncoding	Non-coding	1	1	non-coding	yes
+STRG.13563	561	noncoding	Non-coding	1	0	coding	no
+STRG.13593	309	noncoding	Non-coding	1	0	coding	no
+STRG.13595	364	noncoding	Non-coding	0	0	no ORF	no
+STRG.13597	289	noncoding	Non-coding	0	0	no ORF	no
+STRG.13647	272	noncoding	Non-coding	1	0	coding	no
+STRG.13649	326	noncoding	Non-coding	1	0	coding	no
+STRG.13680	379	noncoding	Non-coding	2	0	coding	no
+STRG.13681	1218	noncoding	Non-coding	4	1	coding	no
+STRG.13707	755	noncoding	Non-coding	1	0	coding	no
+STRG.13723	381	noncoding	Non-coding	1	0	coding	no
+STRG.13730	798	noncoding	Non-coding	4	1	coding	no
+STRG.13731	474	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13732	469	noncoding	Non-coding	0	0	no ORF	no
+STRG.13736	2297	noncoding	Non-coding	5	1	coding	no
+STRG.13738	254	noncoding	Non-coding	0	0	no ORF	no
+STRG.13749	324	noncoding	Non-coding	1	0	coding	no
+STRG.13750	688	noncoding	Non-coding	3	0	coding	no
+STRG.13751	417	noncoding	Non-coding	2	0	coding	no
+STRG.13776	614	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13778	338	noncoding	Non-coding	1	0	coding	no
+STRG.13786	672	noncoding	Non-coding	3	0	coding	no
+STRG.13792	1706	noncoding	Coding	4	3	non-coding	no
+STRG.13794	993	noncoding	Non-coding	5	0	coding	no
+STRG.13820	355	noncoding	Non-coding	1	0	coding	no
+STRG.13826	1403	noncoding	Coding	2	0	coding	no
+STRG.13837	293	noncoding	Non-coding	1	0	coding	no
+STRG.13846	694	noncoding	Non-coding	3	0	coding	no
+STRG.13858	429	noncoding	Non-coding	0	0	no ORF	no
+STRG.13859	870	noncoding	Non-coding	1	0	coding	no
+STRG.13885	257	noncoding	Non-coding	2	0	coding	no
+STRG.13886	279	noncoding	Non-coding	1	0	coding	no
+STRG.13888	329	noncoding	Non-coding	1	0	coding	no
+STRG.13889	3075	noncoding	Coding	5	0	coding	no
+STRG.13892	2472	noncoding	Coding	5	1	coding	no
+STRG.13899	658	noncoding	Non-coding	1	0	coding	no
+STRG.13905	298	noncoding	Non-coding	3	0	coding	no
+STRG.13917	557	noncoding	Non-coding	3	1	coding	no
+STRG.13918	421	noncoding	Non-coding	3	1	coding	no
+STRG.13920	352	noncoding	Non-coding	0	0	no ORF	no
+STRG.13949	263	noncoding	Non-coding	0	0	no ORF	no
+STRG.13955	534	noncoding	Non-coding	1	0	coding	no
+STRG.13966	4034	noncoding	Coding	5	1	coding	no
+STRG.13973	287	noncoding	Non-coding	0	0	no ORF	no
+STRG.13976	1779	noncoding	Non-coding	5	1	coding	no
+STRG.13981	451	noncoding	Non-coding	2	1	non-coding	yes
+STRG.13984	349	noncoding	Non-coding	1	0	coding	no
+STRG.13988	1002	noncoding	Non-coding	4	1	coding	no
+STRG.14001	1253	noncoding	Coding	5	2	coding	no
+STRG.14010	296	noncoding	Non-coding	1	0	coding	no
+STRG.14015	344	noncoding	Non-coding	0	0	no ORF	no
+STRG.14022	362	noncoding	Non-coding	2	0	coding	no
+STRG.14031	1252	noncoding	Non-coding	5	0	coding	no
+STRG.14033	813	noncoding	Non-coding	5	2	coding	no
+STRG.14038	405	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14044	250	noncoding	Non-coding	1	0	coding	no
+STRG.14045	3636	noncoding	Coding	5	1	coding	no
+STRG.14062	6481	coding	Coding	5	2	coding	no
+STRG.14063	6460	coding	Coding	5	2	coding	no
+STRG.14064	6477	coding	Coding	5	2	coding	no
+STRG.14087	1161	noncoding	Non-coding	2	0	coding	no
+STRG.14119	1433	noncoding	Coding	5	3	non-coding	no
+STRG.14124	322	noncoding	Non-coding	1	0	coding	no
+STRG.14127	496	noncoding	Non-coding	2	0	coding	no
+STRG.14135	2565	noncoding	Non-coding	5	2	coding	no
+STRG.14138	565	noncoding	Non-coding	2	0	coding	no
+STRG.14142	392	noncoding	Non-coding	0	0	no ORF	no
+STRG.14147	710	noncoding	Non-coding	1	0	coding	no
+STRG.14152	1488	noncoding	Non-coding	5	0	coding	no
+STRG.14156	511	noncoding	Non-coding	3	0	coding	no
+STRG.14161	692	noncoding	Non-coding	5	0	coding	no
+STRG.14179	792	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14187	253	noncoding	Non-coding	1	0	coding	no
+STRG.14195	261	noncoding	Non-coding	1	0	coding	no
+STRG.14222	1303	noncoding	Coding	5	1	coding	no
+STRG.14223	2705	coding	Non-coding	5	1	coding	no
+STRG.14226	766	noncoding	Non-coding	4	1	coding	no
+STRG.14253	470	noncoding	Non-coding	1	0	coding	no
+STRG.14258	472	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14263	657	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14265	4056	noncoding	Coding	5	2	coding	no
+STRG.14266	375	noncoding	Non-coding	1	0	coding	no
+STRG.14267	467	noncoding	Non-coding	2	0	coding	no
+STRG.14268	785	noncoding	Non-coding	1	0	coding	no
+STRG.14273	338	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14280	854	noncoding	Non-coding	2	0	coding	no
+STRG.14281	368	noncoding	Non-coding	2	0	coding	no
+STRG.14299	2748	noncoding	Coding	5	1	coding	no
+STRG.14309	399	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14310	758	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14311	1124	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14312	1171	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14320	561	noncoding	Non-coding	1	0	coding	no
+STRG.14347	2824	coding	Coding	5	0	coding	no
+STRG.14350	282	noncoding	Non-coding	1	0	coding	no
+STRG.14352	365	noncoding	Non-coding	0	0	no ORF	no
+STRG.14354	288	noncoding	Non-coding	0	0	no ORF	no
+STRG.14392	6805	coding	Coding	5	0	coding	no
+STRG.14394	263	noncoding	Non-coding	1	0	coding	no
+STRG.14405	339	noncoding	Non-coding	1	0	coding	no
+STRG.14430	432	noncoding	Non-coding	2	0	coding	no
+STRG.14432	993	noncoding	Non-coding	5	2	coding	no
+STRG.14433	454	noncoding	Non-coding	1	0	coding	no
+STRG.14436	286	noncoding	Non-coding	1	0	coding	no
+STRG.14437	7164	coding	Coding	5	0	coding	no
+STRG.14481	1147	noncoding	Non-coding	2	0	coding	no
+STRG.14488	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.14494	252	noncoding	Non-coding	3	0	coding	no
+STRG.14495	252	noncoding	Non-coding	3	0	coding	no
+STRG.14497	6804	coding	Coding	5	0	coding	no
+STRG.14516	305	noncoding	Non-coding	1	0	coding	no
+STRG.14520	737	noncoding	Non-coding	2	0	coding	no
+STRG.14531	759	noncoding	Non-coding	3	1	coding	no
+STRG.14532	269	noncoding	Non-coding	2	0	coding	no
+STRG.14540	311	noncoding	Non-coding	1	0	coding	no
+STRG.14541	270	noncoding	Non-coding	0	0	no ORF	no
+STRG.14551	741	noncoding	Non-coding	2	0	coding	no
+STRG.14554	274	noncoding	Non-coding	0	0	no ORF	no
+STRG.14577	733	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14578	579	noncoding	Non-coding	2	2	non-coding	yes
+STRG.14583	1911	noncoding	Coding	4	2	non-coding	no
+STRG.14586	2540	noncoding	Coding	5	0	coding	no
+STRG.14593	1623	coding	Coding	5	1	coding	no
+STRG.14594	311	noncoding	Non-coding	1	0	coding	no
+STRG.14595	311	noncoding	Non-coding	1	0	coding	no
+STRG.14596	433	noncoding	Non-coding	2	2	non-coding	yes
+STRG.14630	360	noncoding	Non-coding	3	0	coding	no
+STRG.14631	1503	noncoding	Non-coding	5	0	coding	no
+STRG.14633	329	noncoding	Non-coding	1	0	coding	no
+STRG.14640	733	noncoding	Coding	4	1	coding	no
+STRG.14641	258	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14643	733	noncoding	Coding	4	1	coding	no
+STRG.14648	733	noncoding	Coding	4	1	coding	no
+STRG.14655	223	noncoding	Non-coding	0	0	no ORF	no
+STRG.14660	329	noncoding	Non-coding	1	0	coding	no
+STRG.14692	731	noncoding	Non-coding	6	6	non-coding	yes
+STRG.14693	2539	coding	Coding	5	0	coding	no
+STRG.14694	2106	coding	Coding	5	0	coding	no
+STRG.14695	708	noncoding	Non-coding	2	0	coding	no
+STRG.14699	252	noncoding	Non-coding	2	0	coding	no
+STRG.14700	458	noncoding	Non-coding	2	0	coding	no
+STRG.14701	458	noncoding	Non-coding	2	0	coding	no
+STRG.14702	458	noncoding	Non-coding	2	0	coding	no
+STRG.14713	857	noncoding	Non-coding	1	0	coding	no
+STRG.14714	354	noncoding	Non-coding	1	0	coding	no
+STRG.14715	862	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14724	2106	coding	Coding	5	0	coding	no
+STRG.14725	311	noncoding	Non-coding	6	6	non-coding	yes
+STRG.14726	708	noncoding	Non-coding	2	0	coding	no
+STRG.14727	2112	coding	Coding	5	0	coding	no
+STRG.14729	1288	noncoding	Coding	5	0	coding	no
+STRG.14730	1543	noncoding	Coding	5	0	coding	no
+STRG.14738	1550	noncoding	Non-coding	5	1	coding	no
+STRG.14739	458	noncoding	Non-coding	2	0	coding	no
+STRG.14740	458	noncoding	Non-coding	2	0	coding	no
+STRG.14741	458	noncoding	Non-coding	2	0	coding	no
+STRG.14742	223	noncoding	Non-coding	1	0	coding	no
+STRG.14743	1550	noncoding	Non-coding	5	1	coding	no
+STRG.14744	1309	noncoding	Coding	5	0	coding	no
+STRG.14745	328	noncoding	Non-coding	1	0	coding	no
+STRG.14746	1361	noncoding	Non-coding	2	0	coding	no
+STRG.14747	1361	noncoding	Non-coding	2	0	coding	no
+STRG.14748	1361	noncoding	Non-coding	2	0	coding	no
+STRG.14749	450	noncoding	Non-coding	0	0	no ORF	no
+STRG.14751	487	noncoding	Non-coding	0	0	no ORF	no
+STRG.14752	487	noncoding	Non-coding	0	0	no ORF	no
+STRG.14753	290	noncoding	Non-coding	1	0	coding	no
+STRG.14754	1560	noncoding	Coding	5	1	coding	no
+STRG.14755	459	noncoding	Non-coding	2	2	non-coding	yes
+STRG.14756	296	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14761	487	noncoding	Non-coding	0	0	no ORF	no
+STRG.14762	487	noncoding	Non-coding	0	0	no ORF	no
+STRG.14763	487	noncoding	Non-coding	0	0	no ORF	no
+STRG.14767	587	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14768	587	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14769	587	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14770	587	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14771	564	noncoding	Non-coding	3	1	coding	no
+STRG.14772	587	noncoding	Non-coding	4	2	non-coding	yes
+STRG.14774	491	noncoding	Non-coding	2	0	coding	no
+STRG.14775	1490	coding	Coding	2	0	coding	no
+STRG.14779	497	noncoding	Non-coding	3	0	coding	no
+STRG.14786	345	noncoding	Non-coding	1	0	coding	no
+STRG.14792	913	coding	Non-coding	3	1	coding	no
+STRG.14796	1550	noncoding	Non-coding	5	1	coding	no
+STRG.14798	281	noncoding	Non-coding	1	0	coding	no
+STRG.14803	406	noncoding	Non-coding	1	0	coding	no
+STRG.14804	1105	coding	Coding	5	1	coding	no
+STRG.14805	1550	noncoding	Non-coding	5	1	coding	no
+STRG.14809	330	noncoding	Non-coding	1	0	coding	no
+STRG.14811	482	noncoding	Non-coding	2	0	coding	no
+STRG.14818	798	noncoding	Non-coding	4	3	non-coding	yes
+STRG.14819	1560	noncoding	Coding	5	1	coding	no
+STRG.14820	290	noncoding	Non-coding	1	0	coding	no
+STRG.14821	1550	noncoding	Non-coding	5	1	coding	no
+STRG.14822	1105	coding	Coding	5	1	coding	no
+STRG.14823	289	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14824	491	noncoding	Non-coding	2	0	coding	no
+STRG.14825	2106	coding	Coding	5	0	coding	no
+STRG.14831	930	noncoding	Non-coding	3	0	coding	no
+STRG.14838	495	noncoding	Non-coding	3	0	coding	no
+STRG.14840	855	noncoding	Non-coding	4	1	coding	no
+STRG.14851	487	noncoding	Non-coding	0	0	no ORF	no
+STRG.14852	849	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14853	802	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14869	2872	coding	Non-coding	5	0	coding	no
+STRG.14875	931	noncoding	Non-coding	1	0	coding	no
+STRG.14882	564	noncoding	Non-coding	3	1	coding	no
+STRG.14887	1199	coding	Non-coding	5	2	coding	no
+STRG.14888	1425	noncoding	Coding	4	0	coding	no
+STRG.14890	788	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14891	1441	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14892	1077	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14897	311	noncoding	Non-coding	1	0	coding	no
+STRG.14901	611	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14902	1106	coding	Coding	5	1	coding	no
+STRG.14912	1538	noncoding	Non-coding	2	0	coding	no
+STRG.14913	1557	noncoding	Non-coding	4	4	non-coding	yes
+STRG.14915	577	noncoding	Non-coding	3	3	non-coding	yes
+STRG.14916	783	noncoding	Non-coding	3	0	coding	no
+STRG.14928	502	noncoding	Non-coding	2	0	coding	no
+STRG.14929	909	noncoding	Coding	2	1	non-coding	no
+STRG.14930	675	noncoding	Non-coding	5	0	coding	no
+STRG.14931	818	noncoding	Non-coding	5	2	coding	no
+STRG.14935	2788	coding	Coding	3	0	coding	no
+STRG.14936	743	noncoding	Non-coding	2	0	coding	no
+STRG.14937	390	noncoding	Non-coding	1	1	non-coding	yes
+STRG.14939	1219	noncoding	Non-coding	5	2	coding	no
+STRG.14943	523	noncoding	Non-coding	2	1	non-coding	yes
+STRG.14961	919	noncoding	Non-coding	3	1	coding	no
+STRG.14962	456	noncoding	Non-coding	1	0	coding	no
+STRG.14963	890	noncoding	Non-coding	2	0	coding	no
+STRG.14964	3083	coding	Coding	4	3	non-coding	no
+STRG.14965	418	noncoding	Non-coding	0	0	no ORF	no
+STRG.14971	1366	noncoding	Non-coding	5	1	coding	no
+STRG.14976	1550	noncoding	Non-coding	5	1	coding	no
+STRG.14984	1254	coding	Non-coding	4	0	coding	no
+STRG.14991	643	noncoding	Non-coding	1	0	coding	no

@@ -1,0 +1,1359 @@
+target_name	accession	query_name	clan_name	start	end	strand	truncated	pass	GC	bias	score	e-value	incl	olp	description_of_target	rfam_type	category
+LSU_rRNA_eukarya	RF02543	SUPER_1	CL00112	183242732	183243290	+	no	1	0.55	0.0	394.9	2.9e-102	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	SUPER_1	CL00112	149944507	149944093	-	no	1	0.59	0.1	375.9	5.1e-97	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	SUPER_1	CL00112	24391168	24391666	+	no	1	0.43	0.0	302.4	1e-76	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SNORA53	RF00563	SUPER_1	-	53350576	53350815	+	no	1	0.40	0.0	210.4	5.1e-50	!	*	Small nucleolar RNA SNORA53	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+uc_338	RF02271	SUPER_1	-	224913796	224913619	-	no	1	0.54	0.0	177.8	6.7e-44	!	*	TUC338	Cis-reg;	cis-regulatory element
+SSU_rRNA_microsporidia	RF02542	SUPER_1	CL00111	199471846	199471254	-	no	1	0.50	0.0	141.2	1.9e-37	!	^	Microsporidia small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	SUPER_1	CL00111	172305233	172305481	+	no	1	0.46	0.0	138.9	6.6e-36	!	*	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+snoU85	RF01296	SUPER_1	CL00082	88222345	88222023	-	no	1	0.51	0.0	130.8	2.3e-31	!	*	Small nucleolar RNA U85	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+RMST_9	RF01970	SUPER_1	-	52953036	52953228	+	no	1	0.44	0.0	187.4	3.1e-30	!	*	Rhabdomyosarcoma 2 associated transcript conserved region 9	Gene; lncRNA;	lncRNA
+U2	RF00004	SUPER_1	CL00006	20399186	20398998	-	no	1	0.50	0.0	152.6	7.8e-30	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SSU_rRNA_eukarya	RF01960	SUPER_1	CL00111	17879327	17879489	+	no	1	0.52	0.0	118.4	1.2e-29	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+U12	RF00007	SUPER_1	CL00006	56321688	56321540	-	no	1	0.59	0.0	148.7	1.5e-28	!	*	U12 minor spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_1	CL00005	23239370	23239528	+	no	1	0.53	0.0	117.0	3.9e-27	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+LSU_rRNA_archaea	RF02540	SUPER_1	CL00112	149943779	149943638	-	no	1	0.56	0.0	103.6	1e-26	!	^	Archaeal large subunit ribosomal RNA	Gene; rRNA;	rRNA
+mir-490	RF00792	SUPER_1	-	66167223	66167127	-	no	1	0.45	0.0	113.0	1.3e-26	!	*	microRNA mir-490	Gene; miRNA;	miRNA
+mir-1805	RF03779	SUPER_1	-	151842708	151842625	-	no	1	0.45	0.0	110.2	2.5e-24	!	*	mir-1805 microRNA precursor family	Gene; miRNA;	miRNA
+ST7-OT3_2	RF02184	SUPER_1	-	27851589	27851452	-	no	1	0.57	0.0	157.6	2.8e-24	!	*	ST7 overlapping transcript 3 conserved region 2	Gene; lncRNA;	lncRNA
+K_chan_RES	RF00485	SUPER_1	-	84213967	84213854	-	no	1	0.54	0.0	122.3	5.2e-24	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+SNORD15	RF00067	SUPER_1	CL00045	225837133	225836986	-	no	1	0.49	0.0	118.6	4.6e-23	!	*	Small nucleolar RNA SNORD15	Gene; snRNA; snoRNA; CD-box;	snoRNA
+K_chan_RES	RF00485	SUPER_1	-	84316447	84316334	-	no	1	0.55	0.0	118.1	6.3e-23	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+U6	RF00026	SUPER_1	CL00009	189319272	189319165	-	no	1	0.42	0.0	98.2	1.7e-22	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-1397	RF03242	SUPER_1	-	146782646	146782729	+	no	1	0.49	0.0	107.3	2e-22	!	*	mir-1397 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD15	RF00067	SUPER_1	CL00045	225838616	225838470	-	no	1	0.50	0.0	115.0	3.7e-22	!	*	Small nucleolar RNA SNORD15	Gene; snRNA; snoRNA; CD-box;	snoRNA
+K_chan_RES	RF00485	SUPER_1	-	84102656	84102543	-	no	1	0.57	0.0	110.9	4.7e-21	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+RMST_7	RF01968	SUPER_1	-	52932164	52932427	+	no	1	0.31	17.2	211.9	1.1e-20	!	*	Rhabdomyosarcoma 2 associated transcript conserved region 7	Gene; lncRNA;	lncRNA
+mir-92	RF00464	SUPER_1	CL00137	170851303	170851226	-	no	1	0.51	0.0	84.2	8.8e-20	!	*	mir-92 microRNA precursor family	Gene; miRNA;	miRNA
+mir-1743	RF03320	SUPER_1	-	182344842	182344919	+	no	1	0.38	0.0	101.5	3.1e-19	!	*	mir-1743 microRNA precursor family	Gene; miRNA;	miRNA
+RMST_8	RF01969	SUPER_1	-	52952763	52952901	+	no	1	0.45	0.0	125.8	1.2e-18	!	*	Rhabdomyosarcoma 2 associated transcript conserved region 8	Gene; lncRNA;	lncRNA
+SNORA18	RF00425	SUPER_1	CL00038	216064514	216064645	+	no	1	0.45	0.0	115.3	3.1e-18	!	*	Small nucleolar RNA SNORA18	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA8	RF00393	SUPER_1	CL00026	216065853	216065991	+	no	1	0.45	0.0	110.0	6.9e-18	!	*	Small nucleolar RNA SNORA8	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-2985	RF02095	SUPER_1	-	210531169	210531099	-	no	1	0.35	0.0	92.8	9.4e-18	!	*	mir-2985-2 microRNA precursor	Gene; miRNA;	miRNA
+SNORA1	RF00408	SUPER_1	-	216062392	216062523	+	no	1	0.41	0.0	111.3	1.1e-17	!	*	Small nucleolar RNA SNORA1	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-155	RF00731	SUPER_1	-	119160259	119160323	+	no	1	0.38	0.0	91.3	2e-17	!	*	microRNA mir-155	Gene; miRNA;	miRNA
+SNORA68	RF00263	SUPER_1	-	37855974	37855843	-	no	1	0.31	0.4	103.6	2e-17	!	*	Small nucleolar RNA SNORA68	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-1460	RF03265	SUPER_1	-	7218773	7218683	-	no	1	0.59	0.0	107.3	3.4e-17	!	*	mir-1460 microRNA precursor family	Gene; miRNA;	miRNA
+snoU83B	RF00593	SUPER_1	-	58156853	58156945	+	no	1	0.54	0.0	89.2	4.6e-17	!	*	Small nucleolar RNA U83B	Gene; snRNA; snoRNA; CD-box;	snoRNA
+RMST_6	RF01967	SUPER_1	-	52930009	52930210	+	no	1	0.44	0.0	143.0	5.7e-17	!	*	Rhabdomyosarcoma 2 associated transcript conserved region 6	Gene; lncRNA;	lncRNA
+SNORD89	RF00578	SUPER_1	-	154605139	154605023	-	no	1	0.46	0.0	95.4	9.4e-17	!	*	Small nucleolar RNA SNORD89	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-221	RF00651	SUPER_1	-	128332535	128332617	+	no	1	0.46	0.0	86.4	1.1e-16	!	*	microRNA mir-221	Gene; miRNA;	miRNA
+SNORD15	RF00067	SUPER_1	CL00045	225836222	225836086	-	no	1	0.46	0.0	92.5	1.6e-16	!	*	Small nucleolar RNA SNORD15	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA27	RF00443	SUPER_1	CL00032	204668938	204668806	-	no	1	0.39	0.0	104.4	2e-16	!	*	Small nucleolar RNA SNORA27	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-10	RF00104	SUPER_1	-	115199639	115199710	+	no	1	0.49	0.0	77.7	2.5e-16	!	*	mir-10 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA8	RF00393	SUPER_1	CL00026	216061863	216062001	+	no	1	0.45	0.0	102.6	3.3e-16	!	*	Small nucleolar RNA SNORA8	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-135	RF00246	SUPER_1	-	52955894	52955978	+	no	1	0.34	0.0	84.9	8.9e-16	!	*	mir-135 microRNA precursor family	Gene; miRNA;	miRNA
+mir-16	RF00254	SUPER_1	CL00085	196783872	196783794	-	no	1	0.39	0.0	81.4	1.2e-15	!	^	mir-16 microRNA precursor family	Gene; miRNA;	miRNA
+mir-221	RF00651	SUPER_1	-	128333053	128333136	+	no	1	0.48	0.0	81.0	3.4e-15	!	*	microRNA mir-221	Gene; miRNA;	miRNA
+mir-33	RF00667	SUPER_1	-	56720588	56720520	-	no	1	0.45	0.0	77.7	5.8e-15	!	*	microRNA mir-33	Gene; miRNA;	miRNA
+U6	RF00026	SUPER_1	CL00009	172874325	172874259	-	no	1	0.48	0.0	73.0	7.7e-15	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+K_chan_RES	RF00485	SUPER_1	-	42436655	42436542	-	no	1	0.60	0.0	86.9	7.8e-15	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+GABA3	RF01803	SUPER_1	-	152092425	152092372	-	no	1	0.46	0.0	73.2	1.5e-14	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-19	RF00245	SUPER_1	CL00110	170851420	170851342	-	no	1	0.46	0.0	87.7	1.5e-14	!	*	mir-19 microRNA precursor family	Gene; miRNA;	miRNA
+SCARNA24	RF00422	SUPER_1	CL00018	136777175	136777045	-	no	1	0.43	0.0	105.8	1.6e-14	!	*	Small Cajal body specific RNA 24	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-17	RF00051	SUPER_1	-	170851555	170851479	-	no	1	0.38	0.0	78.4	2.8e-14	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	SUPER_1	-	170852015	170851937	-	no	1	0.39	0.0	77.9	4e-14	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_1	CL00148	80826058	80826144	+	no	1	0.46	0.0	82.0	4.2e-14	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-15	RF00455	SUPER_1	CL00085	196784017	196783935	-	no	1	0.45	0.0	68.5	5.4e-14	!	*	mir-15 microRNA precursor family	Gene; miRNA;	miRNA
+mir-205	RF00656	SUPER_1	-	1293382	1293309	-	no	1	0.50	0.0	71.0	7.2e-14	!	*	microRNA mir-205	Gene; miRNA;	miRNA
+U6	RF00026	SUPER_1	CL00009	1637942	1637842	-	no	1	0.49	0.0	69.6	8.4e-14	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORA25	RF00402	SUPER_1	-	216067175	216067304	+	no	1	0.48	0.0	92.0	2.3e-13	!	*	Small nucleolar RNA SNORA25	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+K_chan_RES	RF00485	SUPER_1	-	26230060	26229948	-	no	1	0.46	0.0	80.0	4.7e-13	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+mir-29	RF00074	SUPER_1	-	3430950	3431019	+	no	1	0.36	0.0	74.9	5.7e-13	!	*	mir-29 microRNA precursor	Gene; miRNA;	miRNA
+mir-17	RF00051	SUPER_1	-	170851868	170851787	-	no	1	0.41	0.0	73.4	7.1e-13	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+snoZ40	RF00342	SUPER_1	-	216063234	216063306	+	no	1	0.37	0.0	73.7	1.5e-12	!	*	Small nucleolar RNA Z40	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA31	RF00322	SUPER_1	-	194798363	194798230	-	no	1	0.49	0.0	85.3	1.5e-12	!	*	Small nucleolar RNA SNORA31	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+let-7	RF00027	SUPER_1	CL00148	80825184	80825264	+	no	1	0.42	0.0	75.4	2.3e-12	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+U6	RF00026	SUPER_1	CL00009	143141688	143141594	-	no	1	0.40	0.0	64.2	3.5e-12	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-29	RF00074	SUPER_1	-	3432089	3432156	+	no	1	0.34	0.0	70.7	8.2e-12	!	*	mir-29 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_1	CL00001	139591656	139591728	+	no	1	0.53	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	169052072	169052144	+	no	1	0.53	0.0	69.8	1.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	94996696	94996623	-	no	1	0.58	0.0	69.8	1.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SCARNA11	RF00564	SUPER_1	-	88143431	88143570	+	no	1	0.59	0.0	75.2	2.9e-11	!	*	Small Cajal body specific RNA 11	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+tRNA	RF00005	SUPER_1	CL00001	203146691	203146764	+	no	1	0.61	0.0	68.4	4.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	66653548	66653629	+	no	1	0.61	0.0	67.9	6.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	48119895	48119968	+	no	1	0.59	0.0	67.7	7.4e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	53305456	53305527	+	no	1	0.61	0.0	67.7	7.4e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SSU_rRNA_eukarya	RF01960	SUPER_1	CL00111	17879162	17879264	+	no	1	0.57	0.0	56.7	9e-11	!	*	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+let-7	RF00027	SUPER_1	CL00148	115200375	115200450	+	no	1	0.46	0.0	67.6	2.8e-10	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_1	CL00001	203146982	203147054	+	no	1	0.55	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+let-7	RF00027	SUPER_1	CL00148	37215910	37215996	+	no	1	0.54	0.0	67.1	3.9e-10	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+LINC00901	RF01884	SUPER_1	-	92388638	92388493	-	no	1	0.55	0.0	79.2	4.2e-10	!	*	Non-coding RNA BC040587	Gene; lncRNA;	lncRNA
+tRNA	RF00005	SUPER_1	CL00001	56238823	56238895	+	no	1	0.59	0.0	64.9	4.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	94997055	94996974	-	no	1	0.59	0.0	64.5	5.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+mir-19	RF00245	SUPER_1	CL00110	170851724	170851649	-	no	1	0.41	0.0	68.7	9.9e-10	!	*	mir-19 microRNA precursor family	Gene; miRNA;	miRNA
+U2	RF00004	SUPER_1	CL00006	150993046	150993233	+	no	1	0.50	0.0	67.8	1.7e-09	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U7	RF00066	SUPER_1	-	87765586	87765527	-	no	1	0.53	0.0	62.5	2.7e-09	!	*	U7 small nuclear RNA	Gene; snRNA;	snRNA
+SNORD5	RF01161	SUPER_1	-	216060097	216060168	+	no	1	0.32	0.0	81.1	3.1e-09	!	*	Small nucleolar RNA SNORD5	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_1	CL00001	172874258	172874186	-	no	1	0.64	0.0	61.6	3.4e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	94995802	94995875	+	no	1	0.61	0.0	61.0	5.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	94997351	94997424	+	no	1	0.61	0.0	61.0	5.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	95005210	95005283	+	no	1	0.61	0.0	61.0	5.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	96860463	96860536	+	no	1	0.61	0.0	61.0	5.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	94997864	94997793	-	no	1	0.58	0.0	60.7	6e-09	!	*	tRNA	Gene; tRNA;	tRNA
+LSU_rRNA_eukarya	RF02543	SUPER_1	CL00112	133616878	133616712	-	no	1	0.46	0.0	56.7	6.4e-09	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+Histone3	RF00032	SUPER_1	-	55126271	55126226	-	no	1	0.48	0.0	45.6	1.2e-08	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+tRNA	RF00005	SUPER_1	CL00001	52324983	52325054	+	no	1	0.61	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	53304669	53304740	+	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	53304995	53304924	-	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	94998092	94998021	-	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	95004638	95004709	+	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	95005557	95005628	+	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+Histone3	RF00032	SUPER_1	-	55106945	55106990	+	no	1	0.43	0.0	44.7	2.6e-08	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55232480	55232435	-	no	1	0.43	0.0	44.7	2.6e-08	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+SNORA31	RF00322	SUPER_1	-	194797410	194797275	-	no	1	0.48	0.0	66.7	3.3e-08	!	*	Small nucleolar RNA SNORA31	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_1	CL00001	94995426	94995508	+	no	1	0.64	0.0	57.1	5.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+Histone3	RF00032	SUPER_1	-	55174875	55174829	-	no	1	0.43	0.0	43.7	6.3e-08	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+tRNA	RF00005	SUPER_1	CL00001	225062095	225062166	+	no	1	0.61	0.0	56.6	8.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+U2	RF00004	SUPER_1	CL00006	226858499	226858681	+	no	1	0.48	0.0	59.6	1.5e-07	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+Histone3	RF00032	SUPER_1	-	55188875	55188831	-	no	1	0.47	0.0	42.5	1.7e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+tRNA	RF00005	SUPER_1	CL00001	103272265	103272194	-	no	1	0.62	0.0	55.2	2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA40	RF00561	SUPER_1	-	216061399	216061526	+	no	1	0.38	0.0	64.3	2.9e-07	!	*	Small nucleolar RNA SNORA40	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+Histone3	RF00032	SUPER_1	-	55190070	55190116	+	no	1	0.45	0.0	41.9	2.9e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+tRNA	RF00005	SUPER_1	CL00001	103271547	103271618	+	no	1	0.61	0.0	53.9	4.5e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_1	CL00001	225062451	225062380	-	no	1	0.61	0.0	53.9	4.5e-07	!	*	tRNA	Gene; tRNA;	tRNA
+Histone3	RF00032	SUPER_1	-	55127454	55127499	+	no	1	0.43	0.0	41.4	4.5e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55151647	55151601	-	no	1	0.45	0.0	41.2	5.2e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55230662	55230616	-	no	1	0.45	0.0	41.2	5.2e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55083960	55083915	-	no	1	0.41	0.0	41.2	5.3e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55090417	55090462	+	no	1	0.48	0.0	41.1	5.5e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55094025	55093980	-	no	1	0.48	0.0	41.1	5.5e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+tRNA	RF00005	SUPER_1	CL00001	99836361	99836289	-	no	1	0.62	0.0	53.4	6.1e-07	!	*	tRNA	Gene; tRNA;	tRNA
+Histone3	RF00032	SUPER_1	-	55226588	55226632	+	no	1	0.47	0.0	41.0	6.3e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55234188	55234144	-	no	1	0.47	0.0	41.0	6.3e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55200226	55200181	-	no	1	0.39	0.0	40.9	6.9e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55173565	55173520	-	no	1	0.54	0.0	40.7	8.3e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55230280	55230326	+	no	1	0.47	0.0	40.6	9e-07	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+U2	RF00004	SUPER_1	CL00006	169325136	169325322	+	no	1	0.45	0.0	55.5	1.5e-06	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_1	CL00001	108451640	108451566	-	no	1	0.55	0.0	52.0	1.5e-06	!	*	tRNA	Gene; tRNA;	tRNA
+Histone3	RF00032	SUPER_1	-	55177149	55177194	+	no	1	0.50	0.0	39.9	1.6e-06	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+U6	RF00026	SUPER_1	CL00009	71605733	71605832	+	no	1	0.41	0.0	45.3	2.1e-06	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+Histone3	RF00032	SUPER_1	-	55165436	55165391	-	no	1	0.50	0.0	39.1	3.1e-06	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+SNORA32	RF00421	SUPER_1	-	216066636	216066758	+	no	1	0.46	0.0	63.7	3.7e-06	!	*	Small nucleolar RNA SNORA32	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+Histone3	RF00032	SUPER_1	-	55144269	55144314	+	no	1	0.50	0.0	38.3	6.3e-06	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55187947	55187992	+	no	1	0.52	0.0	38.3	6.4e-06	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55199238	55199284	+	no	1	0.49	0.0	37.9	9e-06	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+Histone3	RF00032	SUPER_1	-	55105764	55105719	-	no	1	0.52	0.0	37.8	9.4e-06	!	*	Histone 3' UTR stem-loop	Cis-reg;	cis-regulatory element
+U1	RF00003	SUPER_2	CL00005	168604254	168604417	+	no	1	0.57	0.0	142.0	2.4e-34	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+HOTAIRM1_2	RF01976	SUPER_2	-	134272478	134272259	-	no	1	0.40	0.0	223.1	1.9e-31	!	*	HOX antisense intergenic RNA myeloid 1 conserved region 2	Gene; lncRNA;	lncRNA
+SNORA62	RF00091	SUPER_2	CL00040	120923931	120924090	+	no	1	0.52	0.0	146.5	5.5e-27	!	*	Small nucleolar RNA SNORA62/SNORA6 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA62	RF00091	SUPER_2	CL00040	120925020	120925178	+	no	1	0.52	0.0	144.0	2.1e-26	!	*	Small nucleolar RNA SNORA62/SNORA6 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+Hammerhead_HH9	RF02275	SUPER_2	CL00010	106817807	106817731	-	no	1	0.47	0.0	100.5	2e-24	!	^	Hammerhead ribozyme HH9	Gene; ribozyme;	ribozyme
+HOTTIP_2	RF02041	SUPER_2	-	134167020	134166629	-	no	1	0.50	0.0	104.4	5.6e-24	!	*	HOXA transcript at the distal tip, conserved region 2	Gene; lncRNA;	lncRNA
+Evf-2_5p	RF01778	SUPER_2	-	143607559	143607700	+	no	1	0.43	0.0	151.3	1e-23	!	*	Embryonic ventral forebrain-2 long ncRNA	Gene; lncRNA;	lncRNA
+mir-32	RF00666	SUPER_2	-	74365859	74365928	+	no	1	0.43	0.0	101.3	4e-22	!	*	mir-32 microRNA precursor family	Gene; miRNA;	miRNA
+mir-128	RF00649	SUPER_2	-	119431711	119431629	-	no	1	0.55	0.0	95.1	1.1e-21	!	*	microRNA mir-128	Gene; miRNA;	miRNA
+mir-489	RF00698	SUPER_2	-	145152448	145152531	+	no	1	0.46	0.0	103.7	9.2e-21	!	*	microRNA mir-489	Gene; miRNA;	miRNA
+mir-187	RF00674	SUPER_2	-	75052029	75051949	-	no	1	0.54	0.0	100.6	3.1e-20	!	*	microRNA mir-187	Gene; miRNA;	miRNA
+mir-1597	RF03932	SUPER_2	-	51883034	51883106	+	no	1	0.37	0.0	99.5	5.3e-19	!	*	mir-1597 microRNA precursor family	Gene; miRNA;	miRNA
+mir-460	RF00712	SUPER_2	-	170881910	170881986	+	no	1	0.42	0.0	88.5	1.3e-18	!	*	microRNA mir-460	Gene; miRNA;	miRNA
+mir-26	RF00244	SUPER_2	-	166944337	166944257	-	no	1	0.51	0.0	85.1	2.7e-18	!	*	mir-26 microRNA precursor family	Gene; miRNA;	miRNA
+mir-1662	RF02097	SUPER_2	-	168659640	168659705	+	no	1	0.48	0.0	96.9	3.6e-18	!	*	mir-1662 microRNA precursor	Gene; miRNA;	miRNA
+SNORA72	RF00139	SUPER_2	-	25137998	25138132	+	no	1	0.42	0.0	119.8	3.7e-18	!	*	Small nucleolar RNA SNORA72	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-1803	RF02094	SUPER_2	-	64733167	64733092	-	no	1	0.50	0.0	99.2	5e-18	!	*	mir-1803 microRNA precursor	Gene; miRNA;	miRNA
+mir-875	RF00933	SUPER_2	-	24348420	24348492	+	no	1	0.38	0.0	85.6	1.8e-17	!	*	microRNA mir-875	Gene; miRNA;	miRNA
+mir-133	RF00446	SUPER_2	-	53302403	53302474	+	no	1	0.43	0.0	86.9	2.9e-17	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+mir-124	RF00239	SUPER_2	-	40080969	40080899	-	no	1	0.49	0.0	86.2	4.8e-17	!	*	mir-124 microRNA precursor family	Gene; miRNA;	miRNA
+HOXA11-AS1_5	RF02141	SUPER_2	-	134182589	134182390	-	no	1	0.53	0.0	123.9	8.2e-17	!	*	HOXA11 antisense RNA 1 conserved region 5	Gene; lncRNA;	lncRNA
+SNORD123	RF01156	SUPER_2	-	80997649	80997717	+	no	1	0.38	0.0	91.5	9.9e-17	!	*	Small nucleolar RNA SNORD123	Gene; snRNA; snoRNA; CD-box;	snoRNA
+HOXA11-AS1_4	RF02140	SUPER_2	-	134183519	134183291	-	no	1	0.30	13.3	175.7	1.7e-16	!	*	HOXA11 antisense RNA 1 conserved region 4	Gene; lncRNA;	lncRNA
+mir-196	RF00256	SUPER_2	-	134201801	134201875	+	no	1	0.44	0.0	81.4	5.4e-16	!	*	mir-196 microRNA precursor family	Gene; miRNA;	miRNA
+mir-153	RF00650	SUPER_2	-	161893242	161893314	+	no	1	0.41	0.0	94.2	5.6e-16	!	*	microRNA mir-153	Gene; miRNA;	miRNA
+mir-138	RF00671	SUPER_2	-	125300176	125300246	+	no	1	0.56	0.0	84.4	1.2e-15	!	*	microRNA mir-138	Gene; miRNA;	miRNA
+Y_RNA	RF00019	SUPER_2	-	110014488	110014387	-	no	1	0.42	0.0	88.3	1.5e-15	!	*	Y RNA	Gene;	other ncRNA gene
+Y_RNA	RF00019	SUPER_2	-	110006025	110005914	-	no	1	0.46	0.0	82.8	4e-14	!	*	Y RNA	Gene;	other ncRNA gene
+K_chan_RES	RF00485	SUPER_2	-	36368364	36368251	-	no	1	0.41	0.0	84.1	4e-14	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+mir-1	RF00103	SUPER_2	-	53299112	53299188	+	no	1	0.34	0.0	81.2	5.1e-14	!	*	mir-1 microRNA precursor family	Gene; miRNA;	miRNA
+mir-1759	RF03261	SUPER_2	-	99863202	99863276	+	no	1	0.57	0.0	82.9	6.5e-14	!	*	mir-1759 microRNA precursor family	Gene; miRNA;	miRNA
+5S_rRNA	RF00001	SUPER_2	CL00113	39651243	39651125	-	no	1	0.55	0.0	78.8	2.5e-13	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+mir-148	RF00248	SUPER_2	-	134836580	134836652	+	no	1	0.52	0.0	75.2	8.7e-13	!	*	mir-148/mir-152 microRNA precursor family	Gene; miRNA;	miRNA
+Y_RNA	RF00019	SUPER_2	-	110025437	110025342	-	no	1	0.42	0.0	73.3	1.3e-11	!	*	Y RNA	Gene;	other ncRNA gene
+tRNA	RF00005	SUPER_2	CL00001	47713358	47713431	+	no	1	0.59	0.0	70.5	1.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	144550986	144551059	+	no	1	0.61	0.0	68.4	4.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	151579990	151579917	-	no	1	0.61	0.0	68.4	4.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	12945429	12945501	+	no	1	0.56	0.0	68.0	6.1e-11	!	*	tRNA	Gene; tRNA;	tRNA
+U6	RF00026	SUPER_2	CL00009	23365375	23365435	+	no	1	0.46	0.0	60.1	6.5e-11	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_2	CL00001	1361346	1361418	+	no	1	0.55	0.0	67.7	7.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	1375253	1375181	-	no	1	0.55	0.0	67.7	7.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+mir-30	RF00131	SUPER_2	-	7473996	7474068	+	no	1	0.49	0.0	65.2	7.3e-11	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+mir-133	RF00446	SUPER_2	-	53302474	53302403	-	no	1	0.43	0.0	62.8	2.4e-10	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+Hammerhead_HH9	RF02275	SUPER_2	CL00010	128359229	128359337	+	no	1	0.45	0.0	56.6	2.7e-10	!	*	Hammerhead ribozyme HH9	Gene; ribozyme;	ribozyme
+tRNA	RF00005	SUPER_2	CL00001	153874258	153874185	-	no	1	0.58	0.0	65.1	3.7e-10	!	*	tRNA	Gene; tRNA;	tRNA
+snoU54	RF01277	SUPER_2	CL00008	43485529	43485593	+	no	1	0.38	0.0	65.1	4e-10	!	*	Small nucleolar RNA U54	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_2	CL00001	48528414	48528484	+	no	1	0.56	0.0	64.8	4.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+mir-30	RF00131	SUPER_2	-	7477818	7477891	+	no	1	0.45	0.0	62.3	5.1e-10	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_2	CL00001	26249958	26250039	+	no	1	0.59	0.0	64.5	5.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	157758935	157759006	+	no	1	0.58	0.0	63.4	1.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+U2	RF00004	SUPER_2	CL00006	103670429	103670601	+	no	1	0.46	0.0	67.0	2.6e-09	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+Vimentin3	RF00109	SUPER_2	-	149077582	149077651	+	no	1	0.39	0.0	71.9	3.5e-09	!	*	Vimentin 3' UTR protein-binding region	Cis-reg;	cis-regulatory element
+HOXA11-AS1_2	RF02138	SUPER_2	-	134184455	134184279	-	no	1	0.46	0.0	91.1	9e-09	!	*	HOXA11 antisense RNA 1 conserved region 2	Gene; lncRNA;	lncRNA
+tRNA	RF00005	SUPER_2	CL00001	106630235	106630164	-	no	1	0.51	0.0	59.8	1.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39357716	39357788	+	no	1	0.58	0.0	59.1	1.6e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39361326	39361254	-	no	1	0.58	0.0	59.1	1.6e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39360087	39360159	+	no	1	0.59	0.0	59.1	1.6e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	47208375	47208303	-	no	1	0.56	0.0	59.1	1.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	47220659	47220731	+	no	1	0.56	0.0	59.1	1.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	47221726	47221654	-	no	1	0.56	0.0	59.1	1.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	47223963	47224035	+	no	1	0.56	0.0	59.1	1.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	47224558	47224630	+	no	1	0.56	0.0	59.1	1.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	32865274	32865347	+	no	1	0.57	0.0	58.6	2.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD93	RF00606	SUPER_2	-	136164267	136164180	-	no	1	0.39	0.0	64.4	3.7e-08	!	*	Small nucleolar RNA SNORD93	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_2	CL00001	39129454	39129543	+	no	1	0.62	0.0	57.8	3.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	101560462	101560551	+	no	1	0.53	0.0	57.7	4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39361703	39361793	+	no	1	0.58	0.0	57.7	4.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39359908	39359818	-	no	1	0.62	0.0	57.7	4.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	122669457	122669385	-	no	1	0.58	0.0	57.6	4.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39379728	39379816	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39380960	39381048	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39382192	39382280	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39383424	39383512	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39384656	39384744	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39385888	39385976	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39387116	39387204	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39388348	39388436	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39389580	39389668	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39392542	39392630	+	no	1	0.60	0.0	56.7	7.9e-08	!	*	tRNA	Gene; tRNA;	tRNA
+U6	RF00026	SUPER_2	CL00009	44037464	44037359	-	no	1	0.50	0.0	48.5	2.2e-07	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_2	CL00001	21217735	21217817	+	no	1	0.63	0.0	54.8	2.6e-07	!	*	tRNA	Gene; tRNA;	tRNA
+U6	RF00026	SUPER_2	CL00009	47072554	47072622	+	no	1	0.35	0.0	48.2	2.7e-07	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_2	CL00001	39380144	39380216	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39381376	39381448	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39382608	39382680	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39383840	39383912	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39385072	39385144	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39386300	39386372	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39387532	39387604	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39388764	39388836	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39389988	39390060	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_2	CL00001	39392966	39393038	+	no	1	0.58	0.0	54.0	4.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+mir-1	RF00103	SUPER_2	-	53299188	53299112	-	no	1	0.34	0.0	53.0	1.7e-06	!	*	mir-1 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD87	RF00439	SUPER_2	-	39009085	39009163	+	no	1	0.42	0.0	53.1	2.8e-06	!	*	Small nucleolar RNA SNORD87	Gene; snRNA; snoRNA; CD-box;	snoRNA
+7SK	RF00100	SUPER_3	CL00013	28008628	28008955	+	no	1	0.58	0.0	373.0	3.9e-104	!	*	7SK RNA	Gene;	other ncRNA gene
+LSU_rRNA_eukarya	RF02543	SUPER_3	CL00112	117974066	117973657	-	no	1	0.51	0.0	198.0	6.2e-48	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+U1	RF00003	SUPER_3	CL00005	309783	309946	+	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	310853	310690	-	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	315858	316021	+	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	391686	391523	-	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	396698	396861	+	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	397753	397590	-	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	490584	490747	+	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	491587	491424	-	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U1	RF00003	SUPER_3	CL00005	501622	501785	+	no	1	0.59	0.0	163.3	1.8e-40	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+Six3os1_5	RF02250	SUPER_3	-	101511775	101511504	-	no	1	0.45	0.0	181.6	5.9e-39	!	*	Six3os1 conserved region 5	Gene; lncRNA;	lncRNA
+SSU_rRNA_eukarya	RF01960	SUPER_3	CL00111	14154111	14153616	-	no	1	0.42	0.0	139.8	3.6e-36	!	*	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+U1	RF00003	SUPER_3	CL00005	56238909	56238751	-	no	1	0.55	0.0	133.7	6.1e-32	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+IRES_Cx43	RF00487	SUPER_3	-	59858222	59858415	+	no	1	0.39	0.0	120.8	3.3e-26	!	*	Connexin-43 internal ribosome entry site (IRES)	Cis-reg; IRES;	cis-regulatory element
+mir-1641	RF03322	SUPER_3	-	125213475	125213391	-	no	1	0.46	0.0	112.3	1.1e-23	!	*	mir-1641 microRNA precursor family	Gene; miRNA;	miRNA
+mir-1784	RF04093	SUPER_3	-	90324051	90323960	-	no	1	0.42	0.0	114.8	4.1e-23	!	*	mir-1784 microRNA precursor family	Gene; miRNA;	miRNA
+Six3os1_7	RF02252	SUPER_3	-	101507349	101507160	-	no	1	0.41	0.0	171.0	2.7e-22	!	*	Six3os1 conserved region 7	Gene; lncRNA;	lncRNA
+mir-217	RF00673	SUPER_3	-	129763296	129763388	+	no	1	0.40	0.0	119.0	1.5e-21	!	*	microRNA mir-217	Gene; miRNA;	miRNA
+mir-1329	RF03768	SUPER_3	-	17432704	17432620	-	no	1	0.42	0.0	108.7	5.5e-21	!	*	mir-1329 microRNA precursor family	Gene; miRNA;	miRNA
+Hammerhead_HH9	RF02275	SUPER_3	CL00010	822666	822585	-	no	1	0.44	0.0	88.4	1.6e-20	!	*	Hammerhead ribozyme HH9	Gene; ribozyme;	ribozyme
+mir-456	RF00878	SUPER_3	-	94965257	94965329	+	no	1	0.48	0.0	100.7	3.3e-20	!	*	microRNA mir-456	Gene; miRNA;	miRNA
+LSU_rRNA_bacteria	RF02541	SUPER_3	CL00112	117985308	117985505	+	no	1	0.47	0.0	78.1	1.6e-19	!	^	Bacterial large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SNORA29	RF00429	SUPER_3	CL00030	78447146	78447011	-	no	1	0.38	0.0	113.1	1.2e-17	!	*	Small nucleolar RNA SNORA29	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-1451	RF03710	SUPER_3	-	43212890	43212799	-	no	1	0.59	0.0	111.8	4.9e-17	!	*	mir-1451 microRNA precursor family	Gene; miRNA;	miRNA
+mir-1677	RF04254	SUPER_3	-	45566705	45566631	-	no	1	0.44	0.0	89.0	1.2e-16	!	*	mir-1677 microRNA precursor family	Gene; miRNA;	miRNA
+mir-194	RF00257	SUPER_3	-	109458452	109458374	-	no	1	0.47	0.0	82.3	1.8e-16	!	*	mir-194 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA14	RF00397	SUPER_3	-	87169076	87168942	-	no	1	0.41	0.0	100.1	1.9e-16	!	*	Small nucleolar RNA SNORA14	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA33	RF00438	SUPER_3	-	65532556	65532690	+	no	1	0.39	0.0	104.1	4.5e-15	!	*	Small nucleolar RNA SNORA33	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SSU_rRNA_eukarya	RF01960	SUPER_3	CL00111	55508846	55509013	+	no	1	0.43	0.0	70.1	7.4e-15	!	*	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SNORD53_SNORD92	RF00325	SUPER_3	CL00063	113499122	113499044	-	no	1	0.47	0.0	84.3	9.7e-15	!	*	Small nucleolar RNA SNORD53/SNORD92	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-30	RF00131	SUPER_3	-	35654950	35654873	-	no	1	0.53	0.0	75.1	1.1e-13	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+mir-216	RF00654	SUPER_3	CL00094	129759958	129760032	+	no	1	0.41	0.0	80.3	2.6e-13	!	*	microRNA mir-216	Gene; miRNA;	miRNA
+tRNA-Sec	RF01852	SUPER_3	CL00001	99427337	99427422	+	no	1	0.58	0.0	80.3	3.4e-13	!	*	Selenocysteine transfer RNA	Gene; tRNA;	tRNA
+SNORD100	RF00609	SUPER_3	CL00073	65531993	65532078	+	no	1	0.45	0.0	74.3	5.3e-13	!	*	Small nucleolar RNA SNORD100	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-192	RF00130	SUPER_3	-	109458123	109458051	-	no	1	0.41	0.0	66.8	6.1e-13	!	*	mir-192/215 microRNA precursor	Gene; miRNA;	miRNA
+mir-133	RF00446	SUPER_3	-	4644706	4644634	-	no	1	0.56	0.0	70.8	1.2e-12	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+mir-30	RF00131	SUPER_3	-	35628062	35627987	-	no	1	0.47	0.0	70.9	1.7e-12	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_3	CL00001	110303836	110303908	+	no	1	0.59	0.0	71.4	6.7e-12	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	33797524	33797453	-	no	1	0.56	0.0	71.3	7.5e-12	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4402482	4402553	+	no	1	0.57	0.0	71.0	8.9e-12	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD101	RF00186	SUPER_3	CL00074	65530576	65530647	+	no	1	0.44	0.0	72.0	1.7e-11	!	*	Small nucleolar RNA SNORD101	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD53_SNORD92	RF00325	SUPER_3	CL00063	113505621	113505545	-	no	1	0.53	0.0	72.1	1.7e-11	!	*	Small nucleolar RNA SNORD53/SNORD92	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD50	RF00278	SUPER_3	-	42213718	42213648	-	no	1	0.46	0.0	70.3	2.1e-11	!	*	Small nucleolar RNA SNORD50	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U2	RF00004	SUPER_3	CL00006	123959591	123959402	-	no	1	0.38	0.1	75.6	2.3e-11	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-216	RF00654	SUPER_3	CL00094	129754063	129754138	+	no	1	0.39	0.0	72.3	3.4e-11	!	*	microRNA mir-216	Gene; miRNA;	miRNA
+CAESAR	RF00172	SUPER_3	-	65068897	65068825	-	no	1	0.41	0.0	74.0	4.1e-11	!	*	ctgf/hcs24 CAESAR	Cis-reg;	cis-regulatory element
+mir-1	RF00103	SUPER_3	-	4648744	4648669	-	no	1	0.41	0.0	69.0	9.3e-11	!	*	mir-1 microRNA precursor family	Gene; miRNA;	miRNA
+U3	RF00012	SUPER_3	CL00100	8225828	8226013	+	no	1	0.56	0.0	66.6	1.3e-10	!	*	Small nucleolar RNA U3	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_3	CL00001	75354816	75354886	+	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD100	RF00609	SUPER_3	CL00073	65533468	65533552	+	no	1	0.42	0.0	64.7	2.7e-10	!	*	Small nucleolar RNA SNORD100	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_3	CL00001	78034273	78034191	-	no	1	0.55	0.0	65.0	3.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	11293877	11293958	+	no	1	0.59	0.0	64.5	5.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4393671	4393742	+	no	1	0.58	0.0	63.5	1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4401797	4401726	-	no	1	0.58	0.0	63.5	1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4398943	4399015	+	no	1	0.60	0.0	62.6	1.9e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4397288	4397360	+	no	1	0.63	0.0	61.2	4.4e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4394767	4394839	+	no	1	0.64	0.0	60.9	5.2e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	4400722	4400650	-	no	1	0.64	0.0	60.9	5.2e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	13895467	13895538	+	no	1	0.61	0.0	57.9	3.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	13903955	13903884	-	no	1	0.61	0.0	57.9	3.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	62022495	62022424	-	no	1	0.65	0.0	56.9	7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_3	CL00001	471285	471213	-	no	1	0.62	0.0	56.8	7.2e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD53_SNORD92	RF00325	SUPER_3	CL00063	113503999	113503916	-	no	1	0.43	0.0	58.3	8.1e-08	!	*	Small nucleolar RNA SNORD53/SNORD92	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_3	CL00001	103353530	103353437	-	no	1	0.57	0.0	55.3	1.9e-07	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD53_SNORD92	RF00325	SUPER_3	CL00063	113502704	113502621	-	no	1	0.38	0.0	56.9	1.9e-07	!	*	Small nucleolar RNA SNORD53/SNORD92	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_3	CL00001	50220921	50220849	-	no	1	0.55	0.0	54.1	3.9e-07	!	*	tRNA	Gene; tRNA;	tRNA
+mir-216	RF00654	SUPER_3	CL00094	129754138	129754063	-	no	1	0.39	0.0	56.2	6.1e-07	!	*	microRNA mir-216	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_3	CL00001	107344136	107344043	-	no	1	0.54	0.0	52.8	9.1e-07	!	*	tRNA	Gene; tRNA;	tRNA
+U6atac	RF00619	SUPER_3	CL00009	116865575	116865703	+	no	1	0.50	0.0	46.0	2.5e-06	!	*	U6atac minor spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORD50	RF00278	SUPER_3	-	42216174	42216107	-	no	1	0.37	0.0	51.7	2.5e-06	!	*	Small nucleolar RNA SNORD50	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD50	RF00278	SUPER_3	-	42214979	42214907	-	no	1	0.40	0.0	51.0	3.9e-06	!	*	Small nucleolar RNA SNORD50	Gene; snRNA; snoRNA; CD-box;	snoRNA
+LSU_rRNA_eukarya	RF02543	SUPER_4	CL00112	41224699	41225109	+	no	1	0.59	0.2	166.2	3.8e-39	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+RNase_MRP	RF00030	SUPER_4	CL00002	37879950	37879685	-	no	1	0.72	25.6	139.6	1.8e-37	!	*	RNase MRP	Gene; ribozyme;	ribozyme
+uc_338	RF02271	SUPER_4	-	79729589	79729768	+	no	1	0.49	0.0	135.1	1.1e-31	!	*	TUC338	Cis-reg;	cis-regulatory element
+SNORD94	RF00613	SUPER_4	-	6474854	6474713	-	no	1	0.51	0.0	122.2	8.4e-27	!	*	Small nucleolar RNA SNORD94	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-2968	RF02093	SUPER_4	-	28552051	28552156	+	no	1	0.66	0.0	124.6	1.1e-23	!	*	mir-2968 microRNA precursor	Gene; miRNA;	miRNA
+mir-103	RF00129	SUPER_4	-	2862214	2862291	+	no	1	0.45	0.0	99.0	1.5e-21	!	*	mir-103/107 microRNA precursor	Gene; miRNA;	miRNA
+mir-218	RF00255	SUPER_4	-	18883934	18884015	+	no	1	0.41	0.0	94.8	2.7e-21	!	*	mir-218 microRNA precursor family	Gene; miRNA;	miRNA
+mir-383	RF00715	SUPER_4	-	33244080	33244008	-	no	1	0.49	0.0	98.6	8.1e-21	!	*	microRNA mir-383	Gene; miRNA;	miRNA
+mir-2985	RF02095	SUPER_4	-	48405430	48405360	-	no	1	0.37	0.0	99.8	1.1e-19	!	*	mir-2985-2 microRNA precursor	Gene; miRNA;	miRNA
+mir-367	RF00735	SUPER_4	-	82972318	82972385	+	no	1	0.34	0.0	96.5	8.6e-19	!	*	microRNA mir-367	Gene; miRNA;	miRNA
+mir-302	RF00668	SUPER_4	CL00096	82971308	82971376	+	no	1	0.33	0.0	86.1	4.8e-15	!	*	microRNA mir-302	Gene; miRNA;	miRNA
+GABA3	RF01803	SUPER_4	-	29280533	29280480	-	no	1	0.35	0.0	71.7	4.4e-14	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-302	RF00668	SUPER_4	CL00096	82972062	82972129	+	no	1	0.41	0.0	79.2	3.3e-13	!	*	microRNA mir-302	Gene; miRNA;	miRNA
+SNORA26	RF00568	SUPER_4	CL00032	30734939	30735056	+	no	1	0.47	0.0	87.2	3.8e-13	!	*	Small nucleolar RNA SNORA26	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-146	RF00691	SUPER_4	-	2544287	2544383	+	no	1	0.48	0.0	73.6	4.6e-13	!	*	microRNA mir-146	Gene; miRNA;	miRNA
+GABA3	RF01803	SUPER_4	-	29481978	29481925	-	no	1	0.46	0.0	68.4	4.6e-13	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-302	RF00668	SUPER_4	CL00096	82971839	82971906	+	no	1	0.38	0.0	74.7	5.3e-12	!	*	microRNA mir-302	Gene; miRNA;	miRNA
+mir-302	RF00668	SUPER_4	CL00096	82971607	82971672	+	no	1	0.47	0.0	73.0	1.5e-11	!	*	microRNA mir-302	Gene; miRNA;	miRNA
+SNORA24	RF00399	SUPER_4	-	80611556	80611424	-	no	1	0.50	0.0	76.3	2e-10	!	*	Small nucleolar RNA SNORA24	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD73	RF00071	SUPER_4	-	51398370	51398301	-	no	1	0.37	0.0	74.0	3.5e-10	!	*	Small nucleolar RNA SNORD73	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SCARNA23	RF00427	SUPER_4	-	9073985	9074115	+	no	1	0.48	0.0	62.2	2e-08	!	*	Small Cajal body specific RNA 23	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+U5	RF00020	SUPER_4	-	16382205	16382272	+	no	1	0.31	0.0	64.1	1.1e-06	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+RNaseP_nuc	RF00009	SUPER_5	CL00002	49486296	49486648	+	no	1	0.71	33.6	151.2	3.8e-42	!	*	Nuclear RNase P	Gene; ribozyme;	ribozyme
+mir-214	RF00660	SUPER_5	-	52357667	52357567	-	no	1	0.55	0.0	121.0	5.2e-29	!	*	mir-214 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA19	RF00413	SUPER_5	-	26527675	26527543	-	no	1	0.39	0.0	136.8	1.1e-22	!	*	Small nucleolar RNA SNORA19	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA74	RF00090	SUPER_5	CL00043	2180348	2180146	-	no	1	0.49	0.0	99.9	2.1e-22	!	*	Small nucleolar RNA SNORA74	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-199	RF00144	SUPER_5	-	52363637	52363558	-	no	1	0.52	0.0	102.7	1.6e-21	!	*	mir-199 microRNA precursor	Gene; miRNA;	miRNA
+mir-202	RF00705	SUPER_5	-	15936436	15936511	+	no	1	0.42	0.0	100.5	3.2e-21	!	*	microRNA mir-202	Gene; miRNA;	miRNA
+mir-103	RF00129	SUPER_5	-	13500191	13500114	-	no	1	0.46	0.0	95.8	1.2e-20	!	*	mir-103/107 microRNA precursor	Gene; miRNA;	miRNA
+mir-101	RF00253	SUPER_5	-	58994700	58994774	+	no	1	0.47	0.0	97.0	1.4e-20	!	*	mir-101 microRNA precursor family	Gene; miRNA;	miRNA
+SCARNA3	RF00565	SUPER_5	CL00018	49038756	49038622	-	no	1	0.47	0.0	111.2	1e-19	!	*	Small Cajal body specific RNA 3	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-214	RF00660	SUPER_5	-	52357565	52357665	+	no	1	0.55	0.0	88.6	3.4e-19	!	*	mir-214 microRNA precursor family	Gene; miRNA;	miRNA
+mir-137	RF00694	SUPER_5	CL00092	77997531	77997461	-	no	1	0.44	0.0	87.1	2.3e-16	!	*	microRNA mir-137	Gene; miRNA;	miRNA
+SNORD75	RF00612	SUPER_5	-	48459905	48459839	-	no	1	0.43	0.0	65.5	3.9e-15	!	*	Small nucleolar RNA SNORD75	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U5	RF00020	SUPER_5	-	68376105	68375989	-	no	1	0.41	0.0	101.1	4.2e-15	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U5	RF00020	SUPER_5	-	68350140	68350254	+	no	1	0.46	0.0	99.7	8.5e-15	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORD21	RF00068	SUPER_5	-	76168621	76168717	+	no	1	0.47	0.0	91.1	9.4e-15	!	*	Small nucleolar RNA SNORD21	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD74	RF00284	SUPER_5	CL00069	48460797	48460720	-	no	1	0.46	0.0	76.6	9.6e-15	!	*	Small nucleolar RNA SNORD74	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U5	RF00020	SUPER_5	-	68377889	68377775	-	no	1	0.44	0.0	99.3	1e-14	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U5	RF00020	SUPER_5	-	68376747	68376633	-	no	1	0.44	0.0	98.8	1.4e-14	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-181	RF00076	SUPER_5	-	82254452	82254534	+	no	1	0.45	0.0	77.3	1.8e-14	!	*	mir-181 microRNA precursor	Gene; miRNA;	miRNA
+U5	RF00020	SUPER_5	-	68348931	68349045	+	no	1	0.45	0.0	97.8	2.4e-14	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-146	RF00691	SUPER_5	-	18129220	18129310	+	no	1	0.48	0.0	78.2	2.5e-14	!	*	microRNA mir-146	Gene; miRNA;	miRNA
+SNORA35	RF00566	SUPER_5	CL00034	68342496	68342368	-	no	1	0.53	0.0	90.5	2.6e-14	!	*	Small nucleolar RNA SNORA35	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-181	RF00076	SUPER_5	-	82254636	82254717	+	no	1	0.46	0.0	72.8	3.6e-13	!	*	mir-181 microRNA precursor	Gene; miRNA;	miRNA
+SNORA12	RF00586	SUPER_5	-	42781673	42781532	-	no	1	0.41	0.0	79.7	6.7e-13	!	*	Small nucleolar RNA SNORA12	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD98	RF00607	SUPER_5	-	37777305	37777368	+	no	1	0.33	0.0	75.6	3.3e-12	!	*	Small nucleolar RNA SNORD98	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U2	RF00004	SUPER_5	CL00006	64035841	64035749	-	no	1	0.37	0.0	79.1	3.3e-12	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORD39	RF00157	SUPER_5	CL00057	68347534	68347450	-	no	1	0.49	0.0	65.2	6e-11	!	*	Small nucleolar RNA SNORD55/SNORD39	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_5	CL00001	37356539	37356620	+	no	1	0.62	0.0	66.6	1.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD45	RF00279	SUPER_5	-	54962025	54961943	-	no	1	0.37	0.0	68.2	3.8e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_5	CL00001	11148552	11148480	-	no	1	0.62	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_5	CL00001	62617684	62617614	-	no	1	0.56	0.0	64.8	4.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_5	CL00001	39026067	39026138	+	no	1	0.67	0.0	62.8	1.6e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_5	CL00001	46744661	46744733	+	no	1	0.59	0.0	62.8	1.7e-09	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD79	RF00152	SUPER_5	CL00069	48456505	48456427	-	no	1	0.42	0.0	72.8	3.8e-09	!	*	Small nucleolar RNA SNORD79	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD38	RF00212	SUPER_5	CL00051	68344931	68344859	-	no	1	0.42	0.0	60.5	2.3e-08	!	*	Small nucleolar RNA SNORD38	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD47	RF00281	SUPER_5	-	48455216	48455141	-	no	1	0.37	0.0	61.5	4.1e-08	!	*	Small nucleolar RNA SNORD47	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_5	CL00001	76495945	76496029	+	no	1	0.61	0.0	56.9	6.8e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD46	RF00218	SUPER_5	CL00061	68347090	68346987	-	no	1	0.43	0.0	52.6	2.2e-07	!	*	Small nucleolar RNA SNORD46	Gene; snRNA; snoRNA; CD-box;	snoRNA
+snosnR60_Z15	RF00309	SUPER_5	CL00070	48459160	48459080	-	no	1	0.37	0.0	64.5	4.3e-07	!	^	Small nucleolar RNA snR60/Z15/Z230/Z193/J17	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD38	RF00212	SUPER_5	CL00051	68343634	68343563	-	no	1	0.47	0.0	54.6	9.1e-07	!	*	Small nucleolar RNA SNORD38	Gene; snRNA; snoRNA; CD-box;	snoRNA
+7SK	RF00100	SUPER_6	CL00013	60360288	60359962	-	no	1	0.56	0.0	326.0	3.2e-90	!	*	7SK RNA	Gene;	other ncRNA gene
+SCARNA7	RF01295	SUPER_6	-	21852584	21852901	+	no	1	0.44	0.0	177.7	1.5e-38	!	*	Small Cajal body-specific RNA 7	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+Telomerase-vert	RF00024	SUPER_6	CL00004	18862603	18863056	+	no	1	0.78	94.6	159.1	2.8e-37	!	*	Vertebrate telomerase RNA	Gene;	other ncRNA gene
+SOX2OT_exon1	RF01951	SUPER_6	-	14828972	14828747	-	no	1	0.43	0.0	201.3	1.2e-36	!	*	SOX2 overlapping transcript exon 1	Gene; lncRNA;	lncRNA
+SCARNA6	RF00478	SUPER_6	-	27817254	27816984	-	no	1	0.46	0.0	133.2	3.6e-34	!	*	Small Cajal body specific RNA 6	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+SNORA81	RF01241	SUPER_6	-	13938142	13938322	+	no	1	0.39	0.0	180.2	2.2e-33	!	*	Small nucleolar RNA SNORA81	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SOX2OT_exon3	RF01953	SUPER_6	-	14785114	14784846	-	no	1	0.57	0.0	154.1	4.4e-33	!	*	SOX2 overlapping transcript exon 3	Gene; lncRNA;	lncRNA
+SCARNA6	RF00478	SUPER_6	-	27814211	27813949	-	no	1	0.45	0.0	113.2	4e-28	!	*	Small Cajal body specific RNA 6	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28143457	28143575	+	no	1	0.60	0.0	116.0	3.7e-23	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28107792	28107910	+	no	1	0.61	0.0	115.3	5.6e-23	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28113338	28113456	+	no	1	0.61	0.0	115.3	5.6e-23	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+U6	RF00026	SUPER_6	CL00009	8021098	8020992	-	no	1	0.45	0.0	98.5	1.3e-22	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28093230	28093348	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28094777	28094895	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28098032	28098150	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28100601	28100719	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28102489	28102607	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28105169	28105287	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28109343	28109461	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28110716	28110834	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28114889	28115007	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28116264	28116382	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28118681	28118799	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28120574	28120692	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28121947	28122065	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28123323	28123441	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28125570	28125688	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28126775	28126893	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28127466	28127584	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28128671	28128789	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28130046	28130164	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28131249	28131367	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28132452	28132570	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28133830	28133948	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28135206	28135324	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28136581	28136699	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28137784	28137902	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28139162	28139280	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28140365	28140483	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28141742	28141860	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28146551	28146669	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28147758	28147876	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28148624	28148742	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28149830	28149948	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28151377	28151495	+	no	1	0.61	0.0	113.2	2.1e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28124189	28124307	+	no	1	0.61	0.0	112.7	2.7e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28117130	28117248	+	no	1	0.61	0.0	111.9	4.6e-22	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28152242	28152360	+	no	1	0.61	0.0	110.3	1.2e-21	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28106926	28107044	+	no	1	0.61	0.0	110.1	1.4e-21	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28112472	28112590	+	no	1	0.61	0.0	110.1	1.4e-21	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+mir-128	RF00649	SUPER_6	-	68756871	68756951	+	no	1	0.49	0.0	94.7	1.5e-21	!	*	microRNA mir-128	Gene; miRNA;	miRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28145174	28145292	+	no	1	0.59	0.0	107.6	6.1e-21	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+SNORA63	RF00092	SUPER_6	-	13938721	13938847	+	no	1	0.46	0.0	125.1	4e-19	!	*	Small nucleolar RNA SNORA63	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD66	RF00572	SUPER_6	-	13522566	13522642	+	no	1	0.55	0.0	84.0	4.5e-18	!	*	Small nucleolar RNA SNORD66	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-1788	RF03668	SUPER_6	-	58018906	58018982	+	no	1	0.57	0.0	87.5	3.8e-17	!	*	mir-1788 microRNA precursor family	Gene; miRNA;	miRNA
+mir-551	RF00892	SUPER_6	-	19403703	19403629	-	no	1	0.49	0.0	84.3	6.1e-17	!	*	microRNA mir-551	Gene; miRNA;	miRNA
+mir-10	RF00104	SUPER_6	-	50756671	50756597	-	no	1	0.35	0.0	77.9	2.1e-16	!	*	mir-10 microRNA precursor family	Gene; miRNA;	miRNA
+mir-16	RF00254	SUPER_6	CL00085	21917622	21917542	-	no	1	0.43	0.0	83.3	3.2e-16	!	^	mir-16 microRNA precursor family	Gene; miRNA;	miRNA
+mir-15	RF00455	SUPER_6	CL00085	21917794	21917711	-	no	1	0.36	0.0	74.6	5.9e-16	!	*	mir-15 microRNA precursor family	Gene; miRNA;	miRNA
+mir-375	RF00700	SUPER_6	-	58003790	58003854	+	no	1	0.62	0.0	77.2	2.9e-15	!	*	microRNA mir-375	Gene; miRNA;	miRNA
+ZEB2_AS1_1	RF01984	SUPER_6	-	72133970	72134099	+	no	1	0.44	0.0	108.3	3.1e-15	!	*	ZEB2 antisense RNA 1 conserved region 1	Gene; lncRNA;	lncRNA
+SNORD2	RF01299	SUPER_6	CL00072	13935854	13935923	+	no	1	0.40	0.0	85.2	7.2e-15	!	*	Small nucleolar RNA SNORD2	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-153	RF00650	SUPER_6	-	57771723	57771794	+	no	1	0.47	0.0	88.9	1.2e-14	!	*	microRNA mir-153	Gene; miRNA;	miRNA
+SNORA41	RF00403	SUPER_6	-	46392657	46392524	-	no	1	0.43	0.0	98.7	1e-13	!	*	Small nucleolar RNA SNORA41	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD11B	RF01192	SUPER_6	CL00103	45442121	45442204	+	no	1	0.46	0.0	87.1	1.8e-13	!	*	Small nucleolar RNA SNORD11B	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD11	RF01182	SUPER_6	CL00103	45443287	45443372	+	no	1	0.41	0.0	79.3	1.2e-12	!	*	Small nucleolar RNA SNORD11	Gene; snRNA; snoRNA; CD-box;	snoRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28104821	28104938	+	no	1	0.63	0.0	76.2	1.3e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28151029	28151146	+	no	1	0.61	0.0	75.2	2.2e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28151894	28152011	+	no	1	0.61	0.0	74.7	3.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+SNORD20	RF00217	SUPER_6	-	12625971	12625895	-	no	1	0.40	0.0	82.7	3.3e-12	!	*	Small nucleolar RNA SNORD20	Gene; snRNA; snoRNA; CD-box;	snoRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28092882	28092999	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28094429	28094546	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28097684	28097801	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28100253	28100370	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28102141	28102258	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28103966	28104083	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28107444	28107561	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28108995	28109112	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28112990	28113107	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28114541	28114658	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28116782	28116899	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28118333	28118450	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28120226	28120343	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28123841	28123958	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28125222	28125339	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28133482	28133599	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28138814	28138931	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28141394	28141511	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28146203	28146320	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28147410	28147527	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28148276	28148393	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28149482	28149599	+	no	1	0.62	0.0	73.3	7.1e-12	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+tRNA	RF00005	SUPER_6	CL00001	31885349	31885268	-	no	1	0.60	0.0	69.2	2.7e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD70	RF00575	SUPER_6	-	45434900	45434988	+	no	1	0.39	0.0	86.1	4.4e-11	!	*	Small nucleolar RNA SNORD70	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_6	CL00001	31898198	31898279	+	no	1	0.59	0.0	68.1	5.6e-11	!	*	tRNA	Gene; tRNA;	tRNA
+U4atac	RF00618	SUPER_6	CL00007	62725308	62725424	+	no	1	0.65	0.0	83.5	6e-11	!	*	U4atac minor spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_6	CL00001	31886044	31886125	+	no	1	0.61	0.0	67.9	6.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31890373	31890302	-	no	1	0.58	0.0	67.1	1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31908893	31908964	+	no	1	0.58	0.0	67.1	1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31892116	31892045	-	no	1	0.58	0.0	66.7	1.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	75767126	75767056	-	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31909515	31909586	+	no	1	0.60	0.0	65.6	2.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31891057	31891128	+	no	1	0.58	0.0	65.5	2.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31911167	31911096	-	no	1	0.58	0.0	65.5	2.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31896608	31896679	+	no	1	0.60	0.0	65.5	2.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31894254	31894183	-	no	1	0.58	0.0	65.4	3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31891420	31891501	+	no	1	0.57	0.0	65.2	3.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31888820	31888747	-	no	1	0.55	0.0	65.1	3.7e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	18858722	18858650	-	no	1	0.55	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD66	RF00572	SUPER_6	-	13523844	13523916	+	no	1	0.56	0.0	58.5	3.9e-10	!	*	Small nucleolar RNA SNORD66	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_6	CL00001	58068814	58068742	-	no	1	0.52	0.0	64.9	4.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31897655	31897728	+	no	1	0.57	0.0	64.9	4.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	75766759	75766830	+	no	1	0.62	0.0	64.8	4.6e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31885464	31885536	+	no	1	0.60	0.0	64.1	6.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31889463	31889544	+	no	1	0.56	0.0	64.0	7.6e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD82	RF00158	SUPER_6	-	12628650	12628581	-	no	1	0.39	0.0	66.1	8.2e-10	!	*	Small nucleolar RNA SNORD82	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_6	CL00001	31895357	31895276	-	no	1	0.59	0.0	63.7	9.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31914129	31914210	+	no	1	0.59	0.0	63.7	9.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	43749098	43749170	+	no	1	0.59	0.0	62.7	1.7e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31885860	31885788	-	no	1	0.62	0.0	61.4	4e-09	!	*	tRNA	Gene; tRNA;	tRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28128324	28128440	+	no	1	0.62	0.0	62.8	4.5e-09	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28129699	28129815	+	no	1	0.62	0.0	62.8	4.5e-09	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28134859	28134975	+	no	1	0.62	0.0	62.8	4.5e-09	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28136234	28136350	+	no	1	0.62	0.0	62.8	4.5e-09	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28143110	28143226	+	no	1	0.62	0.0	62.8	4.5e-09	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+tRNA	RF00005	SUPER_6	CL00001	31892746	31892818	+	no	1	0.56	0.0	59.6	1.2e-08	!	*	tRNA	Gene; tRNA;	tRNA
+U2	RF00004	SUPER_6	CL00006	26917542	26917420	-	no	1	0.42	0.0	62.6	3e-08	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-737	RF03956	SUPER_6	-	13422344	13422406	+	no	1	0.24	0.3	67.2	9e-08	!	*	mir-737 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_6	CL00001	31896176	31896247	+	no	1	0.62	0.0	54.7	2.7e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31911599	31911528	-	no	1	0.62	0.0	54.7	2.7e-07	!	*	tRNA	Gene; tRNA;	tRNA
+mir-16	RF00254	SUPER_6	CL00085	21917542	21917622	+	no	1	0.43	0.0	51.9	4.1e-07	!	*	mir-16 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_6	CL00001	31908651	31908722	+	no	1	0.64	0.0	53.2	7e-07	!	*	tRNA	Gene; tRNA;	tRNA
+5S_rRNA	RF00001	SUPER_6	CL00113	28144827	28144943	+	no	1	0.62	0.0	54.4	7.1e-07	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+SOX2OT_exon4	RF01954	SUPER_6	-	14771386	14771283	-	no	1	0.64	0.0	59.2	9.5e-07	!	*	SOX2 overlapping transcript exon 4	Gene; lncRNA;	lncRNA
+tRNA	RF00005	SUPER_6	CL00001	31893239	31893168	-	no	1	0.62	0.0	52.0	1.6e-06	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31893815	31893886	+	no	1	0.62	0.0	52.0	1.6e-06	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31912359	31912288	-	no	1	0.62	0.0	52.0	1.6e-06	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31912943	31913014	+	no	1	0.62	0.0	52.0	1.6e-06	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD70	RF00575	SUPER_6	-	45440124	45440211	+	no	1	0.36	0.0	65.3	1.7e-06	!	*	Small nucleolar RNA SNORD70	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_6	CL00001	31892382	31892453	+	no	1	0.61	0.0	51.4	2.2e-06	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_6	CL00001	31890624	31890695	+	no	1	0.62	0.0	49.9	5.8e-06	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD51	RF00280	SUPER_6	CL00054	46393143	46393064	-	no	1	0.36	0.0	56.4	7.9e-06	!	*	Small nucleolar RNA SNORD51	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U2	RF00004	SUPER_6	CL00006	44618615	44618773	+	no	1	0.43	0.1	52.5	8e-06	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SSU_rRNA_eukarya	RF01960	SUPER_7	CL00111	41386212	41386911	+	no	1	0.49	0.0	261.1	3e-73	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+Metazoa_SRP	RF00017	SUPER_7	CL00003	70870588	70870887	+	no	1	0.69	18.4	263.4	8e-70	!	^	Metazoan signal recognition particle RNA	Gene;	other ncRNA gene
+Metazoa_SRP	RF00017	SUPER_7	CL00003	71007064	71006765	-	no	1	0.69	18.4	263.4	8e-70	!	^	Metazoan signal recognition particle RNA	Gene;	other ncRNA gene
+Metazoa_SRP	RF00017	SUPER_7	CL00003	70868643	70868941	+	no	1	0.68	17.2	254.3	3.4e-67	!	^	Metazoan signal recognition particle RNA	Gene;	other ncRNA gene
+Metazoa_SRP	RF00017	SUPER_7	CL00003	70869793	70870091	+	no	1	0.67	13.6	250.4	4.6e-66	!	^	Metazoan signal recognition particle RNA	Gene;	other ncRNA gene
+7SK	RF00100	SUPER_7	CL00013	57012363	57012007	-	no	1	0.54	0.0	228.9	2e-61	!	*	7SK RNA	Gene;	other ncRNA gene
+SCARNA13	RF00231	SUPER_7	-	56844410	56844137	-	no	1	0.43	0.0	226.8	6.9e-59	!	*	Small Cajal body specific RNA 13	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+SNORA23	RF00319	SUPER_7	-	13031820	13031639	-	no	1	0.44	0.0	160.9	1.6e-32	!	*	Small nucleolar RNA SNORA23	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+U6	RF00026	SUPER_7	CL00009	38135741	38135635	-	no	1	0.40	0.0	114.0	2.6e-27	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORD67	RF00573	SUPER_7	-	28568258	28568368	+	no	1	0.54	0.0	103.3	2.4e-21	!	*	Small nucleolar RNA SNORD67	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-203	RF00696	SUPER_7	-	62258733	62258812	+	no	1	0.44	0.0	98.2	4.7e-20	!	*	microRNA mir-203	Gene; miRNA;	miRNA
+5S_rRNA	RF00001	SUPER_7	CL00113	67140794	67140676	-	no	1	0.58	0.0	103.4	8.1e-20	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+SNORA3	RF00334	SUPER_7	CL00022	13488614	13488745	+	no	1	0.49	0.0	111.0	1.6e-19	!	*	Small nucleolar RNA SNORA3/SNORA45 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-129	RF00486	SUPER_7	-	26185781	26185871	+	no	1	0.55	0.0	95.7	2.5e-19	!	*	mir-129 microRNA precursor family	Gene; miRNA;	miRNA
+K_chan_RES	RF00485	SUPER_7	-	16536436	16536549	+	no	1	0.57	0.0	101.3	1.5e-18	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+K_chan_RES	RF00485	SUPER_7	-	7959743	7959630	-	no	1	0.48	0.0	99.7	3.8e-18	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+SNORA28	RF00400	SUPER_7	CL00033	61645187	61645310	+	no	1	0.42	0.0	108.1	3.7e-17	!	*	Small nucleolar RNA SNORA28	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-210	RF00679	SUPER_7	-	20885019	20885115	+	no	1	0.60	0.0	80.9	4.5e-17	!	*	microRNA mir-210	Gene; miRNA;	miRNA
+SNORD97	RF01291	SUPER_7	-	12254556	12254710	+	no	1	0.46	0.0	108.3	1.5e-16	!	*	Small nucleolar RNA SNORD97	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA54	RF00430	SUPER_7	CL00034	17517543	17517670	+	no	1	0.43	0.0	97.3	3.1e-16	!	*	Small nucleolar RNA SNORA54	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+WT1-AS_7	RF02209	SUPER_7	-	9150625	9150842	+	no	1	0.65	0.4	84.1	4.2e-15	!	*	WT1 antisense RNA conserved region 7	Gene; lncRNA;	lncRNA
+SNORA3	RF00334	SUPER_7	CL00022	13489592	13489723	+	no	1	0.48	0.0	84.7	3.2e-13	!	*	Small nucleolar RNA SNORA3/SNORA45 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA52	RF00419	SUPER_7	CL00038	20742423	20742291	-	no	1	0.47	0.0	81.1	3.4e-13	!	*	Small nucleolar RNA SNORA52	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD127	RF01186	SUPER_7	-	72642087	72642002	-	no	1	0.44	0.0	86.6	4.5e-12	!	*	Small nucleolar RNA SNORD127	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_7	CL00001	53430728	53430656	-	no	1	0.59	0.0	71.4	6.7e-12	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA54	RF00430	SUPER_7	CL00034	17521079	17521199	+	no	1	0.41	0.0	77.3	1.9e-11	!	*	Small nucleolar RNA SNORA54	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-203	RF00696	SUPER_7	-	62258816	62258737	-	no	1	0.44	0.0	67.0	2.8e-11	!	*	microRNA mir-203	Gene; miRNA;	miRNA
+U2	RF00004	SUPER_7	CL00006	14453948	14454137	+	no	1	0.36	0.2	72.1	1.6e-10	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_7	CL00001	857570	857651	+	no	1	0.59	0.0	66.3	1.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_7	CL00001	67967279	67967351	+	no	1	0.64	0.0	65.4	3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_7	CL00001	73824062	73823990	-	no	1	0.63	0.0	63.6	9.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_7	CL00001	69066797	69066726	-	no	1	0.58	0.0	63.4	1.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_7	CL00001	60852784	60852857	+	no	1	0.61	0.0	61.0	5.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_7	CL00001	21187398	21187470	+	no	1	0.56	0.0	59.1	1.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_7	CL00001	53867310	53867229	-	no	1	0.63	0.0	55.8	1.3e-07	!	*	tRNA	Gene; tRNA;	tRNA
+IRE_I	RF00037	SUPER_7	-	2184595	2184630	+	no	1	0.64	0.0	49.9	8.1e-07	!	*	Iron response element I	Cis-reg;	cis-regulatory element
+IRE_I	RF00037	SUPER_7	-	2247860	2247895	+	no	1	0.64	0.0	49.9	8.1e-07	!	*	Iron response element I	Cis-reg;	cis-regulatory element
+U6atac	RF00619	SUPER_7	CL00009	35949004	35948885	-	no	1	0.40	0.0	47.4	1.1e-06	!	*	U6atac minor spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+uc_338	RF02271	SUPER_8	-	5662982	5662803	-	no	1	0.56	0.0	137.2	2.7e-32	!	*	TUC338	Cis-reg;	cis-regulatory element
+SNORA84	RF01229	SUPER_8	-	4585459	4585325	-	no	1	0.48	0.0	111.7	7.1e-22	!	*	Small nucleolar RNA SNORA84	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-425	RF00803	SUPER_8	-	14514685	14514769	+	no	1	0.58	0.0	95.9	7.7e-21	!	*	microRNA mir-425	Gene; miRNA;	miRNA
+SNORA7	RF00409	SUPER_8	CL00025	25037715	25037577	-	no	1	0.60	0.0	103.5	6.2e-19	!	*	Small nucleolar RNA SNORA7	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-2970	RF02092	SUPER_8	-	14514977	14515056	+	no	1	0.60	0.0	94.7	1.5e-17	!	*	mir-2970 microRNA precursor	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_8	CL00148	1513537	1513623	+	no	1	0.38	0.0	81.6	5.4e-14	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-135	RF00246	SUPER_8	-	8078960	8078874	-	no	1	0.47	0.0	76.0	2.5e-13	!	*	mir-135 microRNA precursor family	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_8	CL00148	1514604	1514688	+	no	1	0.45	0.0	77.6	6.2e-13	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_8	CL00148	8053271	8053184	-	no	1	0.52	0.0	77.5	6.4e-13	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_8	CL00148	1513094	1513175	+	no	1	0.40	0.0	77.1	8.1e-13	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-191	RF00764	SUPER_8	-	14514125	14514211	+	no	1	0.74	0.8	65.7	7.7e-11	!	*	microRNA mir-191	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_8	CL00001	12571932	12572014	+	no	1	0.59	0.0	62.5	1.9e-09	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD17	RF00567	SUPER_9	-	12026315	12026072	-	no	1	0.59	1.6	125.8	1.3e-27	!	*	Small nucleolar RNA SNORD17	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD17	RF00567	SUPER_9	-	12029404	12029161	-	no	1	0.59	1.3	124.1	3.7e-27	!	*	Small nucleolar RNA SNORD17	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-363	RF01898	SUPER_9	CL00110	2577177	2577098	-	no	1	0.43	0.0	109.0	4.4e-24	!	*	microRNA mir-363	Gene; miRNA;	miRNA
+mir-223	RF00664	SUPER_9	-	11564450	11564346	-	no	1	0.50	0.0	103.4	1.3e-23	!	*	microRNA mir-223	Gene; miRNA;	miRNA
+U6	RF00026	SUPER_9	CL00009	3275084	3275186	+	no	1	0.44	0.0	93.8	3.7e-21	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-92	RF00464	SUPER_9	CL00137	2577316	2577236	-	no	1	0.47	0.0	85.8	2.7e-20	!	*	mir-92 microRNA precursor family	Gene; miRNA;	miRNA
+snoU109	RF01233	SUPER_9	-	2737363	2737216	-	no	1	0.39	0.0	122.4	7.6e-19	!	*	Small nucleolar RNA U109	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-2985	RF02095	SUPER_9	-	18382128	18382195	+	no	1	0.35	0.0	87.8	2.3e-16	!	*	mir-2985-2 microRNA precursor	Gene; miRNA;	miRNA
+mir-460	RF00712	SUPER_9	-	895782	895856	+	no	1	0.44	0.0	79.7	5e-16	!	*	microRNA mir-460	Gene; miRNA;	miRNA
+GABA3	RF01803	SUPER_9	-	12630828	12630775	-	no	1	0.54	0.0	76.5	1.4e-15	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+SNORA69	RF00265	SUPER_9	-	17546553	17546422	-	no	1	0.44	0.0	97.3	7.3e-15	!	*	Small nucleolar RNA SNORA69	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-19	RF00245	SUPER_9	CL00110	2577483	2577406	-	no	1	0.42	0.0	82.3	3.5e-13	!	*	mir-19 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	SUPER_9	-	2577954	2577879	-	no	1	0.42	0.0	74.1	4.5e-13	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+mir-15	RF00455	SUPER_9	CL00085	2680027	2679939	-	no	1	0.49	0.0	63.1	2.9e-12	!	^	mir-15 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	SUPER_9	-	2577608	2577530	-	no	1	0.44	0.0	71.0	3.2e-12	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	SUPER_9	-	2577801	2577720	-	no	1	0.45	0.0	69.2	1e-11	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD61	RF00270	SUPER_9	CL00067	3199627	3199555	-	no	1	0.41	0.0	83.4	5.1e-10	!	*	Small nucleolar RNA SNORD61	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD83	RF00137	SUPER_9	-	12028609	12028534	-	no	1	0.46	0.0	64.2	3.7e-09	!	*	Small nucleolar RNA SNORD83	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA-Sec	RF01852	SUPER_9	CL00001	20934160	20934245	+	no	1	0.56	0.0	62.9	1.1e-08	!	*	Selenocysteine transfer RNA	Gene; tRNA;	tRNA
+SNORD83	RF00137	SUPER_9	-	12024878	12024803	-	no	1	0.45	0.0	59.7	6e-08	!	*	Small nucleolar RNA SNORD83	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-221	RF00651	SUPER_9	-	11950440	11950354	-	no	1	0.51	0.0	51.6	5.4e-07	!	*	microRNA mir-221	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_9	CL00001	21769486	21769601	+	no	1	0.62	0.0	50.2	4.7e-06	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA36	RF00340	SUPER_9	CL00035	12028126	12027992	-	no	1	0.46	0.0	58.0	7.3e-06	!	*	Small nucleolar RNA SNORA36 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-204	RF00646	SUPER_10	-	18270415	18270328	-	no	1	0.55	0.0	99.2	1.5e-22	!	*	microRNA mir-204	Gene; miRNA;	miRNA
+Hammerhead_HH9	RF02275	SUPER_10	CL00010	21344397	21344321	-	no	1	0.49	0.0	93.7	3e-22	!	*	Hammerhead ribozyme HH9	Gene; ribozyme;	ribozyme
+SNORD16	RF00138	SUPER_10	CL00046	12990785	12990686	-	no	1	0.46	0.0	109.2	6.2e-21	!	*	Small nucleolar RNA SNORD16	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SCARNA14	RF00582	SUPER_10	-	12928560	12928424	-	no	1	0.42	0.0	119.2	3.7e-19	!	*	Small Cajal body specific RNA 14	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-147	RF00693	SUPER_10	-	3670454	3670531	+	no	1	0.40	0.0	91.3	6.2e-19	!	*	mir-147 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA71	RF00056	SUPER_10	-	23975069	23975200	+	no	1	0.63	0.0	108.5	1.5e-18	!	*	Small nucleolar RNA SNORA71	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SCARNA15	RF00426	SUPER_10	CL00019	4161378	4161508	+	no	1	0.45	0.0	99.0	1.3e-15	!	*	Small Cajal body specific RNA 15	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-190	RF00672	SUPER_10	CL00089	20010000	20010074	+	no	1	0.29	0.0	88.9	5.7e-15	!	*	microRNA mir-190	Gene; miRNA;	miRNA
+SNORA71	RF00056	SUPER_10	-	23976028	23976160	+	no	1	0.59	0.0	92.1	1.1e-14	!	*	Small nucleolar RNA SNORA71	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD16	RF00138	SUPER_10	CL00046	12992372	12992272	-	no	1	0.48	0.0	84.3	2.6e-14	!	*	Small nucleolar RNA SNORD16	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-184	RF00657	SUPER_10	-	15210289	15210372	+	no	1	0.46	0.0	79.7	4.3e-14	!	*	microRNA mir-184	Gene; miRNA;	miRNA
+Antizyme_FSE	RF00381	SUPER_10	-	24283405	24283350	-	no	1	0.66	0.0	75.3	9e-14	!	*	Antizyme RNA frameshifting stimulation element	Cis-reg; frameshift_element;	cis-regulatory element
+tRNA	RF00005	SUPER_10	CL00001	20922099	20922171	+	no	1	0.58	0.0	73.6	1.7e-12	!	*	tRNA	Gene; tRNA;	tRNA
+mir-9	RF00237	SUPER_10	-	6402026	6401949	-	no	1	0.37	0.0	78.8	4e-12	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD18	RF00093	SUPER_10	CL00047	12991318	12991247	-	no	1	0.40	0.0	78.5	8.7e-12	!	*	Small nucleolar RNA SNORD18	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-7	RF00053	SUPER_10	-	6661962	6661873	-	no	1	0.54	0.0	71.4	1.1e-11	!	*	mir-7 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_10	CL00001	6412951	6412879	-	no	1	0.60	0.0	70.1	1.6e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	12573457	12573386	-	no	1	0.50	0.0	68.3	5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24898781	24898710	-	no	1	0.51	0.0	68.2	5.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24916761	24916690	-	no	1	0.51	0.0	68.2	5.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24934754	24934683	-	no	1	0.51	0.0	68.2	5.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24977879	24977808	-	no	1	0.51	0.0	68.2	5.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25049711	25049782	+	no	1	0.51	0.0	68.2	5.3e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD18	RF00093	SUPER_10	CL00047	12989235	12989165	-	no	1	0.39	0.0	74.8	7e-11	!	*	Small nucleolar RNA SNORD18	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_10	CL00001	14666293	14666221	-	no	1	0.64	0.0	65.4	3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24800475	24800556	+	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24822578	24822659	+	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24862186	24862105	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24883948	24883867	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24900484	24900403	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24918464	24918383	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24936457	24936376	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24986383	24986302	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25013439	25013358	-	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25027218	25027299	+	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25063807	25063888	+	no	1	0.56	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24787027	24787098	+	no	1	0.58	0.0	63.4	1.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24676822	24676749	-	no	1	0.62	0.0	61.0	5.1e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24617247	24617318	+	no	1	0.57	0.0	60.9	5.4e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24617768	24617697	-	no	1	0.57	0.0	60.9	5.4e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24808347	24808418	+	no	1	0.50	0.0	60.3	8e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24876417	24876346	-	no	1	0.50	0.0	60.3	8e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24804700	24804771	+	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24826803	24826874	+	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24857961	24857890	-	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24879723	24879652	-	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24981660	24981589	-	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25008315	25008244	-	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25032340	25032411	+	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25068531	25068602	+	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24836248	24836167	-	no	1	0.55	0.0	59.9	1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24998875	24998956	+	no	1	0.55	0.0	59.9	1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25041765	25041684	-	no	1	0.55	0.0	59.9	1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24848517	24848598	+	no	1	0.56	0.0	58.5	2.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24676489	24676560	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24785364	24785435	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24802345	24802416	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24824448	24824519	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24860316	24860245	-	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24882078	24882007	-	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24983613	24983542	-	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25010670	25010599	-	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25029985	25030056	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25066578	25066649	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25033519	25033601	+	no	1	0.60	0.0	56.5	8.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24805891	24805973	+	no	1	0.61	0.0	56.5	8.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24980466	24980384	-	no	1	0.61	0.0	56.5	8.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25007121	25007039	-	no	1	0.61	0.0	56.5	8.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25047085	25047167	+	no	1	0.61	0.0	56.5	8.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	25069721	25069803	+	no	1	0.61	0.0	56.5	8.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+U5	RF00020	SUPER_10	-	11169007	11169099	+	no	1	0.37	0.0	68.9	8.8e-08	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+tRNA	RF00005	SUPER_10	CL00001	24827994	24828076	+	no	1	0.60	0.0	54.5	3.1e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_10	CL00001	24856770	24856688	-	no	1	0.60	0.0	54.5	3.1e-07	!	*	tRNA	Gene; tRNA;	tRNA
+mir-9	RF00237	SUPER_10	-	6401949	6402026	+	no	1	0.37	0.0	59.3	3.6e-07	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA50	RF00407	SUPER_11	CL00034	23184645	23184780	+	no	1	0.44	0.0	156.0	1.2e-27	!	^	Small nucleolar RNA SNORA50	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-140	RF00678	SUPER_11	-	1105605	1105527	-	no	1	0.53	0.0	108.7	5.3e-24	!	*	microRNA mir-140	Gene; miRNA;	miRNA
+mir-138	RF00671	SUPER_11	-	21653338	21653415	+	no	1	0.54	0.0	94.8	1.6e-18	!	*	microRNA mir-138	Gene; miRNA;	miRNA
+mir-1789	RF03241	SUPER_11	-	13562694	13562632	-	no	1	0.49	0.0	91.8	2.2e-18	!	*	mir-1789 microRNA precursor family	Gene; miRNA;	miRNA
+U1	RF00003	SUPER_11	CL00005	14281429	14281275	-	no	1	0.50	0.0	79.1	3.5e-16	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORD71	RF00576	SUPER_11	-	134509	134423	-	no	1	0.51	0.0	82.7	1.7e-15	!	*	Small nucleolar RNA SNORD71	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA46	RF00404	SUPER_11	-	23194984	23195122	+	no	1	0.45	0.0	98.7	9.9e-15	!	*	Small nucleolar RNA SNORA46	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-1791	RF03439	SUPER_11	-	13469863	13469786	-	no	1	0.46	0.0	79.3	5e-14	!	*	mir-1791 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_11	CL00001	12160549	12160476	-	no	1	0.57	0.0	71.4	6.7e-12	!	*	tRNA	Gene; tRNA;	tRNA
+snoMBII-202	RF00324	SUPER_11	-	1508498	1508418	-	no	1	0.49	0.0	69.8	1.3e-11	!	*	Small nucleolar RNA MBII-202	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_11	CL00001	2813940	2814012	+	no	1	0.56	0.0	68.0	6.1e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	22809911	22809981	+	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	22810588	22810658	+	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	22812602	22812672	+	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	22886929	22886859	-	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	22898099	22898169	+	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	23226312	23226384	+	no	1	0.56	0.0	66.5	1.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	23718744	23718672	-	no	1	0.56	0.0	66.5	1.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	22811624	22811694	+	no	1	0.61	0.0	63.3	1.2e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	23225668	23225597	-	no	1	0.56	0.0	60.6	6.5e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	23716355	23716426	+	no	1	0.56	0.0	60.6	6.5e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	23719388	23719459	+	no	1	0.56	0.0	60.6	6.5e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	24100624	24100706	+	no	1	0.63	0.0	54.8	2.6e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_11	CL00001	24100932	24100850	-	no	1	0.63	0.0	54.8	2.6e-07	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA74	RF00090	SUPER_12	CL00043	20889293	20889496	+	no	1	0.54	0.0	122.3	6.7e-29	!	*	Small nucleolar RNA SNORA74	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-143	RF00683	SUPER_12	-	12753652	12753735	+	no	1	0.56	0.0	107.9	1.3e-24	!	*	microRNA mir-143	Gene; miRNA;	miRNA
+mir-458	RF00750	SUPER_12	-	13116856	13116933	+	no	1	0.42	0.0	101.4	1.5e-20	!	*	microRNA mir-458	Gene; miRNA;	miRNA
+mir-458	RF00750	SUPER_12	-	13734420	13734497	+	no	1	0.42	0.0	101.4	1.5e-20	!	*	microRNA mir-458	Gene; miRNA;	miRNA
+mir-218	RF00255	SUPER_12	-	18223860	18223779	-	no	1	0.44	0.0	92.3	1.6e-20	!	*	mir-218 microRNA precursor family	Gene; miRNA;	miRNA
+mir-103	RF00129	SUPER_12	-	18058433	18058356	-	no	1	0.46	0.0	94.8	2.5e-20	!	*	mir-103/107 microRNA precursor	Gene; miRNA;	miRNA
+mir-145	RF00675	SUPER_12	-	12754078	12754163	+	no	1	0.58	0.0	95.8	2.9e-19	!	*	microRNA mir-145	Gene; miRNA;	miRNA
+GABA3	RF01803	SUPER_12	-	15006978	15007031	+	no	1	0.48	0.0	76.6	1.3e-15	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-146	RF00691	SUPER_12	-	14262705	14262798	+	no	1	0.44	0.0	80.4	5.9e-15	!	*	microRNA mir-146	Gene; miRNA;	miRNA
+GABA3	RF01803	SUPER_12	-	14894029	14894082	+	no	1	0.48	0.0	71.2	6e-14	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-458	RF00750	SUPER_12	-	13116933	13116856	-	no	1	0.42	0.0	77.2	9.1e-14	!	*	microRNA mir-458	Gene; miRNA;	miRNA
+mir-458	RF00750	SUPER_12	-	13734497	13734420	-	no	1	0.42	0.0	77.2	9.1e-14	!	*	microRNA mir-458	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_12	CL00001	18043278	18043207	-	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD63	RF00154	SUPER_12	-	20493440	20493369	-	no	1	0.43	0.0	63.4	4.6e-08	!	*	Small nucleolar RNA SNORD63	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-3533	RF03561	SUPER_13	-	8218105	8218188	+	no	1	0.45	0.0	109.8	2.2e-22	!	*	mir-3533 microRNA precursor family	Gene; miRNA;	miRNA
+mir-365	RF00659	SUPER_13	-	15926496	15926581	+	no	1	0.44	0.0	110.4	4.3e-22	!	*	microRNA mir-365	Gene; miRNA;	miRNA
+mir-1781	RF03208	SUPER_13	-	9283709	9283793	+	no	1	0.38	0.0	105.7	7.8e-20	!	*	mir-1781 microRNA precursor family	Gene; miRNA;	miRNA
+mir-193	RF01895	SUPER_13	-	15921215	15921289	+	no	1	0.52	0.0	81.4	7e-16	!	*	microRNA mir-193	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_13	CL00001	15913956	15914027	+	no	1	0.64	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+sno_ZL1	RF02723	SUPER_13	-	11902834	11902692	-	no	1	0.47	0.0	64.9	1.4e-11	!	*	Small nucleolar RNA ZL1	Gene; snRNA; snoRNA; CD-box;	snoRNA
+ACA64	RF01225	SUPER_13	-	5616472	5616347	-	no	1	0.57	0.0	70.6	6.6e-11	!	*	Small nucleolar RNA ACA64	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_13	CL00001	1975967	1975895	-	no	1	0.59	0.0	66.6	1.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+mir-338	RF00686	SUPER_13	-	12208662	12208594	-	no	1	0.42	0.0	68.9	2.9e-10	!	*	microRNA mir-338	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_13	CL00001	12725388	12725469	+	no	1	0.60	0.0	61.7	3.2e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_13	CL00001	2206589	2206519	-	no	1	0.62	0.0	61.6	3.5e-09	!	*	tRNA	Gene; tRNA;	tRNA
+mir-33	RF00667	SUPER_13	-	7219956	7220023	+	no	1	0.60	0.0	57.6	4.3e-09	!	*	microRNA mir-33	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_13	CL00001	12681593	12681512	-	no	1	0.65	0.0	57.3	5.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+mir-1388	RF01945	SUPER_14	-	1979798	1979706	-	no	1	0.54	0.0	96.4	5.9e-19	!	*	microRNA mir-1388	Gene; miRNA;	miRNA
+mir-133	RF00446	SUPER_14	-	3743224	3743153	-	no	1	0.43	0.0	87.6	1.8e-17	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+mir-499	RF00745	SUPER_14	-	15006653	15006732	+	no	1	0.38	0.0	94.0	9e-17	!	*	microRNA mir-499	Gene; miRNA;	miRNA
+mir-124	RF00239	SUPER_14	-	3034687	3034616	-	no	1	0.49	0.0	85.2	9.7e-17	!	*	mir-124 microRNA precursor family	Gene; miRNA;	miRNA
+HAR1A	RF00635	SUPER_14	-	3190569	3190452	-	no	1	0.31	0.3	143.3	1.1e-16	!	*	Highly accelerated region 1A/1B	Gene; lncRNA;	lncRNA
+SNORD12	RF00581	SUPER_14	CL00044	10030111	10030021	-	no	1	0.45	0.0	85.0	1.7e-15	!	*	Small nucleolar SNORD12/SNORD106	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD12	RF00581	SUPER_14	CL00044	10031106	10031016	-	no	1	0.45	0.0	85.0	1.7e-15	!	*	Small nucleolar SNORD12/SNORD106	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-1	RF00103	SUPER_14	-	3755958	3755882	-	no	1	0.38	0.0	76.0	1.2e-12	!	*	mir-1 microRNA precursor family	Gene; miRNA;	miRNA
+K_chan_RES	RF00485	SUPER_14	-	9961028	9961141	+	no	1	0.45	0.0	78.2	1.4e-12	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+SNORD12	RF00581	SUPER_14	CL00044	10032298	10032209	-	no	1	0.53	0.0	72.0	6.5e-12	!	*	Small nucleolar SNORD12/SNORD106	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-133	RF00446	SUPER_14	-	3743153	3743224	+	no	1	0.43	0.0	62.8	2.4e-10	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_14	CL00001	18706282	18706353	+	no	1	0.61	0.0	62.3	2.2e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_14	CL00001	15118956	15119027	+	no	1	0.61	0.0	61.4	3.9e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_14	CL00001	1936287	1936358	+	no	1	0.65	0.0	56.9	7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+U2	RF00004	SUPER_15	CL00006	12794870	12795059	+	no	1	0.51	0.0	148.1	9.3e-29	!	*	U2 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U4	RF00015	SUPER_15	CL00007	12905114	12905254	+	no	1	0.45	0.0	131.0	6.4e-28	!	*	U4 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U4	RF00015	SUPER_15	CL00007	12904503	12904643	+	no	1	0.50	0.0	128.3	3.2e-27	!	*	U4 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-3618	RF04152	SUPER_15	-	1074367	1074454	+	no	1	0.33	0.0	110.4	6.6e-24	!	*	mir-3618 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA49	RF00562	SUPER_15	-	2861282	2861144	-	no	1	0.45	0.0	124.5	4.2e-23	!	*	Small nucleolar RNA SNORA49	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-1306	RF01014	SUPER_15	-	1074682	1074753	+	no	1	0.60	0.0	106.3	1.4e-21	!	*	microRNA mir-1306	Gene; miRNA;	miRNA
+mir-1729	RF03359	SUPER_15	-	357357	357427	+	no	1	0.51	0.0	98.9	1.8e-20	!	*	mir-1729 microRNA precursor family	Gene; miRNA;	miRNA
+mir-454	RF00746	SUPER_15	-	10467005	10467105	+	no	1	0.41	0.0	88.0	2.9e-17	!	*	microRNA mir-454	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_15	CL00001	5466771	5466700	-	no	1	0.58	0.0	70.1	1.6e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_15	CL00001	5467515	5467587	+	no	1	0.53	0.0	69.8	1.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+mir-301	RF02061	SUPER_15	-	10460419	10460503	+	no	1	0.41	0.0	68.9	2e-11	!	*	microRNA mir-301	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_15	CL00001	5468295	5468366	+	no	1	0.58	0.0	68.5	4.4e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD125	RF01200	SUPER_15	CL00067	15430029	15429925	-	no	1	0.53	0.0	64.6	1.1e-08	!	*	Small nucleolar RNA SNORD125	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_15	CL00001	5467012	5467083	+	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_15	CL00001	5467853	5467924	+	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+mir-130	RF00258	SUPER_15	-	10459176	10459254	+	no	1	0.43	0.0	59.6	4.1e-08	!	*	mir-130 microRNA precursor family	Gene; miRNA;	miRNA
+bZIP	RF04247	SUPER_15	-	10075899	10075823	-	no	1	0.64	0.0	61.0	5.5e-08	!	*	bZIP non canonical Hac1/Xbp1 intron	Gene; sRNA;	other ncRNA gene
+SNORA77	RF00599	SUPER_15	-	1111016	1111148	+	no	1	0.47	0.0	54.9	1.2e-06	!	*	Small nucleolar RNA SNORA77	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+U6	RF00026	SUPER_16	CL00009	10094863	10094969	+	no	1	0.46	0.0	118.8	9.6e-29	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SCARNA16	RF00424	SUPER_16	-	9117008	9117187	+	no	1	0.63	0.0	130.9	1.2e-26	!	*	Small Cajal body specific RNA 16	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-365	RF00659	SUPER_16	-	3198568	3198653	+	no	1	0.42	0.0	111.1	2.7e-22	!	*	microRNA mir-365	Gene; miRNA;	miRNA
+mir-3064	RF03840	SUPER_16	-	3818059	3817994	-	no	1	0.41	0.0	83.1	2.2e-16	!	*	mir-3064 microRNA precursor family	Gene; miRNA;	miRNA
+mir-193	RF01895	SUPER_16	-	3182530	3182604	+	no	1	0.57	0.0	81.5	6.6e-16	!	*	microRNA mir-193	Gene; miRNA;	miRNA
+mir-338	RF00686	SUPER_16	-	6856519	6856587	+	no	1	0.48	0.0	81.2	1.9e-13	!	*	microRNA mir-338	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_16	CL00001	10092092	10092021	-	no	1	0.46	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	466089	466017	-	no	1	0.63	0.0	69.2	2.7e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	3169918	3169989	+	no	1	0.65	0.0	69.1	2.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	465471	465543	+	no	1	0.53	0.0	68.4	4.7e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	10092833	10092762	-	no	1	0.50	0.0	68.3	5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	461711	461783	+	no	1	0.56	0.0	68.2	5.4e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	467572	467500	-	no	1	0.59	0.0	67.4	8.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	462078	462150	+	no	1	0.60	0.0	67.4	8.8e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	466564	466636	+	no	1	0.60	0.0	67.4	8.8e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	14469264	14469183	-	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	14480603	14480522	-	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	14490779	14490860	+	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	14503302	14503221	-	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	14514668	14514587	-	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	14526040	14525959	-	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_16	CL00001	3938845	3938917	+	no	1	0.60	0.0	63.9	8.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+LSU_rRNA_eukarya	RF02543	SUPER_16	CL00112	4132462	4132082	-	no	1	0.40	0.1	56.2	8.7e-09	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SNORA76	RF00598	SUPER_16	CL00034	3683718	3683852	+	no	1	0.64	0.0	72.3	1.9e-08	!	*	Small nucleolar RNA SNORA76	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_16	CL00001	10094192	10094121	-	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORND104	RF00289	SUPER_16	CL00077	3683470	3683532	+	no	1	0.51	0.0	46.4	1.2e-06	!	*	Small nucleolar RNA SNORD104	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U3	RF00012	SUPER_17	CL00100	9606429	9606220	-	no	1	0.64	1.9	151.5	1.4e-32	!	*	Small nucleolar RNA U3	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U3	RF00012	SUPER_17	CL00100	9607525	9607316	-	no	1	0.64	1.9	151.5	1.4e-32	!	*	Small nucleolar RNA U3	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U3	RF00012	SUPER_17	CL00100	9609553	9609344	-	no	1	0.64	1.9	151.5	1.4e-32	!	*	Small nucleolar RNA U3	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U3	RF00012	SUPER_17	CL00100	9611126	9610917	-	no	1	0.64	1.9	151.5	1.4e-32	!	*	Small nucleolar RNA U3	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-142	RF01896	SUPER_17	-	908869	908785	-	no	1	0.44	0.0	114.0	2.8e-22	!	*	microRNA mir-142	Gene; miRNA;	miRNA
+mir-21	RF00658	SUPER_17	-	9990702	9990773	+	no	1	0.47	0.0	99.2	2.9e-21	!	*	microRNA mir-21	Gene; miRNA;	miRNA
+mir-144	RF00682	SUPER_17	-	7979765	7979688	-	no	1	0.47	0.0	98.2	4.4e-21	!	*	microRNA mir-144	Gene; miRNA;	miRNA
+SNORA22	RF00414	SUPER_17	-	6605548	6605679	+	no	1	0.38	0.0	128.0	8e-21	!	*	Small nucleolar RNA SNORA22	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-301	RF02061	SUPER_17	-	9758712	9758629	-	no	1	0.39	0.0	100.0	4.1e-20	!	*	microRNA mir-301	Gene; miRNA;	miRNA
+snoZ30	RF00288	SUPER_17	-	5907349	5907252	-	no	1	0.44	0.0	98.8	2.5e-18	!	*	Z30 small nucleolar RNA	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-22	RF00653	SUPER_17	-	7376956	7376870	-	no	1	0.46	0.0	81.1	2.9e-17	!	*	microRNA mir-22	Gene; miRNA;	miRNA
+mir-451	RF00722	SUPER_17	-	7979496	7979426	-	no	1	0.59	0.0	77.7	2.4e-14	!	*	microRNA mir-451	Gene; miRNA;	miRNA
+mir-142	RF01896	SUPER_17	-	908786	908870	+	no	1	0.44	0.0	75.3	4e-12	!	*	microRNA mir-142	Gene; miRNA;	miRNA
+SNORD49	RF00277	SUPER_17	CL00062	7095303	7095229	-	no	1	0.41	0.0	68.9	1.2e-11	!	*	Small nucleolar RNA SNORD49	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_17	CL00001	766648	766567	-	no	1	0.57	0.0	68.7	3.8e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_17	CL00001	6805142	6805212	+	no	1	0.62	0.0	66.6	1.4e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD65	RF00571	SUPER_17	CL00057	7094376	7094303	-	no	1	0.41	0.0	69.1	2.5e-10	!	*	Small nucleolar RNA SNORD65	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA15	RF00398	SUPER_17	-	6606679	6606814	+	no	1	0.44	0.0	74.7	3.1e-10	!	*	Small nucleolar RNA SNORA15	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_17	CL00001	765671	765742	+	no	1	0.62	0.0	60.8	5.8e-09	!	*	tRNA	Gene; tRNA;	tRNA
+mir-130	RF00258	SUPER_17	-	9759817	9759734	-	no	1	0.43	0.0	52.1	4e-06	!	*	mir-130 microRNA precursor family	Gene; miRNA;	miRNA
+snoZ17	RF00266	SUPER_17	CL00053	7895136	7895208	+	no	1	0.47	0.0	56.1	4.2e-06	!	*	Small nucleolar RNA Z17	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD91	RF00580	SUPER_17	-	7667039	7666947	-	no	1	0.56	0.0	55.6	8.5e-06	!	*	Small nucleolar RNA SNORD91 family	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD91	RF00580	SUPER_17	-	7668355	7668263	-	no	1	0.56	0.0	55.6	8.5e-06	!	*	Small nucleolar RNA SNORD91 family	Gene; snRNA; snoRNA; CD-box;	snoRNA
+NRON	RF00636	SUPER_18	-	12956397	12956028	-	no	1	0.38	1.4	372.0	3e-106	!	*	ncRNA Repressor of NFAT (nuclear factor of activated T cells)	Gene;	other ncRNA gene
+U6atac	RF00619	SUPER_18	CL00009	9122530	9122403	-	no	1	0.48	0.0	134.4	2.9e-31	!	*	U6atac minor spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-455	RF00709	SUPER_18	-	5999167	5999250	+	no	1	0.56	0.0	116.8	6.8e-26	!	*	mir-455 microRNA precursor family	Gene; miRNA;	miRNA
+mir-199	RF00144	SUPER_18	-	6410022	6410101	+	no	1	0.50	0.0	100.6	6.4e-21	!	*	mir-199 microRNA precursor	Gene; miRNA;	miRNA
+mir-126	RF00701	SUPER_18	-	9891102	9891030	-	no	1	0.47	0.0	95.2	1.7e-16	!	*	microRNA mir-126	Gene; miRNA;	miRNA
+mir-181	RF00076	SUPER_18	-	12299407	12299488	+	no	1	0.43	0.0	83.6	2.6e-16	!	*	mir-181 microRNA precursor	Gene; miRNA;	miRNA
+SNORA65	RF00302	SUPER_18	CL00042	2032980	2033108	+	no	1	0.50	0.0	102.2	3e-16	!	*	Small nucleolar RNA SNORA65	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-181	RF00076	SUPER_18	-	12301205	12301285	+	no	1	0.43	0.0	77.2	1.9e-14	!	*	mir-181 microRNA precursor	Gene; miRNA;	miRNA
+mir-219	RF00251	SUPER_18	-	6308822	6308902	+	no	1	0.49	0.0	73.4	2.1e-13	!	*	mir-219 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA65	RF00302	SUPER_18	CL00042	2032405	2032533	+	no	1	0.60	0.0	89.1	3e-13	!	*	Small nucleolar RNA SNORA65	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA17	RF00560	SUPER_18	CL00029	9848159	9848291	+	no	1	0.51	0.0	81.0	3.9e-12	!	*	Small nucleolar RNA SNORA17	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_18	CL00001	1712444	1712516	+	no	1	0.53	0.0	70.1	1.6e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD36	RF00049	SUPER_18	CL00051	8649337	8649409	+	no	1	0.36	0.0	84.5	2.4e-11	!	*	Small nucleolar RNA SNORD36	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA17	RF00560	SUPER_18	CL00029	9848862	9848995	+	no	1	0.52	0.0	70.4	1.3e-09	!	*	Small nucleolar RNA SNORA17	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD24	RF00069	SUPER_18	-	8647431	8647503	+	no	1	0.44	0.0	71.2	5.1e-09	!	*	Small nucleolar RNA SNORD24	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-126	RF00701	SUPER_18	-	9891030	9891102	+	no	1	0.47	0.0	65.3	6.3e-09	!	*	microRNA mir-126	Gene; miRNA;	miRNA
+SNORD36	RF00049	SUPER_18	CL00051	8648815	8648891	+	no	1	0.39	0.0	72.1	1.6e-08	!	*	Small nucleolar RNA SNORD36	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_18	CL00001	6347119	6347208	+	no	1	0.58	0.0	58.7	2.2e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD62	RF00153	SUPER_18	CL00068	7830133	7830218	+	no	1	0.44	0.0	53.0	2.3e-06	!	*	Small nucleolar RNA SNORD62	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SSU_rRNA_eukarya	RF01960	SUPER_19	CL00111	408389	408856	+	no	1	0.38	16.3	148.7	7e-39	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+mir-8	RF00241	SUPER_19	CL00138	6280932	6280999	+	no	1	0.35	0.0	72.2	1.6e-12	!	*	mir-8/mir-141/mir-200 microRNA precursor family	Gene; miRNA;	miRNA
+mir-551	RF00892	SUPER_19	-	8831025	8830952	-	no	1	0.53	0.0	67.4	5.9e-12	!	*	microRNA mir-551	Gene; miRNA;	miRNA
+mir-8	RF00241	SUPER_19	CL00138	6283400	6283468	+	no	1	0.41	0.0	69.9	6.6e-12	!	*	mir-8/mir-141/mir-200 microRNA precursor family	Gene; miRNA;	miRNA
+mir-34	RF00456	SUPER_19	CL00087	5084096	5084173	+	no	1	0.42	0.0	63.3	2.3e-10	!	*	mir-34 microRNA precursor family	Gene; miRNA;	miRNA
+mir-8	RF00241	SUPER_19	CL00138	6286323	6286391	+	no	1	0.38	0.0	60.1	4e-09	!	*	mir-8/mir-141/mir-200 microRNA precursor family	Gene; miRNA;	miRNA
+uc_338	RF02271	SUPER_20	-	3022648	3022471	-	no	1	0.52	0.0	143.5	4.3e-34	!	*	TUC338	Cis-reg;	cis-regulatory element
+SNORA21	RF00412	SUPER_20	CL00031	1845436	1845568	+	no	1	0.54	0.0	99.5	1.6e-17	!	*	Small nucleolar RNA SNORA21	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-196	RF00256	SUPER_20	-	2689176	2689101	-	no	1	0.33	0.0	78.2	4.7e-15	!	*	mir-196 microRNA precursor family	Gene; miRNA;	miRNA
+mir-10	RF00104	SUPER_20	-	2664850	2664776	-	no	1	0.39	0.0	73.1	6.9e-15	!	*	mir-10 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_20	CL00001	1843911	1843982	+	no	1	0.58	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1849038	1849109	+	no	1	0.58	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1855368	1855439	+	no	1	0.58	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1841606	1841677	+	no	1	0.56	0.0	70.3	1.4e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	2848084	2848155	+	no	1	0.51	0.0	70.0	1.7e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1849547	1849618	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1850013	1850084	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1850478	1850549	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1850966	1851037	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1851402	1851473	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1855877	1855948	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1856342	1856413	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1856830	1856901	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1857266	1857337	+	no	1	0.57	0.0	68.7	3.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1898428	1898355	-	no	1	0.61	0.0	68.4	4.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1848681	1848752	+	no	1	0.60	0.0	67.4	8.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_20	CL00001	1855011	1855082	+	no	1	0.60	0.0	67.4	8.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+NBR2	RF02153	SUPER_20	-	269300	269238	-	no	1	0.33	0.0	74.0	4.2e-07	!	*	Neighbour of BRCA1 gene 2 converved region	Gene; lncRNA;	lncRNA
+SNORA73	RF00045	SUPER_21	CL00078	4968134	4968339	+	no	1	0.63	0.0	184.4	5.8e-45	!	*	Small nucleolar RNA SNORA73 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA55	RF00431	SUPER_21	-	3324490	3324358	-	no	1	0.50	0.0	125.9	3e-25	!	*	Small nucleolar RNA SNORA55	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA55	RF00431	SUPER_21	-	3325789	3325657	-	no	1	0.48	0.0	122.7	2e-24	!	*	Small nucleolar RNA SNORA55	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA55	RF00431	SUPER_21	-	3326446	3326314	-	no	1	0.49	0.0	111.1	2e-21	!	*	Small nucleolar RNA SNORA55	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SCARNA1	RF00553	SUPER_21	-	7964992	7965157	+	no	1	0.44	0.0	127.2	1.1e-19	!	*	Small Cajal body specific RNA 1	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-30	RF00131	SUPER_21	-	2570807	2570884	+	no	1	0.45	0.0	82.3	1e-15	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+mir-124	RF00239	SUPER_21	-	5034988	5035058	+	no	1	0.51	0.0	76.6	2.8e-14	!	*	mir-124 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA44	RF00405	SUPER_21	CL00036	5102180	5102050	-	no	1	0.53	0.0	79.5	2.4e-13	!	*	Small nucleolar RNA SNORA44	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA61	RF00420	SUPER_21	-	5101828	5101694	-	no	1	0.49	0.0	84.6	7e-13	!	*	Small nucleolar RNA SNORA61	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA16	RF00190	SUPER_21	CL00021	5103116	5102973	-	no	1	0.60	0.0	82.7	7.4e-13	!	*	Small nucleolar RNA SNORA16B/SNORA16A family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD103	RF00188	SUPER_21	-	6419186	6419103	-	no	1	0.49	0.0	74.1	1.8e-12	!	*	Small nucleolar RNA SNORD103/SNORD85	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-133	RF00446	SUPER_21	-	1732627	1732698	+	no	1	0.54	0.0	68.9	4.1e-12	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD99	RF00608	SUPER_21	CL00064	5101114	5101044	-	no	1	0.56	0.0	72.3	5.1e-12	!	*	Small nucleolar RNA SNORD99	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD103	RF00188	SUPER_21	-	6394142	6394057	-	no	1	0.57	0.0	67.0	1.6e-10	!	*	Small nucleolar RNA SNORD103/SNORD85	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-30	RF00131	SUPER_21	-	2573500	2573574	+	no	1	0.52	0.0	63.1	3e-10	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+mir-1	RF00103	SUPER_21	-	1732480	1732558	+	no	1	0.43	0.0	61.4	9.4e-09	!	*	mir-1 microRNA precursor family	Gene; miRNA;	miRNA
+K_chan_RES	RF00485	SUPER_22	-	5720753	5720866	+	no	1	0.61	0.0	113.3	1.1e-21	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+mir-205	RF00656	SUPER_22	-	1665350	1665277	-	no	1	0.46	0.0	92.7	1.9e-20	!	*	microRNA mir-205	Gene; miRNA;	miRNA
+K_chan_RES	RF00485	SUPER_22	-	5795766	5795879	+	no	1	0.58	0.0	103.1	5e-19	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+K_chan_RES	RF00485	SUPER_22	-	5751443	5751556	+	no	1	0.54	0.0	103.0	5.3e-19	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+K_chan_RES	RF00485	SUPER_22	-	5892330	5892217	-	no	1	0.63	0.0	98.1	9.8e-18	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+K_chan_RES	RF00485	SUPER_22	-	1314567	1314679	+	no	1	0.52	0.0	86.3	1.1e-14	!	*	Potassium channel RNA editing signal	Cis-reg;	cis-regulatory element
+mir-135	RF00246	SUPER_22	-	3041276	3041362	+	no	1	0.46	0.0	77.3	1.1e-13	!	*	mir-135 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_22	CL00001	3467849	3467921	+	no	1	0.56	0.0	74.1	1.3e-12	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_22	CL00001	3468164	3468092	-	no	1	0.56	0.0	74.1	1.3e-12	!	*	tRNA	Gene; tRNA;	tRNA
+mir-29	RF00074	SUPER_22	-	2222844	2222913	+	no	1	0.41	0.0	73.4	1.4e-12	!	*	mir-29 microRNA precursor	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_22	CL00148	5489337	5489424	+	no	1	0.41	0.0	72.3	1.6e-11	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_22	CL00001	3058090	3058161	+	no	1	0.61	0.0	67.7	7.4e-11	!	*	tRNA	Gene; tRNA;	tRNA
+mir-29	RF00074	SUPER_22	-	2223729	2223796	+	no	1	0.43	0.0	65.9	1.8e-10	!	*	mir-29 microRNA precursor	Gene; miRNA;	miRNA
+let-7	RF00027	SUPER_22	CL00148	5489134	5489214	+	no	1	0.42	0.0	64.9	1.5e-09	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-10	RF00104	SUPER_23	-	4165075	4165006	-	no	1	0.44	0.0	72.7	8.9e-15	!	*	mir-10 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD14	RF00016	SUPER_23	-	4485039	4484943	-	no	1	0.45	0.0	74.7	1.3e-12	!	*	Small nucleolar RNA SNORD14	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD14	RF00016	SUPER_23	-	4483988	4483892	-	no	1	0.46	0.0	74.2	1.8e-12	!	*	Small nucleolar RNA SNORD14	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD14	RF00016	SUPER_23	-	4485552	4485462	-	no	1	0.45	0.0	73.6	2.6e-12	!	*	Small nucleolar RNA SNORD14	Gene; snRNA; snoRNA; CD-box;	snoRNA
+let-7	RF00027	SUPER_23	CL00148	4154410	4154335	-	no	1	0.42	0.0	70.8	4e-11	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-34	RF00456	SUPER_23	CL00087	2591983	2591913	-	no	1	0.44	0.0	64.1	1.4e-10	!	*	mir-34 microRNA precursor family	Gene; miRNA;	miRNA
+mir-34	RF00456	SUPER_23	CL00087	2591302	2591236	-	no	1	0.42	0.0	63.8	1.7e-10	!	*	mir-34 microRNA precursor family	Gene; miRNA;	miRNA
+mir-2188	RF03255	SUPER_24	-	4696392	4696315	-	no	1	0.47	0.0	96.2	2e-18	!	*	mir-2188 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD45	RF00279	SUPER_24	-	6479089	6479005	-	no	1	0.39	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	SUPER_24	-	6573479	6573395	-	no	1	0.39	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	SUPER_24	-	6481759	6481677	-	no	1	0.42	0.0	59.7	6.6e-08	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	SUPER_24	-	6576141	6576059	-	no	1	0.42	0.0	59.7	6.6e-08	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+snoU13	RF01210	SUPER_24	CL00081	2930050	2930145	+	no	1	0.61	0.0	55.4	5.8e-07	!	*	Small nucleolar RNA U13	Gene; snRNA; snoRNA; CD-box;	snoRNA
+U6	RF00026	SUPER_25	CL00009	5776660	5776554	-	no	1	0.46	0.0	118.8	9.6e-29	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+U6	RF00026	SUPER_25	CL00009	5850590	5850484	-	no	1	0.46	0.0	118.8	9.6e-29	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+Antizyme_FSE	RF00381	SUPER_25	-	1899503	1899561	+	no	1	0.59	0.0	88.3	1.6e-17	!	*	Antizyme RNA frameshifting stimulation element	Cis-reg; frameshift_element;	cis-regulatory element
+mir-7	RF00053	SUPER_25	-	3164230	3164319	+	no	1	0.46	0.0	79.4	7.3e-14	!	*	mir-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-204	RF00646	SUPER_25	-	1491927	1491840	-	no	1	0.65	0.0	67.2	7.9e-13	!	*	microRNA mir-204	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_25	CL00001	5393718	5393790	+	no	1	0.53	0.0	69.8	1.9e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_25	CL00001	5393494	5393421	-	no	1	0.61	0.0	68.4	4.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+mir-9	RF00237	SUPER_25	-	4791667	4791592	-	no	1	0.36	0.0	73.2	1e-10	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_25	CL00001	3130115	3130043	-	no	1	0.59	0.0	65.0	3.9e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_25	CL00001	3129648	3129719	+	no	1	0.57	0.0	63.6	9.7e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SCARNA4	RF00423	SUPER_26	CL00019	241086	241214	+	no	1	0.47	0.0	101.6	3.8e-17	!	*	Small Cajal body specific RNA 4	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+SNORA58	RF00418	SUPER_26	CL00036	693760	693626	-	no	1	0.47	0.0	94.7	2.7e-15	!	*	Small nucleolar RNA SNORA58	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-190	RF00672	SUPER_26	CL00089	725457	725533	+	no	1	0.34	0.0	81.1	5.5e-13	!	*	microRNA mir-190	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_26	CL00001	3194589	3194662	+	no	1	0.61	0.0	69.0	3.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+mir-7	RF00053	SUPER_26	-	964148	964056	-	no	1	0.55	0.0	65.9	3.4e-10	!	*	mir-7 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_26	CL00001	1831405	1831476	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+mir-196	RF00256	SUPER_27	-	816284	816211	-	no	1	0.42	0.0	85.5	3.5e-17	!	*	mir-196 microRNA precursor family	Gene; miRNA;	miRNA
+mir-196	RF00256	SUPER_27	-	1004002	1004075	+	no	1	0.42	0.0	85.5	3.5e-17	!	*	mir-196 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD59	RF00273	SUPER_27	CL00065	2746002	2745928	-	no	1	0.47	0.0	72.5	2.4e-12	!	*	Small nucleolar RNA SNORD59	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_27	CL00001	372302	372230	-	no	1	0.58	0.0	70.9	9.3e-12	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	369200	369128	-	no	1	0.55	0.0	70.9	9.6e-12	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA2	RF00410	SUPER_27	CL00021	622377	622249	-	no	1	0.57	0.0	84.5	1.4e-11	!	*	Small nucleolar RNA SNORA2/SNORA34 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA2	RF00410	SUPER_27	CL00021	1833997	1833869	-	no	1	0.57	0.0	84.5	1.4e-11	!	*	Small nucleolar RNA SNORA2/SNORA34 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_27	CL00001	367717	367644	-	no	1	0.61	0.0	68.4	4.5e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	396405	396333	-	no	1	0.53	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	398438	398366	-	no	1	0.53	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	399621	399693	+	no	1	0.53	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	446348	446276	-	no	1	0.53	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	2624210	2624291	+	no	1	0.59	0.0	66.0	2.2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	395799	395727	-	no	1	0.49	0.0	65.9	2.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	397192	397120	-	no	1	0.49	0.0	65.9	2.3e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	391233	391161	-	no	1	0.62	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	393172	393100	-	no	1	0.62	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	398836	398908	+	no	1	0.62	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	445983	445911	-	no	1	0.62	0.0	65.1	3.8e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA2	RF00410	SUPER_27	CL00021	616803	616675	-	no	1	0.59	0.0	77.3	5.5e-10	!	*	Small nucleolar RNA SNORA2/SNORA34 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA2	RF00410	SUPER_27	CL00021	1828425	1828297	-	no	1	0.59	0.0	77.3	5.5e-10	!	*	Small nucleolar RNA SNORA2/SNORA34 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+tRNA	RF00005	SUPER_27	CL00001	370634	370562	-	no	1	0.53	0.0	64.5	5.6e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD59	RF00273	SUPER_27	CL00065	2746950	2746876	-	no	1	0.49	0.0	63.5	8.5e-10	!	*	Small nucleolar RNA SNORD59	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_27	CL00001	370190	370271	+	no	1	0.65	0.0	57.3	5.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	354014	354085	+	no	1	0.65	0.0	56.9	7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	393594	393523	-	no	1	0.65	0.0	56.9	7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	400216	400145	-	no	1	0.65	0.0	56.9	7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	372089	372018	-	no	1	0.61	0.0	56.7	7.7e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	397772	397843	+	no	1	0.65	0.0	56.2	1.1e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	397562	397491	-	no	1	0.65	0.0	56.0	1.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	399096	399203	+	no	1	0.60	0.0	53.2	7.2e-07	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	368577	368506	-	no	1	0.60	0.0	52.4	1.2e-06	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_27	CL00001	353548	353655	+	no	1	0.57	0.0	50.6	3.7e-06	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	88740	88812	+	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	321477	321405	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	390854	390782	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	454703	454631	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	622051	621979	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1072259	1072187	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1176117	1176045	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1360197	1360125	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1432666	1432594	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1517856	1517784	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1639389	1639317	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1744964	1744892	-	no	1	0.55	0.0	67.0	1.1e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	90003	90074	+	no	1	0.61	0.0	62.6	1.8e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	389592	389521	-	no	1	0.58	0.0	60.8	5.7e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	211251	211180	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	320225	320154	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	453440	453369	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	620789	620718	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1174854	1174783	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1358945	1358874	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1431403	1431332	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1516593	1516522	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1638126	1638055	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1743701	1743630	-	no	1	0.60	0.0	59.3	1.5e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	212514	212441	-	no	1	0.54	0.0	58.4	2.6e-08	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_29	CL00001	1070996	1070925	-	no	1	0.58	0.0	54.1	3.9e-07	!	*	tRNA	Gene; tRNA;	tRNA
+uc_338	RF02271	SUPER_30	-	679224	679039	-	no	1	0.56	0.0	174.9	4.6e-43	!	*	TUC338	Cis-reg;	cis-regulatory element
+mir-199	RF00144	SUPER_30	-	783331	783412	+	no	1	0.50	0.0	90.7	4e-18	!	*	mir-199 microRNA precursor	Gene; miRNA;	miRNA
+PCA3_2	RF01894	SUPER_Z	-	42812446	42812043	-	no	1	0.33	18.7	198.2	2.3e-41	!	*	Prostate cancer antigen RNA 3 conserved region 2	Gene; lncRNA;	lncRNA
+PART1_2	RF02160	SUPER_Z	-	22748645	22748929	+	no	1	0.41	0.5	156.2	3.7e-28	!	*	Prostate androgen-regulated transcript 1 conserved region 2	Gene; lncRNA;	lncRNA
+U6	RF00026	SUPER_Z	CL00009	33908030	33907924	-	no	1	0.46	0.0	109.8	5.1e-26	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SCARNA8	RF00286	SUPER_Z	-	38611100	38610971	-	no	1	0.45	0.0	132.6	9.4e-25	!	*	Small Cajal body specific RNA 8	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-204	RF00646	SUPER_Z	-	42030687	42030776	+	no	1	0.50	0.0	99.3	1.4e-22	!	*	microRNA mir-204	Gene; miRNA;	miRNA
+Hammerhead_HH9	RF02275	SUPER_Z	CL00010	42031695	42031771	+	no	1	0.47	0.0	93.8	2.8e-22	!	*	Hammerhead ribozyme HH9	Gene; ribozyme;	ribozyme
+mir-2131	RF03443	SUPER_Z	-	72713120	72713208	+	no	1	0.45	0.0	108.6	1.3e-20	!	*	mir-2131 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA66	RF00155	SUPER_Z	CL00038	13068059	13067923	-	no	1	0.39	0.0	124.9	2.4e-20	!	*	Small nucleolar RNA SNORA66	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-101	RF00253	SUPER_Z	-	32206298	32206372	+	no	1	0.43	0.0	92.5	2.9e-19	!	*	mir-101 microRNA precursor family	Gene; miRNA;	miRNA
+mir-122	RF00684	SUPER_Z	-	400840	400768	-	no	1	0.44	0.0	99.6	3.1e-19	!	*	mir-122 microRNA precursor	Gene; miRNA;	miRNA
+mir-24	RF00178	SUPER_Z	-	47252633	47252702	+	no	1	0.50	0.0	88.8	3e-18	!	*	mir-24 microRNA precursor family	Gene; miRNA;	miRNA
+mir-2954	RF03446	SUPER_Z	-	72725788	72725726	-	no	1	0.57	0.0	98.4	6e-18	!	*	mir-2954 microRNA precursor family	Gene; miRNA;	miRNA
+mir-27	RF00644	SUPER_Z	-	47252082	47252160	+	no	1	0.48	0.0	89.6	1.9e-17	!	*	microRNA mir-27	Gene; miRNA;	miRNA
+mir-7	RF00053	SUPER_Z	-	45571097	45571007	-	no	1	0.36	0.0	91.3	4.2e-17	!	*	mir-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-1426	RF03490	SUPER_Z	-	42302149	42302062	-	no	1	0.42	0.0	88.5	2.4e-15	!	*	mir-1426 microRNA precursor family	Gene; miRNA;	miRNA
+mir-23	RF00642	SUPER_Z	-	47251848	47251921	+	no	1	0.45	0.0	81.3	3.6e-15	!	*	microRNA mir-23	Gene; miRNA;	miRNA
+mir-31	RF00661	SUPER_Z	CL00133	72082827	72082748	-	no	1	0.45	0.0	79.2	8.5e-15	!	*	mir-31 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA47	RF01234	SUPER_Z	-	27752973	27753101	+	no	1	0.41	0.0	85.2	1.3e-14	!	*	Small nucleolar RNA SNORA47	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-9	RF00237	SUPER_Z	-	85253439	85253364	-	no	1	0.34	0.0	85.3	8.7e-14	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD58	RF00151	SUPER_Z	CL00064	3331237	3331305	+	no	1	0.43	0.0	76.3	1.3e-13	!	*	Small nucleolar RNA SNORD58	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD58	RF00151	SUPER_Z	CL00064	3334628	3334700	+	no	1	0.36	0.0	75.3	2.6e-13	!	*	Small nucleolar RNA SNORD58	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_Z	CL00001	28378122	28378049	-	no	1	0.58	0.0	69.5	2.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA13	RF00396	SUPER_Z	CL00028	65507541	65507672	+	no	1	0.42	0.0	81.8	5.2e-11	!	*	Small nucleolar RNA SNORA13	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD121A	RF01191	SUPER_Z	-	10446040	10445956	-	no	1	0.40	0.0	72.3	1.3e-10	!	*	Small nucleolar RNA SNORD121A	Gene; snRNA; snoRNA; CD-box;	snoRNA
+snoZ39	RF00341	SUPER_Z	-	84499580	84499641	+	no	1	0.39	0.0	68.9	3.5e-10	!	*	Small nucleolar RNA Z39	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-9	RF00237	SUPER_Z	-	85253364	85253439	+	no	1	0.34	0.0	67.4	3.1e-09	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_Z	CL00001	36456061	36456132	+	no	1	0.56	0.0	60.8	5.6e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_Z	CL00001	36462344	36462273	-	no	1	0.56	0.0	60.8	5.6e-09	!	*	tRNA	Gene; tRNA;	tRNA
+U11	RF00548	SUPER_Z	CL00005	64307993	64307881	-	no	1	0.56	0.0	67.5	2.8e-08	!	*	U11 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+LSU_rRNA_eukarya	RF02543	SUPER_W	CL00112	33749640	33749442	-	no	1	0.45	0.0	203.9	1.5e-49	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+U1	RF00003	SUPER_W	CL00005	33847122	33846959	-	no	1	0.59	0.0	139.8	1e-33	!	*	U1 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+LSU_rRNA_eukarya	RF02543	SUPER_W	CL00112	22228153	22227730	-	no	1	0.55	0.0	145.7	1.7e-33	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+PART1_2	RF02160	SUPER_W	-	36248943	36248645	-	no	1	0.40	0.5	151.8	3.3e-27	!	*	Prostate androgen-regulated transcript 1 conserved region 2	Gene; lncRNA;	lncRNA
+U3	RF00012	SUPER_W	CL00100	31711737	31711946	+	no	1	0.61	0.1	122.5	4.5e-25	!	*	Small nucleolar RNA U3	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-122	RF00684	SUPER_W	-	405367	405295	-	no	1	0.44	0.0	99.6	3.1e-19	!	*	mir-122 microRNA precursor	Gene; miRNA;	miRNA
+SNORA66	RF00155	SUPER_W	CL00038	27112878	27112742	-	no	1	0.38	0.0	116.5	1.7e-18	!	*	Small nucleolar RNA SNORA66	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-24	RF00178	SUPER_W	-	43688673	43688742	+	no	1	0.47	0.0	88.4	4e-18	!	*	mir-24 microRNA precursor family	Gene; miRNA;	miRNA
+mir-7	RF00053	SUPER_W	-	11011394	11011484	+	no	1	0.38	0.0	92.3	2.2e-17	!	*	mir-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-27	RF00644	SUPER_W	-	43688130	43688208	+	no	1	0.43	0.0	87.3	8.4e-17	!	*	microRNA mir-27	Gene; miRNA;	miRNA
+mir-9	RF00237	SUPER_W	-	24996884	24996809	-	no	1	0.34	0.0	85.3	8.7e-14	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD58	RF00151	SUPER_W	CL00064	3336365	3336433	+	no	1	0.43	0.0	76.3	1.3e-13	!	*	Small nucleolar RNA SNORD58	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA47	RF01234	SUPER_W	-	29102295	29102424	+	no	1	0.42	0.0	80.7	1.9e-13	!	*	Small nucleolar RNA SNORA47	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-23	RF00642	SUPER_W	-	43687908	43687981	+	no	1	0.42	0.0	75.2	1.9e-13	!	*	microRNA mir-23	Gene; miRNA;	miRNA
+SNORD58	RF00151	SUPER_W	CL00064	3339756	3339828	+	no	1	0.36	0.0	75.3	2.6e-13	!	*	Small nucleolar RNA SNORD58	Gene; snRNA; snoRNA; CD-box;	snoRNA
+LSU_rRNA_eukarya	RF02543	SUPER_W	CL00112	33749350	33748946	-	no	1	0.59	0.4	67.5	6.3e-12	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+tRNA	RF00005	SUPER_W	CL00001	20049881	20049809	-	no	1	0.58	0.0	67.2	9.8e-11	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD121A	RF01191	SUPER_W	-	10357401	10357317	-	no	1	0.41	0.0	72.3	1.3e-10	!	*	Small nucleolar RNA SNORD121A	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_W	CL00001	21346502	21346574	+	no	1	0.59	0.0	62.7	1.7e-09	!	*	tRNA	Gene; tRNA;	tRNA
+mir-9	RF00237	SUPER_W	-	24996809	24996884	+	no	1	0.34	0.0	67.4	3.1e-09	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	SUPER_W	CL00001	43301240	43301312	+	no	1	0.62	0.0	60.6	6.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	SUPER_W	CL00001	43343211	43343139	-	no	1	0.62	0.0	60.6	6.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+U5	RF00020	SUPER_W	-	22456088	22456200	+	no	1	0.40	0.0	73.9	6.5e-09	!	*	U5 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+SNORD72	RF00577	SUPER_W	-	18737180	18737100	-	no	1	0.32	0.0	76.4	6.5e-09	!	*	Small nucleolar RNA SNORD72	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	SUPER_W	CL00001	11682103	11682032	-	no	1	0.57	0.0	60.0	9.3e-09	!	*	tRNA	Gene; tRNA;	tRNA
+5S_rRNA	RF00001	SUPER_W	CL00113	24197798	24197922	+	no	1	0.52	0.0	53.6	1.2e-06	!	*	5S ribosomal RNA	Gene; rRNA;	rRNA
+tRNA	RF00005	SUPER_W	CL00001	44868536	44868464	-	no	1	0.53	0.0	50.4	4.3e-06	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD17	RF00567	scaffold_10	-	12026315	12026072	-	no	1	0.59	1.6	125.8	1.3e-27	!	*	Small nucleolar RNA SNORD17	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD17	RF00567	scaffold_10	-	12029404	12029161	-	no	1	0.59	1.3	124.1	3.7e-27	!	*	Small nucleolar RNA SNORD17	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-363	RF01898	scaffold_10	CL00110	2577177	2577098	-	no	1	0.43	0.0	109.0	4.4e-24	!	*	microRNA mir-363	Gene; miRNA;	miRNA
+mir-223	RF00664	scaffold_10	-	11564450	11564346	-	no	1	0.50	0.0	103.4	1.3e-23	!	*	microRNA mir-223	Gene; miRNA;	miRNA
+U6	RF00026	scaffold_10	CL00009	3275084	3275186	+	no	1	0.44	0.0	93.8	3.7e-21	!	*	U6 spliceosomal RNA	Gene; snRNA; splicing;	snRNA
+mir-92	RF00464	scaffold_10	CL00137	2577316	2577236	-	no	1	0.47	0.0	85.8	2.7e-20	!	*	mir-92 microRNA precursor family	Gene; miRNA;	miRNA
+snoU109	RF01233	scaffold_10	-	2737363	2737216	-	no	1	0.39	0.0	122.4	7.6e-19	!	*	Small nucleolar RNA U109	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-2985	RF02095	scaffold_10	-	18382128	18382195	+	no	1	0.35	0.0	87.8	2.3e-16	!	*	mir-2985-2 microRNA precursor	Gene; miRNA;	miRNA
+mir-460	RF00712	scaffold_10	-	895782	895856	+	no	1	0.44	0.0	79.7	5e-16	!	*	microRNA mir-460	Gene; miRNA;	miRNA
+GABA3	RF01803	scaffold_10	-	12630828	12630775	-	no	1	0.54	0.0	76.5	1.4e-15	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+SNORA69	RF00265	scaffold_10	-	17546553	17546422	-	no	1	0.44	0.0	97.3	7.3e-15	!	*	Small nucleolar RNA SNORA69	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-19	RF00245	scaffold_10	CL00110	2577483	2577406	-	no	1	0.42	0.0	82.3	3.5e-13	!	*	mir-19 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	scaffold_10	-	2577954	2577879	-	no	1	0.42	0.0	74.1	4.5e-13	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+mir-15	RF00455	scaffold_10	CL00085	2680027	2679939	-	no	1	0.49	0.0	63.1	2.9e-12	!	^	mir-15 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	scaffold_10	-	2577608	2577530	-	no	1	0.44	0.0	71.0	3.2e-12	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+mir-17	RF00051	scaffold_10	-	2577801	2577720	-	no	1	0.45	0.0	69.2	1e-11	!	*	mir-17 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD61	RF00270	scaffold_10	CL00067	3199627	3199555	-	no	1	0.41	0.0	83.4	5.1e-10	!	*	Small nucleolar RNA SNORD61	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD83	RF00137	scaffold_10	-	12028609	12028534	-	no	1	0.46	0.0	64.2	3.7e-09	!	*	Small nucleolar RNA SNORD83	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA-Sec	RF01852	scaffold_10	CL00001	20934160	20934245	+	no	1	0.56	0.0	62.9	1.1e-08	!	*	Selenocysteine transfer RNA	Gene; tRNA;	tRNA
+SNORD83	RF00137	scaffold_10	-	12024878	12024803	-	no	1	0.45	0.0	59.7	6e-08	!	*	Small nucleolar RNA SNORD83	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-221	RF00651	scaffold_10	-	11950440	11950354	-	no	1	0.51	0.0	51.6	5.4e-07	!	*	microRNA mir-221	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_10	CL00001	21769486	21769601	+	no	1	0.62	0.0	50.2	4.7e-06	!	*	tRNA	Gene; tRNA;	tRNA
+SNORA36	RF00340	scaffold_10	CL00035	12028126	12027992	-	no	1	0.46	0.0	58.0	7.3e-06	!	*	Small nucleolar RNA SNORA36 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-3533	RF03561	scaffold_15	-	4564465	4564548	+	no	1	0.45	0.0	109.8	2.2e-22	!	*	mir-3533 microRNA precursor family	Gene; miRNA;	miRNA
+mir-365	RF00659	scaffold_15	-	12272856	12272941	+	no	1	0.44	0.0	110.4	4.3e-22	!	*	microRNA mir-365	Gene; miRNA;	miRNA
+mir-1781	RF03208	scaffold_15	-	5630069	5630153	+	no	1	0.38	0.0	105.7	7.8e-20	!	*	mir-1781 microRNA precursor family	Gene; miRNA;	miRNA
+mir-193	RF01895	scaffold_15	-	12267575	12267649	+	no	1	0.52	0.0	81.4	7e-16	!	*	microRNA mir-193	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_15	CL00001	12260316	12260387	+	no	1	0.64	0.0	70.5	1.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+sno_ZL1	RF02723	scaffold_15	-	8249194	8249052	-	no	1	0.47	0.0	64.9	1.4e-11	!	*	Small nucleolar RNA ZL1	Gene; snRNA; snoRNA; CD-box;	snoRNA
+ACA64	RF01225	scaffold_15	-	1962832	1962707	-	no	1	0.57	0.0	70.6	6.6e-11	!	*	Small nucleolar RNA ACA64	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-338	RF00686	scaffold_15	-	8555022	8554954	-	no	1	0.42	0.0	68.9	2.9e-10	!	*	microRNA mir-338	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_15	CL00001	9071748	9071829	+	no	1	0.60	0.0	61.7	3.2e-09	!	*	tRNA	Gene; tRNA;	tRNA
+mir-33	RF00667	scaffold_15	-	3566316	3566383	+	no	1	0.60	0.0	57.6	4.3e-09	!	*	microRNA mir-33	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_15	CL00001	9027953	9027872	-	no	1	0.65	0.0	57.3	5.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+mir-143	RF00683	scaffold_19	-	12753669	12753752	+	no	1	0.56	0.0	107.9	1.3e-24	!	*	microRNA mir-143	Gene; miRNA;	miRNA
+mir-145	RF00675	scaffold_19	-	12754095	12754180	+	no	1	0.58	0.0	95.8	2.9e-19	!	*	microRNA mir-145	Gene; miRNA;	miRNA
+SNORA73	RF00045	scaffold_21	CL00078	4968134	4968339	+	no	1	0.63	0.0	184.4	5.8e-45	!	*	Small nucleolar RNA SNORA73 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA55	RF00431	scaffold_21	-	3324490	3324358	-	no	1	0.50	0.0	125.9	3e-25	!	*	Small nucleolar RNA SNORA55	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA55	RF00431	scaffold_21	-	3325789	3325657	-	no	1	0.48	0.0	122.7	2e-24	!	*	Small nucleolar RNA SNORA55	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA55	RF00431	scaffold_21	-	3326446	3326314	-	no	1	0.49	0.0	111.1	2e-21	!	*	Small nucleolar RNA SNORA55	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SCARNA1	RF00553	scaffold_21	-	7964992	7965157	+	no	1	0.44	0.0	127.2	1.1e-19	!	*	Small Cajal body specific RNA 1	Gene; snRNA; snoRNA; scaRNA;	snoRNA
+mir-30	RF00131	scaffold_21	-	2570807	2570884	+	no	1	0.45	0.0	82.3	1e-15	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+mir-124	RF00239	scaffold_21	-	5034988	5035058	+	no	1	0.51	0.0	76.6	2.8e-14	!	*	mir-124 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA44	RF00405	scaffold_21	CL00036	5102180	5102050	-	no	1	0.53	0.0	79.5	2.4e-13	!	*	Small nucleolar RNA SNORA44	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA61	RF00420	scaffold_21	-	5101828	5101694	-	no	1	0.49	0.0	84.6	7e-13	!	*	Small nucleolar RNA SNORA61	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA16	RF00190	scaffold_21	CL00021	5103116	5102973	-	no	1	0.60	0.0	82.7	7.4e-13	!	*	Small nucleolar RNA SNORA16B/SNORA16A family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD103	RF00188	scaffold_21	-	6419186	6419103	-	no	1	0.49	0.0	74.1	1.8e-12	!	*	Small nucleolar RNA SNORD103/SNORD85	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-133	RF00446	scaffold_21	-	1732627	1732698	+	no	1	0.54	0.0	68.9	4.1e-12	!	*	mir-133 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD99	RF00608	scaffold_21	CL00064	5101114	5101044	-	no	1	0.56	0.0	72.3	5.1e-12	!	*	Small nucleolar RNA SNORD99	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD103	RF00188	scaffold_21	-	6394142	6394057	-	no	1	0.57	0.0	67.0	1.6e-10	!	*	Small nucleolar RNA SNORD103/SNORD85	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-30	RF00131	scaffold_21	-	2573500	2573574	+	no	1	0.52	0.0	63.1	3e-10	!	*	mir-30 microRNA precursor	Gene; miRNA;	miRNA
+mir-1	RF00103	scaffold_21	-	1732480	1732558	+	no	1	0.43	0.0	61.4	9.4e-09	!	*	mir-1 microRNA precursor family	Gene; miRNA;	miRNA
+SNORA74	RF00090	scaffold_23	CL00043	855193	854990	-	no	1	0.54	0.0	122.3	6.7e-29	!	*	Small nucleolar RNA SNORA74	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-458	RF00750	scaffold_23	-	8010066	8009989	-	no	1	0.42	0.0	101.4	1.5e-20	!	*	microRNA mir-458	Gene; miRNA;	miRNA
+mir-218	RF00255	scaffold_23	-	3520626	3520707	+	no	1	0.44	0.0	92.3	1.6e-20	!	*	mir-218 microRNA precursor family	Gene; miRNA;	miRNA
+mir-103	RF00129	scaffold_23	-	3686053	3686130	+	no	1	0.46	0.0	94.8	2.5e-20	!	*	mir-103/107 microRNA precursor	Gene; miRNA;	miRNA
+GABA3	RF01803	scaffold_23	-	6737508	6737455	-	no	1	0.48	0.0	76.6	1.3e-15	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-146	RF00691	scaffold_23	-	7481781	7481688	-	no	1	0.44	0.0	80.4	5.9e-15	!	*	microRNA mir-146	Gene; miRNA;	miRNA
+GABA3	RF01803	scaffold_23	-	6850457	6850404	-	no	1	0.48	0.0	71.2	6e-14	!	*	Editing element of GABA-3 exon 9	Cis-reg;	cis-regulatory element
+mir-458	RF00750	scaffold_23	-	8009989	8010066	+	no	1	0.42	0.0	77.2	9.1e-14	!	*	microRNA mir-458	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_23	CL00001	3701208	3701279	+	no	1	0.62	0.0	59.4	1.4e-08	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD63	RF00154	scaffold_23	-	1251046	1251117	+	no	1	0.43	0.0	63.4	4.6e-08	!	*	Small nucleolar RNA SNORD63	Gene; snRNA; snoRNA; CD-box;	snoRNA
+mir-2188	RF03255	scaffold_26	-	4696392	4696315	-	no	1	0.47	0.0	96.2	2e-18	!	*	mir-2188 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD45	RF00279	scaffold_26	-	6479089	6479005	-	no	1	0.39	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_26	-	6573479	6573395	-	no	1	0.39	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_26	-	6481759	6481677	-	no	1	0.42	0.0	59.7	6.6e-08	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_26	-	6576141	6576059	-	no	1	0.42	0.0	59.7	6.6e-08	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+snoU13	RF01210	scaffold_26	CL00081	2930050	2930145	+	no	1	0.61	0.0	55.4	5.8e-07	!	*	Small nucleolar RNA U13	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	scaffold_29	CL00001	1975967	1975895	-	no	1	0.59	0.0	66.6	1.5e-10	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	scaffold_29	CL00001	2206589	2206519	-	no	1	0.62	0.0	61.6	3.5e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	scaffold_36	CL00001	632457	632528	+	no	1	0.60	0.0	58.0	3.3e-08	!	*	tRNA	Gene; tRNA;	tRNA
+LSU_rRNA_eukarya	RF02543	scaffold_40	CL00112	541685	537499	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_40	CL00111	547066	545244	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_40	CL00112	542505	542353	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+SNORD35	RF00211	scaffold_44	CL00056	288215	288123	-	no	1	0.59	0.0	66.9	6.6e-12	!	*	Small nucleolar RNA SNORD35	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD35	RF00211	scaffold_44	CL00056	289134	289042	-	no	1	0.53	0.0	62.2	1.6e-10	!	*	Small nucleolar RNA SNORD35	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA9	RF00411	scaffold_45	CL00027	700113	699974	-	no	1	0.71	4.6	109.1	2.8e-20	!	*	Small nucleolar RNA SNORA9	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA5	RF00392	scaffold_45	CL00024	768830	768692	-	no	1	0.58	0.0	79.0	4e-13	!	*	Small nucleolar RNA SNORA5	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA5	RF00392	scaffold_45	CL00024	762823	762686	-	no	1	0.64	0.0	77.2	1.2e-12	!	*	Small nucleolar RNA SNORA5	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA5	RF00392	scaffold_45	CL00024	761745	761606	-	no	1	0.63	0.0	70.4	6.3e-11	!	*	Small nucleolar RNA SNORA5	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA5	RF00392	scaffold_45	CL00024	758939	758803	-	no	1	0.66	0.0	64.6	1.9e-09	!	*	Small nucleolar RNA SNORA5	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA2	RF00410	scaffold_53	CL00021	64774	64902	+	no	1	0.57	0.0	84.5	1.4e-11	!	*	Small nucleolar RNA SNORA2/SNORA34 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORA2	RF00410	scaffold_53	CL00021	70348	70476	+	no	1	0.59	0.0	77.3	5.5e-10	!	*	Small nucleolar RNA SNORA2/SNORA34 family	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+SNORD56	RF00275	scaffold_60	-	135588	135659	+	no	1	0.49	0.0	55.1	2e-07	!	*	Small nucleolar RNA SNORD56	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD57	RF00274	scaffold_60	CL00058	135900	135968	+	no	1	0.49	0.0	54.3	3.1e-07	!	*	Small nucleolar RNA SNORD57	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORA58	RF00418	scaffold_63	CL00036	104692	104558	-	no	1	0.47	0.0	94.7	2.7e-15	!	*	Small nucleolar RNA SNORA58	Gene; snRNA; snoRNA; HACA-box;	snoRNA
+mir-9	RF00237	scaffold_63	-	525258	525335	+	no	1	0.32	0.0	82.6	4.3e-13	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+mir-190	RF00672	scaffold_63	CL00089	136356	136432	+	no	1	0.34	0.0	81.1	5.5e-13	!	*	microRNA mir-190	Gene; miRNA;	miRNA
+mir-7	RF00053	scaffold_63	-	373857	373765	-	no	1	0.55	0.0	65.9	3.4e-10	!	*	mir-7 microRNA precursor	Gene; miRNA;	miRNA
+mir-9	RF00237	scaffold_63	-	525335	525258	-	no	1	0.32	0.0	63.6	2.9e-08	!	*	mir-9/mir-79 microRNA precursor family	Gene; miRNA;	miRNA
+SNORD59	RF00273	scaffold_66	CL00065	243936	243862	-	no	1	0.47	0.0	72.5	2.4e-12	!	*	Small nucleolar RNA SNORD59	Gene; snRNA; snoRNA; CD-box;	snoRNA
+tRNA	RF00005	scaffold_66	CL00001	118201	118282	+	no	1	0.59	0.0	66.0	2.2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+SNORD59	RF00273	scaffold_66	CL00065	244884	244810	-	no	1	0.49	0.0	63.5	8.5e-10	!	*	Small nucleolar RNA SNORD59	Gene; snRNA; snoRNA; CD-box;	snoRNA
+LSU_rRNA_eukarya	RF02543	scaffold_72	CL00112	13941	9755	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_72	CL00111	19323	17501	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_72	CL00111	1147	1	-	3'	3	0.55	0.0	973.7	4.6e-291	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_72	CL00112	14761	14609	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+tRNA	RF00005	scaffold_82	CL00001	211225	211297	+	no	1	0.58	0.0	73.6	1.7e-12	!	*	tRNA	Gene; tRNA;	tRNA
+mir-129	RF00486	scaffold_86	-	1685	1594	-	no	1	0.57	0.0	103.3	1.7e-21	!	*	mir-129 microRNA precursor family	Gene; miRNA;	miRNA
+LSU_rRNA_eukarya	RF02543	scaffold_88	CL00112	12854	17040	+	no	1	0.68	381.4	2564.8	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_88	CL00112	29969	34155	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_88	CL00111	7482	9304	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_88	CL00111	24592	26414	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_88	CL00112	12022	12174	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_88	CL00112	29131	29283	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+SNORD45	RF00279	scaffold_88	-	319071	318987	-	no	1	0.41	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_88	-	325391	325307	-	no	1	0.41	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_88	-	331712	331628	-	no	1	0.41	0.0	68.3	3.6e-10	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_88	-	321148	321066	-	no	1	0.42	0.0	56.3	5.2e-07	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+SNORD45	RF00279	scaffold_88	-	327470	327388	-	no	1	0.42	0.0	56.3	5.2e-07	!	*	Small nucleolar RNA SNORD45	Gene; snRNA; snoRNA; CD-box;	snoRNA
+LSU_rRNA_eukarya	RF02543	scaffold_94	CL00112	7294	11480	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_94	CL00112	24097	28283	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_94	CL00112	40676	44862	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_94	CL00112	74940	79126	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_94	CL00112	57808	61994	+	no	1	0.68	382.7	2560.6	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_94	CL00111	1922	3744	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_94	CL00111	18725	20547	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_94	CL00111	35304	37126	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_94	CL00111	52436	54258	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_94	CL00111	69568	71390	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_94	CL00112	6478	6630	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_94	CL00112	23281	23433	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_94	CL00112	39860	40012	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_94	CL00112	56992	57144	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_94	CL00112	74124	74276	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+mir-182	RF00702	scaffold_98	CL00093	349023	348947	-	no	1	0.56	0.0	93.8	1.4e-19	!	*	mir-182 microRNA precursor family	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_123	CL00001	170349	170422	+	no	1	0.61	0.0	69.0	3.2e-11	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	scaffold_134	CL00001	46975	47056	+	no	1	0.60	0.0	66.1	2e-10	!	*	tRNA	Gene; tRNA;	tRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	55651	59837	+	no	1	0.68	380.4	2565.0	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	21210	25397	+	no	1	0.68	380.9	2565.0	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	73300	77486	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	107197	111383	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	38737	42924	+	no	1	0.68	380.9	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	3888	8075	+	no	1	0.68	383.1	2558.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	124726	128910	+	no	1	0.68	381.7	2556.1	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	90413	94599	+	no	1	0.68	382.5	2550.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_170	CL00112	141719	145904	+	no	1	0.68	378.0	2542.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	15829	17651	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	33356	35178	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	67922	69744	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	85038	86860	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	101825	103647	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	119352	121174	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	50279	52101	+	no	1	0.56	2.3	1699.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	136345	138169	+	no	1	0.56	2.8	1692.9	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_170	CL00111	1	329	+	5'	2	0.58	0.0	306.0	5.7e-87	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	3058	3210	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	20380	20532	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	37907	38059	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	54819	54971	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	72462	72614	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	89578	89730	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	106365	106517	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	123892	124044	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_170	CL00112	140887	141039	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	81625	85811	+	no	1	0.68	380.4	2565.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	97719	101905	+	no	1	0.68	381.4	2564.2	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	113814	118000	+	no	1	0.68	381.4	2564.2	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	130786	134972	+	no	1	0.68	381.4	2564.2	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	9768	13954	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	28215	32401	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	45555	49741	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_172	CL00112	63652	67838	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	4387	6209	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	40174	41996	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	58268	60090	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	76244	78066	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	92339	94161	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	108433	110255	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	125405	127227	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_172	CL00111	22828	24656	+	no	1	0.56	2.4	1691.7	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	8948	9100	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	27395	27547	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	44735	44887	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	62829	62981	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	80799	80951	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	96893	97045	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	112988	113140	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_172	CL00112	129960	130112	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	128856	133042	+	no	1	0.68	381.4	2564.0	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	7220	11406	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	25395	29581	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	60419	64605	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	111724	115910	+	no	1	0.68	382.7	2560.6	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	77460	81646	+	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	94592	98778	+	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_176	CL00112	43315	47501	+	no	1	0.68	382.5	2538.0	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	1839	3661	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	20014	21836	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	37937	39759	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	55047	56869	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	89220	91042	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	123484	125306	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	72088	73910	+	no	1	0.56	2.8	1697.4	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_176	CL00111	106352	108174	+	no	1	0.56	2.8	1697.4	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	6400	6552	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	24575	24727	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	42497	42649	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	59603	59755	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	76644	76796	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	93776	93928	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	110908	111060	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_176	CL00112	128040	128192	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	116828	121015	+	no	1	0.68	381.8	2563.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	67149	71335	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	100391	104577	+	no	1	0.68	379.8	2561.6	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	83954	88139	+	no	1	0.68	381.1	2560.6	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	32885	37071	+	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	50017	54203	+	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	15870	20057	+	no	1	0.68	382.8	2556.3	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_186	CL00112	1	2924	+	5'	2	0.65	176.5	2237.6	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	10498	12320	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	44645	46467	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	61777	63599	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	78581	80403	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	111444	113266	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	27513	29335	+	no	1	0.56	2.3	1700.9	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_186	CL00111	95006	96828	+	no	1	0.56	2.3	1700.9	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	15055	15207	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	32069	32221	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	49201	49353	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	66333	66485	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	83126	83278	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	99559	99711	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_186	CL00112	115997	116149	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_187	CL00112	90588	94774	+	no	1	0.68	381.4	2563.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_187	CL00112	39225	43411	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_187	CL00112	56357	60543	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_187	CL00112	73456	77642	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_187	CL00112	22093	26279	+	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_187	CL00112	107631	111815	+	no	1	0.68	381.4	2552.2	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	16721	18543	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	33853	35675	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	50985	52807	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	68084	69906	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	119389	121211	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	102257	104080	+	no	1	0.56	2.4	1693.5	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_187	CL00111	85215	87038	+	no	1	0.56	2.5	1613.0	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_187	CL00112	21277	21429	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_187	CL00112	38409	38561	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_187	CL00112	55541	55693	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_187	CL00112	72640	72792	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_187	CL00112	89772	89924	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_187	CL00112	106803	106955	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+mir-196	RF00256	scaffold_252	-	59824	59897	+	no	1	0.42	0.0	85.5	3.5e-17	!	*	mir-196 microRNA precursor family	Gene; miRNA;	miRNA
+LSU_rRNA_eukarya	RF02543	scaffold_272	CL00112	10582	14768	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_272	CL00112	30920	35106	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_272	CL00112	50409	54595	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_272	CL00111	5199	7021	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_272	CL00111	25537	27359	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_272	CL00111	45026	46848	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_272	CL00112	9753	9905	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_272	CL00112	30091	30243	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_272	CL00112	49580	49732	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_320	CL00112	16166	11980	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_320	CL00112	34007	29821	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_320	CL00112	51928	47742	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_320	CL00111	21547	19725	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_320	CL00111	39388	37566	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_320	CL00111	3374	1552	-	no	1	0.56	2.2	1697.9	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_320	CL00112	16986	16834	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_320	CL00112	34827	34675	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_320	CL00112	52748	52596	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_327	CL00112	23644	19457	-	no	1	0.68	381.8	2563.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_327	CL00112	44558	40372	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_327	CL00112	4351	165	-	no	1	0.68	383.6	2560.2	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_327	CL00111	9733	7911	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_327	CL00111	29027	27205	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_327	CL00111	49941	48119	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_327	CL00112	5180	5028	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_327	CL00112	24473	24321	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_327	CL00112	45387	45235	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_350	CL00112	5301	9487	+	no	1	0.68	381.2	2564.3	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_350	CL00112	24248	28434	+	no	1	0.68	381.2	2564.3	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_350	CL00112	42645	46831	+	no	1	0.68	381.2	2564.3	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_350	CL00111	18866	20688	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_350	CL00111	37263	39085	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_350	CL00111	1	1741	+	5'	2	0.56	3.6	1594.7	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_350	CL00112	4471	4623	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_350	CL00112	23418	23570	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_350	CL00112	41815	41967	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+tRNA	RF00005	scaffold_430	CL00001	23709	23639	-	no	1	0.62	0.0	61.6	3.5e-09	!	*	tRNA	Gene; tRNA;	tRNA
+tRNA	RF00005	scaffold_438	CL00001	20586	20657	+	no	1	0.58	0.0	63.0	1.4e-09	!	*	tRNA	Gene; tRNA;	tRNA
+LSU_rRNA_eukarya	RF02543	scaffold_450	CL00112	7371	11557	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_450	CL00112	25546	29732	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_450	CL00111	1990	3812	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_450	CL00111	20165	21987	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_450	CL00112	6551	6703	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_450	CL00112	24726	24878	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_453	CL00112	10425	14611	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_453	CL00112	29498	33684	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_453	CL00111	5042	6864	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_453	CL00111	24115	25937	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_453	CL00112	9596	9748	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_453	CL00112	28669	28821	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+let-7	RF00027	scaffold_507	CL00148	2687	2606	-	no	1	0.51	0.0	75.2	2.7e-12	!	*	let-7 microRNA precursor	Gene; miRNA;	miRNA
+LSU_rRNA_eukarya	RF02543	scaffold_510	CL00112	6007	10193	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_510	CL00112	25703	29558	+	3'	3	0.68	355.1	2468.4	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_510	CL00111	624	2446	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_510	CL00111	20320	22142	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_510	CL00112	5178	5330	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_510	CL00112	24874	25026	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_525	CL00112	3597	7784	+	no	1	0.68	382.0	2563.8	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_525	CL00112	20918	25105	+	no	1	0.68	382.0	2563.8	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_525	CL00111	15537	17359	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_525	CL00112	2767	2919	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_525	CL00112	20088	20240	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_531	CL00112	18303	14117	-	no	1	0.68	381.4	2565.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_531	CL00111	4201	2379	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_531	CL00111	23686	21864	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_531	CL00112	19132	18980	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_533	CL00112	20162	20433	+	no	1	0.57	0.0	51.1	2.2e-07	!	*	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_593	CL00112	1	4160	+	5'	2	0.68	380.3	2533.4	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_593	CL00112	20319	24240	+	no	1	0.67	352.5	2531.3	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_593	CL00111	14936	16758	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_593	CL00112	19490	19642	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+mir-181	RF00076	scaffold_602	-	12950	13032	+	no	1	0.60	0.0	67.8	1e-11	!	*	mir-181 microRNA precursor	Gene; miRNA;	miRNA
+tRNA	RF00005	scaffold_610	CL00001	6789	6708	-	no	1	0.65	0.0	57.3	5.1e-08	!	*	tRNA	Gene; tRNA;	tRNA
+LSU_rRNA_eukarya	RF02543	scaffold_619	CL00112	8941	13127	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_619	CL00111	3560	5382	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_619	CL00112	8121	8273	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_620	CL00112	15388	11202	-	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_620	CL00111	2590	768	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_620	CL00112	16215	16063	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_622	CL00112	12476	8290	-	no	1	0.68	380.4	2565.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_622	CL00111	17793	16040	-	5'	2	0.56	4.3	1593.7	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_622	CL00112	13309	13157	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_623	CL00112	5024	9210	+	no	1	0.68	382.5	2562.9	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_623	CL00111	1	1463	+	5'	2	0.56	3.6	1422.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_623	CL00112	4195	4347	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_625	CL00112	12348	8161	-	no	1	0.68	382.0	2563.8	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_625	CL00111	17321	15907	-	5'	2	0.56	1.3	1354.3	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_625	CL00111	408	1	-	3'	3	0.55	0.0	316.4	3.8e-90	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_625	CL00112	13178	13026	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_627	CL00112	7732	3546	-	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_627	CL00111	13104	11282	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_627	CL00112	8548	8396	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_628	CL00112	3696	7882	+	no	1	0.68	381.4	2564.3	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_628	CL00111	15456	17132	+	3'	3	0.55	0.6	1561.7	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_628	CL00112	2880	3032	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_628	CL00111	1	146	+	5'	2	0.58	0.0	112.8	6.2e-28	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_629	CL00112	15835	11649	-	no	1	0.68	383.5	2559.7	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_629	CL00111	4075	2253	-	no	1	0.56	2.8	1697.4	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_629	CL00112	16651	16499	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_630	CL00112	16904	12718	-	no	1	0.68	381.4	2564.0	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_630	CL00111	5283	3461	-	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_630	CL00112	535	383	-	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA
+LSU_rRNA_eukarya	RF02543	scaffold_633	CL00112	10319	14505	+	no	1	0.68	381.4	2564.2	0	!	^	Eukaryotic large subunit ribosomal RNA	Gene; rRNA;	rRNA
+SSU_rRNA_eukarya	RF01960	scaffold_633	CL00111	4938	6760	+	no	1	0.56	2.5	1702.2	0	!	^	Eukaryotic small subunit ribosomal RNA	Gene; rRNA;	rRNA
+5_8S_rRNA	RF00002	scaffold_633	CL00112	9493	9645	+	no	1	0.57	0.0	144.7	4.5e-35	!	*	5.8S ribosomal RNA	Gene; rRNA;	rRNA

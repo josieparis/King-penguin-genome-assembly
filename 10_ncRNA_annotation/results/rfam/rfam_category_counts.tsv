@@ -1,0 +1,12 @@
+category	published_table_SuppTable8	deoverlapped_all	deoverlapped_Evalue_le_1e-5
+miRNA	269	269	266
+snoRNA	256	270	237
+snRNA	60	60	58
+rRNA	344	344	340
+rRNA (eukaryotic families only)	341	341	337
+lncRNA	16	25	24
+cis-regulatory element	72	83	58
+ribozyme	6	7	7
+tRNA	397	397	355
+other ncRNA gene	14	15	13
+total hits	1434	1470	1358

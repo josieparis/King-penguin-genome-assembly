@@ -1,0 +1,12 @@
+2025-03-13 09:27:05 [INFO]  Start codons used: "ATG"
+2025-03-13 09:27:05 [INFO]  Stop codons used: "TAG, TAA, TGA"
+2025-03-13 09:27:05 [INFO]  Reading hexamer frequency table file: "KP_hexamer.tsv"
+2025-03-13 09:27:05 [INFO]  Process protein-coding RNA file: "../KP_genome_annotation_files/bAptPat1_longest_iso.codingseq.fasta"
+2025-03-13 09:27:05 [INFO]  Protein-coding RNA file "../KP_genome_annotation_files/bAptPat1_longest_iso.codingseq.fasta" is in FASTA format
+2025-03-13 09:27:36 [INFO]  Total 18081 coding sequences finished.
+2025-03-13 09:27:36 [INFO]  Process non-coding RNA file: "novel_proteome_uniprot_filtered.fa"
+2025-03-13 09:27:36 [INFO]  Non-coding RNA file "novel_proteome_uniprot_filtered.fa" is in FASTA format
+2025-03-13 09:27:38 [INFO]  Total 1452 non-coding sequences finished.
+2025-03-13 09:27:38 [INFO]  Wrting to "KP_CPAT.feature.xls"
+2025-03-13 09:27:38 [INFO]  Making logistic regression model from "KP_CPAT.feature.xls" ...
+2025-03-13 09:27:42 [INFO]  The logistic regression model is saved as KP_CPAT.logit.RData.
