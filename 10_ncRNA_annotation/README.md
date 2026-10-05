@@ -4,7 +4,7 @@
 
 | Script | Tag | What |
 |---|---|---|
-| `01_infernal_cmscan_rfam.sh` | original | Infernal 1.1.2 `cmscan --cut_ga --rfam --nohmmonly --clanin` against **Rfam 15** on the curated hap1; `-Z` = 2 × genome length / 10⁶ (29054.15 from `esl-seqstat`); `--fmt 2` table |
+| `01_infernal_cmscan_rfam.sh` | original | Infernal 1.1.2 `cmscan --cut_ga --rfam --nohmmonly --clanin` against **Rfam 15** on the curated hap1; `-Z` = 2 × genome length / 10⁶ (29054.15 from `esl-seqstat`); `--fmt 2` table. Overlapping hits were then resolved with Infernal's overlap annotation and the list was manually curated to give Supplementary Table 8 |
 | `04_rfam_filter_and_categorise.py` | added | de-overlaps the cmscan table with Infernal's own overlap annotation (keeps `olp` `*` and `^`, drops `=`: 1,904 → 1,470 hits), applies the E ≤ 1e-5 threshold (→ 1,358), and assigns every hit to an ncRNA category from the Rfam family type (`data/rfam15_family_types.tsv`, extracted from Rfam 15.0 `family.txt`); also categorises the published table and writes the count comparison |
 | `02_rnammer.sh` | original | RNAmmer 1.2 `-S euk -m lsu,ssu,tsu` to confirm the rRNA subunits |
 | `03_trnascan_se.sh` | original | tRNAscan-SE 2.0.9 (eukaryotic models, Infernal first pass) on the soft-masked genome and, with the same command, on *S. humboldti* GCA_027474245.1 |
@@ -22,7 +22,7 @@
 | de-overlapped (`04_…py`) | `rfam/KP-genome-rfam.deoverlapped.categorised.tsv` | 1,470 | — |
 | de-overlapped, E ≤ 1e-5 (`04_…py`) | `rfam/KP-genome-rfam.deoverlapped.evalue1e-5.categorised.tsv` | 1,358 | — |
 | **published table = Supplementary Table 8** | `annotation/bAptPat1-ncRNA-annotation.tsv.gz`; categorised copy `rfam/SuppTable8_published.categorised.tsv` | 1,434 | — |
-| category counts of the published table | `rfam/rfam_category_counts.tsv` | miRNA 269 · snoRNA 256 · snRNA 60 · rRNA 341 eukaryotic (+3 bacterial/archaeal cross-hits) · lncRNA 16 · cis-regulatory 72 · ribozyme 6 · tRNA 397 (tRNAs are reported from tRNAscan-SE instead) · other genes 14 (7SK, SRP, Y RNA, telomerase RNA, bZIP) | miRNA 281 · snoRNA 253 · snRNA 60 · rRNA 341 · lncRNA 16 · CREs 81 · ribozymes 6 |
+| category counts of the published table (Rfam family type) | `rfam/rfam_category_counts.tsv` | miRNA 269 · snoRNA 256 · snRNA 60 · rRNA 341 eukaryotic (+3 bacterial/archaeal cross-hits) · lncRNA 16 · cis-regulatory 72 · ribozyme 6 · other ncRNA genes 14 (7SK, SRP, Y RNA, telomerase RNA, bZIP) · tRNA 397 (tRNAs are reported from tRNAscan-SE instead) | miRNA 269 · snoRNA 256 · snRNA 60 · rRNA 341 · lncRNA 16 · CREs 72 · ribozymes 6 |
 | rRNA subunits, RNAmmer = Supplementary Table 9 | `rnammer/KP.genome.rnammer.gff`, `rnammer_counts.tsv` | 240 features: 80 18S, 81 28S, 79 5.8S | 341 rRNAs (Rfam count) with subunits confirmed by RNAmmer |
 | tRNAs, king penguin = Supplementary Table 10 | `trnascan/KP.trnascan_output.txt`, `KP.trnascan_stats.txt`, `KP.tRNAs_score_gt50.tsv` | 393 predicted, **358** with score > 50 | 358 |
 | tRNAs, *S. humboldti* | `trnascan/S_humboldti.*`, `S_humboldti.tRNAs_score_gt50.tsv`; `trna_isotype_counts_score_gt50.tsv` | 460 predicted, **389** with score > 50 | 389 |
@@ -31,9 +31,8 @@
 | coding potential | `lncRNA/CPC2_results.tsv`, `PLEK_Results.tsv`, `CPAT_output.ORF_prob*.tsv`, `cpat_model/` | CPC2 non-coding 1,326 · PLEK non-coding 1,195 · CPAT (majority rule) → `lncRNA_classification.tsv` | — |
 | **final lncRNAs** | `lncRNA/final_lncRNA_gene_list.tsv` (= `final_lncRNA_gene_list.reproduced.tsv`), `final_lncRNA_transcript_lengths.tsv`; sequences in `annotation/` | **164 genes** (169 transcripts, 5 genes with two isoforms), mean length 672.6 bp | 164, mean 673 bp |
 
-Notes on the Rfam table. Supplementary Table 8 is the de-overlapped set minus 36 hits that were removed during manual
-curation (scaRNAs, GABA3, several HOX-cluster and other lncRNA conserved regions, one hammerhead ribozyme, one IRES); it
-still contains 110 hits with E > 1e-5. The strict E ≤ 1e-5 table is given next to it so either set can be used. The
-category assignment in `04_rfam_filter_and_categorise.py` follows the Rfam family type field, which is reproducible;
-the miRNA, snoRNA and cis-regulatory counts quoted in the text were obtained by a manual assignment and differ slightly
-(see the table above).
+Notes on the Rfam table. Supplementary Table 8 is the de-overlapped cmscan table after manual curation (36 hits removed:
+scaRNAs, GABA3, several HOX-cluster and other lncRNA conserved regions, one hammerhead ribozyme, one IRES); no E-value
+threshold was applied to it, and 110 of its hits have E > 1e-5. The category counts reported in the paper are those of
+this table, assigned from the Rfam family type by `04_rfam_filter_and_categorise.py`. A strict E ≤ 1e-5 version
+(1,358 hits) is provided alongside for reference only.

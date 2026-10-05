@@ -41,7 +41,7 @@
 | Manual inspection | IGV | 2.16.1 |
 | QuantSeq alignment and counting | STAR; HTSeq | 2.7.11b; 2.0.3 |
 | Expression analysis | DESeq2 (VST; tissue-enhanced log2FC ≥ 5 / ≤ −5; FDR < 0.01) | 1.40.0 |
-| ncRNA detection | Infernal cmscan vs Rfam (overlaps and E-value > 1e-5 discarded) | 1.1.2; Rfam 15 |
+| ncRNA detection | Infernal cmscan vs Rfam (overlapping hits resolved with Infernal's overlap annotation, followed by manual curation) | 1.1.2; Rfam 15 |
 | rRNA confirmation | RNAmmer | 1.2 |
 | tRNA prediction | tRNAscan-SE (Cove score > 50) | 2.0.9 |
 | Novel lncRNAs | minimap2 `--splice`; StringTie; DIAMOND (vs annotated proteins and UniProtKB 2025_01); CPC2; CPAT; PLEK | 2.28; 2.2.1; 0.9.24; 0.1; 3.0.5; 1.2 |
